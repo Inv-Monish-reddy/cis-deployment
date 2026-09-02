@@ -1,0 +1,1536 @@
+MSH|^~\&||SyringePump_Acura S1|||20150407163418||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163418
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||30|min|||||F
+OBX||NM|12^InfuseTimeLeft||22|min|||||F
+OBX||NM|13^TotalVolume||1.31|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163422||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163422
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||30|min|||||F
+OBX||NM|12^InfuseTimeLeft||22|min|||||F
+OBX||NM|13^TotalVolume||1.32|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163433||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163433
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||30|min|||||F
+OBX||NM|12^InfuseTimeLeft||21|min|||||F
+OBX||NM|13^TotalVolume||1.35|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163443||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163443
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||30|min|||||F
+OBX||NM|12^InfuseTimeLeft||21|min|||||F
+OBX||NM|13^TotalVolume||1.38|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163454||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163454
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||30|min|||||F
+OBX||NM|12^InfuseTimeLeft||21|min|||||F
+OBX||NM|13^TotalVolume||1.41|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716355||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716355
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||30|min|||||F
+OBX||NM|12^InfuseTimeLeft||21|min|||||F
+OBX||NM|13^TotalVolume||1.44|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:35:13
+OBX||NM|113^AL||Putter Err||||||F
+ ~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:35:24
+OBX||NM|113^AL||Putter Err||||||F
+ ~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:35:31
+ZDV|Standby||F~MSH|^~\&||SyringePump_Acura S1|||20150407163534||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163534
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||21|min|||||F
+OBX||NM|13^TotalVolume||1.46|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163544||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163544
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||21|min|||||F
+OBX||NM|13^TotalVolume||1.48|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:35:49
+OBX||NM|113^AL||Clamp Err||||||F
+ ~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:35:59
+OBX||NM|113^AL||Clamp Err||||||F
+ ~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:36:6
+ZDV|Standby||F~MSH|^~\&||SyringePump_Acura S1|||2015040716367||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716367
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||21|min|||||F
+OBX||NM|13^TotalVolume||1.49|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163617||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163617
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||20|min|||||F
+OBX||NM|13^TotalVolume||1.52|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163628||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163628
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||20|min|||||F
+OBX||NM|13^TotalVolume||1.55|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163639||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163639
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||20|min|||||F
+OBX||NM|13^TotalVolume||1.58|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163650||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163650
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||20|min|||||F
+OBX||NM|13^TotalVolume||1.61|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716371||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716371
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||20|min|||||F
+OBX||NM|13^TotalVolume||1.64|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163712||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163712
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||19|min|||||F
+OBX||NM|13^TotalVolume||1.67|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163723||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163723
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||19|min|||||F
+OBX||NM|13^TotalVolume||1.70|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163734||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163734
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||19|min|||||F
+OBX||NM|13^TotalVolume||1.73|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163745||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163745
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||19|min|||||F
+OBX||NM|13^TotalVolume||1.76|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163756||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163756
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||19|min|||||F
+OBX||NM|13^TotalVolume||1.79|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716387||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716387
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||19|min|||||F
+OBX||NM|13^TotalVolume||1.82|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163818||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163818
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||18|min|||||F
+OBX||NM|13^TotalVolume||1.85|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163829||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163829
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||18|min|||||F
+OBX||NM|13^TotalVolume||1.88|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163840||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163840
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||18|min|||||F
+OBX||NM|13^TotalVolume||1.91|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163851||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163851
+OBX||NM|10^Rate||10.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||21|min|||||F
+OBX||NM|12^InfuseTimeLeft||18|min|||||F
+OBX||NM|13^TotalVolume||1.94|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:39:2
+ZDV|Standby||F~MSH|^~\&||SyringePump_Acura S1|||20150407163912||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163912
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||13|min|||||F
+OBX||NM|13^TotalVolume||1.97|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163922||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163922
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||13|min|||||F
+OBX||NM|13^TotalVolume||2.00|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407163933||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163933
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||13|min|||||F
+OBX||NM|13^TotalVolume||2.04|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:39:44
+OBX||NM|113^AL||Putter Err||||||F
+ ~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:39:52
+ZDV|Standby||F~MSH|^~\&||SyringePump_Acura S1|||20150407163954||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407163954
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||13|min|||||F
+OBX||NM|13^TotalVolume||2.08|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716404||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716404
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||13|min|||||F
+OBX||NM|13^TotalVolume||2.12|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164015||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164015
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||13|min|||||F
+OBX||NM|13^TotalVolume||2.16|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164026||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164026
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||12|min|||||F
+OBX||NM|13^TotalVolume||2.20|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164037||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164037
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||12|min|||||F
+OBX||NM|13^TotalVolume||2.24|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164048||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164048
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||12|min|||||F
+OBX||NM|13^TotalVolume||2.28|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164059||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164059
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||12|min|||||F
+OBX||NM|13^TotalVolume||2.32|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164111||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164111
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||12|min|||||F
+OBX||NM|13^TotalVolume||2.36|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164121||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164121
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||12|min|||||F
+OBX||NM|13^TotalVolume||2.40|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164133||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164133
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||11|min|||||F
+OBX||NM|13^TotalVolume||2.44|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164144||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164144
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||11|min|||||F
+OBX||NM|13^TotalVolume||2.47|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164155||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164155
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||11|min|||||F
+OBX||NM|13^TotalVolume||2.51|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716426||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716426
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||11|min|||||F
+OBX||NM|13^TotalVolume||2.55|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164217||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164217
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||11|min|||||F
+OBX||NM|13^TotalVolume||2.59|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164228||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164228
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||13|min|||||F
+OBX||NM|12^InfuseTimeLeft||10|min|||||F
+OBX||NM|13^TotalVolume||2.63|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:42:37
+OBX||NM|113^AL||Putter Err||||||F
+ ~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:42:48
+OBX||NM|113^AL||Putter Err||||||F
+ ~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:42:50
+ZDV|Standby||F~MSH|^~\&||SyringePump_Acura S1|||20150407164252||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164252
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||10|min|||||F
+OBX||NM|13^TotalVolume||2.67|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716433||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716433
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||10|min|||||F
+OBX||NM|13^TotalVolume||2.71|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164314||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164314
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||10|min|||||F
+OBX||NM|13^TotalVolume||2.75|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164325||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164325
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||10|min|||||F
+OBX||NM|13^TotalVolume||2.79|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164336||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164336
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||10|min|||||F
+OBX||NM|13^TotalVolume||2.82|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164347||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164347
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||9|min|||||F
+OBX||NM|13^TotalVolume||2.86|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164358||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164358
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||9|min|||||F
+OBX||NM|13^TotalVolume||2.90|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716449||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716449
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||9|min|||||F
+OBX||NM|13^TotalVolume||2.94|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164420||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164420
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||9|min|||||F
+OBX||NM|13^TotalVolume||2.98|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164431||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164431
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||9|min|||||F
+OBX||NM|13^TotalVolume||3.02|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164442||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164442
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||8|min|||||F
+OBX||NM|13^TotalVolume||3.06|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164453||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164453
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||8|min|||||F
+OBX||NM|13^TotalVolume||3.10|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716454||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716454
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||8|min|||||F
+OBX||NM|13^TotalVolume||3.14|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164515||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164515
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||8|min|||||F
+OBX||NM|13^TotalVolume||3.18|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164526||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164526
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||8|min|||||F
+OBX||NM|13^TotalVolume||3.22|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164537||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164537
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||8|min|||||F
+OBX||NM|13^TotalVolume||3.26|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164548||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164548
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||7|min|||||F
+OBX||NM|13^TotalVolume||3.30|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164559||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164559
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||7|min|||||F
+OBX||NM|13^TotalVolume||3.34|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164610||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164610
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||7|min|||||F
+OBX||NM|13^TotalVolume||3.38|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164621||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164621
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||7|min|||||F
+OBX||NM|13^TotalVolume||3.42|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164632||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164632
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||7|min|||||F
+OBX||NM|13^TotalVolume||3.46|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164643||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164643
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||6|min|||||F
+OBX||NM|13^TotalVolume||3.50|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164654||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164654
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||6|min|||||F
+OBX||NM|13^TotalVolume||3.54|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:47:5
+OBX||NM|113^AL||Near Empty||||||F
+ ~MSH|^~\&||SyringePump_Acura S1|||20150407164716||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164716
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||6|min|||||F
+OBX||NM|13^TotalVolume||3.62|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&|||||||ORU^R01|MUDDAPPA|P|2.3.1
+PID|||SyringePump_Acura S1||MUDDAPPA|||
+PV1||General surger||||Bed|||
+OBR|||||||20150407 16:47:27
+OBX||NM|113^AL||Near Empty||||||F
+ ~MSH|^~\&||SyringePump_Acura S1|||20150407164738||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164738
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||6|min|||||F
+OBX||NM|13^TotalVolume||3.70|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164749||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164749
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||5|min|||||F
+OBX||NM|13^TotalVolume||3.74|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||2015040716480||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||2015040716480
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||5|min|||||F
+OBX||NM|13^TotalVolume||3.78|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~MSH|^~\&||SyringePump_Acura S1|||20150407164811||ORU^R01|BPL0001|P|2.4
+PID|||MUDDAPPA||BPL||20150407|N
+PV1||Research&Development|^^1&1&1
+OBR|||||||20150407164811
+OBX||NM|10^Rate||13.0|ml/h|0.1^1550||||F
+OBX||NM|11^InfuseTime||10|min|||||F
+OBX||NM|12^InfuseTimeLeft||5|min|||||F
+OBX||NM|13^TotalVolume||3.82|ml|0^9999||||F
+OBX||NM|14^SyringeSize||50|ml|0^50||||F
+OBX||NM|15^SyringeBrand||S-G||||||F
+OBX||NM|16^DrugName||	Agapurin	||||||F
+OBX||NM|17^PumpStatus||running||||||F
+OBX||NM|18^Occlusion||M||||||F
+OBX||NM|19^VTBI||5.0|ml|0^9999||||F
+OBX||NM|20^BolusRate||0.0|ml/h|10^1550||||F
+OBX||NM|21^BolusVTBI||3.0|ml|0.1^10||||F
+OBX||NM|22^BolusVOL||0.00|ml|0^9999||||F
+OBX||NM|23^PurgeRate||1550.0|ml|0.1^1200||||F
+OBX||NM|24^Dose||0.30|ml|0.1^1200||||F
+OBX||NM|25^Weight||50.0|age|0^150||||F
+OBX||NM|26^PumpMode||TIME MODE|ml/h|||||F
+~

@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "67f760f2a3ea7c64eb9030eb"
+  },
+  "roleName": "ADMIN",
+  "createdDate": {
+    "$date": "2025-04-10T06:10:58.822Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:10:58.822Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "67f761b9a3ea7c64eb9030f6"
+  },
+  "roleName": "DOCTOR",
+  "createdDate": {
+    "$date": "2025-04-10T06:14:17.500Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:14:17.500Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "67f761bea3ea7c64eb9030f7"
+  },
+  "roleName": "NURSE",
+  "createdDate": {
+    "$date": "2025-04-10T06:14:22.742Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:14:22.742Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "67f761dba3ea7c64eb9030f8"
+  },
+  "roleName": "SURGEON",
+  "createdDate": {
+    "$date": "2025-04-10T06:14:51.039Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:14:51.039Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "67f76273a3ea7c64eb9030fe"
+  },
+  "roleName": "PEDIATRICIAN",
+  "createdDate": {
+    "$date": "2025-04-10T06:17:23.152Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:17:23.152Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "67f7628ca3ea7c64eb9030ff"
+  },
+  "roleName": "CARDIOLOGIST",
+  "createdDate": {
+    "$date": "2025-04-10T06:17:48.265Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:17:48.265Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "68dfb1200c7a9727b5a1b65d"
+  },
+  "roleName": "ONCOLOGIST",
+  "createdDate": {
+    "$date": "2025-10-03T11:18:56.089Z"
+  },
+  "updateDate": {
+    "$date": "2025-10-03T11:18:56.089Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "68dfb1280c7a9727b5a1b65e"
+  },
+  "roleName": "NEPHROLOGIST",
+  "createdDate": {
+    "$date": "2025-10-03T11:19:04.847Z"
+  },
+  "updateDate": {
+    "$date": "2025-10-03T11:19:04.847Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+},
+{
+  "_id": {
+    "$oid": "6902ed5a31bc685ffd05592d"
+  },
+  "roleName": "PATHOLOGIST",
+  "createdDate": {
+    "$date": "2025-10-30T04:45:14.538Z"
+  },
+  "updateDate": {
+    "$date": "2025-10-30T04:45:14.538Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrRolesEntity"
+}]

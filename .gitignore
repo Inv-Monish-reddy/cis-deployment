@@ -1,0 +1,12 @@
+*.jar
+*.jar*
+*--backup
+* -backup
+*.class
+.env
+.env.*
+*.pem
+*.key
+*.log
+logs/
+target/

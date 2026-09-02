@@ -1,0 +1,178 @@
+[{
+  "_id": {
+    "$oid": "653fae17ac25482b8b9b2016"
+  },
+  "patientId": "CRN55501",
+  "diagnosisId": "653fae15ac25482b8b9b2015",
+  "diagnosisName": "Blocked Coronary Arteries",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-10-30T13:22:31.837Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "65434a82ac25482b8b9b202e"
+  },
+  "patientId": "CRN078090",
+  "diagnosisId": "653f8caaac25482b8b9b1ff5",
+  "diagnosisName": "Anaemia",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-11-02T07:06:42.761Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "654376e1ac25482b8b9b2036"
+  },
+  "patientId": "CRN078090",
+  "diagnosisId": "653f8cb0ac25482b8b9b1ff6",
+  "diagnosisName": "Appendicitis",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-11-02T10:16:01.616Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "65601eeee473ce5ac7b89618"
+  },
+  "patientId": "CRN356",
+  "diagnosisId": "653f8d10ac25482b8b9b2002",
+  "diagnosisName": "Gall Bladder Stones",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-11-24T03:56:30.978Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "65657d5ae473ce5ac7b8962f"
+  },
+  "patientId": "CRN36",
+  "diagnosisId": "653f8cb0ac25482b8b9b1ff6",
+  "diagnosisName": "Appendicitis",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-11-28T05:40:42.815Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "65681a3ce473ce5ac7b89641"
+  },
+  "patientId": "CRN233",
+  "diagnosisId": "65681a39e473ce5ac7b89640",
+  "diagnosisName": "Pneumonia",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-11-30T05:14:36.756Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "656eb6305191a520240eed81"
+  },
+  "patientId": "CRN3456",
+  "diagnosisId": "653f8ceeac25482b8b9b1ffd",
+  "diagnosisName": "Common Cold & Flu",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-12-05T05:33:36.084Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "6576b7ef5191a520240eed9f"
+  },
+  "patientId": "CRN5034",
+  "diagnosisId": "653f8cd7ac25482b8b9b1ff9",
+  "diagnosisName": "Asthma",
+  "staffId": "DOCTOR-3",
+  "displayName": "Balu_123",
+  "updateDate": {
+    "$date": "2023-12-11T07:19:11.932Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "65b22d89a463d3636ddc06f2"
+  },
+  "patientId": "CRN8364",
+  "diagnosisId": "65b22d68a463d3636ddc06ef",
+  "diagnosisName": "Respiratory Depression",
+  "staffId": "DOCTOR-7",
+  "displayName": "DrVipin_123",
+  "updateDate": {
+    "$date": "2024-01-25T09:44:41.186Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.PatientDiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "6807b9d731735b640350365b"
+  },
+  "diagnosisName": "CAD-TVD, LM NORMAL, NO MR",
+  "createdDate": {
+    "$date": "2025-04-22T15:46:31.036Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-22T15:46:31.036Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.DiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "68ca7ea915900a7c624669ef"
+  },
+  "diagnosisName": "Narrow Heart Valve",
+  "createdDate": {
+    "$date": "2025-09-17T09:26:01.308Z"
+  },
+  "updateDate": {
+    "$date": "2025-09-17T09:26:01.308Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.DiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "68db70a8b853a112efe37c26"
+  },
+  "diagnosisName": "Anaphylaxis",
+  "createdDate": {
+    "$date": "2025-09-30T05:54:48.042Z"
+  },
+  "updateDate": {
+    "$date": "2025-09-30T05:54:48.042Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.DiagnosisEntity"
+},
+{
+  "_id": {
+    "$oid": "68db7113b853a112efe37c28"
+  },
+  "diagnosisName": "CA40.0Z  |  Bacterial pneumonia, unspecified",
+  "createdDate": {
+    "$date": "2025-09-30T05:56:35.302Z"
+  },
+  "updateDate": {
+    "$date": "2025-09-30T05:56:35.302Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.DiagnosisEntity"
+}]

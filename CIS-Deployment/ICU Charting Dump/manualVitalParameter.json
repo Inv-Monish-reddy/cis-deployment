@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "67e3bdc528319128bd0a4b4d"
+  },
+  "name": "Blood Gas Values",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "ABG",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "67e3bd5c28319128bd0a4b4c"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "67e38fd728319128bd0a4b44"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "67e3cced28319128bd0a4b52"
+  },
+  "name": "ABG",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "ABG",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "67e3c03228319128bd0a4b50"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "67e38fd728319128bd0a4b44"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "67e3e0cd28319128bd0a4b54"
+  },
+  "name": "Electrolyte Values",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "ABG",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "67e3e0a228319128bd0a4b53"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "67e38fd728319128bd0a4b44"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "67e3e13928319128bd0a4b56"
+  },
+  "name": "Metabolite Values",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "ABG",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "67e3e11828319128bd0a4b55"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "67e38fd728319128bd0a4b44"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "67e3e1ee28319128bd0a4b58"
+  },
+  "name": "Oxygen Values",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "ABG",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "67e3e1cc28319128bd0a4b57"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "67e38fd728319128bd0a4b44"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "67e3e2cf28319128bd0a4b5a"
+  },
+  "name": "Acid-Base Values",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "ABG",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "67e3e2ab28319128bd0a4b59"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "67e38fd728319128bd0a4b44"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68039b1a69868e6b11d56164"
+  },
+  "name": "IABP Hemodynamic Parameters",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "IABP",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "68039ad769868e6b11d56162"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "68039af569868e6b11d56163"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "680a39d968738e6829053299"
+  }
+},
+{
+  "_id": {
+    "$oid": "68ca4c0915900a7c624669da"
+  },
+  "name": "Peripheral Pulses",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "IABP",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "680662469f4a6f22ed60d479"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "68ca4b3915900a7c624669d8"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ca4d3815900a7c624669e4"
+  },
+  "name": "Ratio",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "IABP",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "6806604f9f4a6f22ed60d476"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "68ca4c6915900a7c624669dd"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ca4dc315900a7c624669e9"
+  },
+  "name": "Pressure",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "IABP",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "680877f931735b6403503684"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "68ca4c3215900a7c624669dc"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68d0f069cb3e853f4e107cc8"
+  },
+  "name": "Nitric Oxide",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "NITRICOXIDE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "68066b3e9f4a6f22ed60d488"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "68ca4ae915900a7c624669d7"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68d0f07ccb3e853f4e107cc9"
+  },
+  "name": "RBS",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "vitalType": "RBS",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "manualVitalComponent",
+          "$id": {
+            "$oid": "68061118064dc856a4dfced3"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "manualVitalComponent",
+      "$id": {
+        "$oid": "68ca4ad015900a7c624669d6"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Parameter"
+}]

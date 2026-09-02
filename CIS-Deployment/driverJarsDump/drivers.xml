@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drivers>
+    <driver port="8086">
+        <driver-jar>agilia-infusion-pump-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.fresenius.agilia.AgiliaDevice</driver-class>
+    </driver>
+    <driver port="8112">
+        <driver-jar>vista-120s-patient-monitor-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.draeger.vista120s.patientmonitor.Vista120SPatientMonitorDevice</driver-class>
+    </driver>
+    <driver port="8118">
+        <driver-jar>bpl-penlon-320-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.penlon320.BplPenlon320Device</driver-class>
+    </driver>
+	    <driver port="8096">
+        <driver-jar>smiths-c9-infusion-pump-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.smiths.Smithsc9Device</driver-class>
+    </driver>
+	    <driver port="8110">
+        <driver-jar>smiths-graseby-2100-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.smiths.graseby2100.Graseby2100Device</driver-class>
+    </driver>
+	    <driver port="8151">
+        <driver-jar>bpl-vividvue-m10-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.vividvue.m10.VividVueM10Device</driver-class>
+     </driver>
+	     <driver port="8149">
+        <driver-jar>bpl-acura-s1-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.acura.s1.BPLAcuraS1Device</driver-class>
+    </driver>
+    <driver port="8093">
+        <driver-jar>bpl-ultima-prime-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.ultimaprime.BplUltimaPrimeDevice</driver-class>
+    </driver>
+
+</drivers>

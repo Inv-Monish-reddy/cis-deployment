@@ -1,0 +1,29 @@
+# Jenkins with Docker + SonarQube scanner for CIS pipeline
+# Copy to /opt/dependencies/jenkins/ and run:
+#   export DOCKER_GID=$(getent group docker | cut -d: -f3)
+#   docker compose up -d --build
+
+services:
+  jenkins:
+    build: .
+    image: jenkins-cis:latest
+    container_name: jenkins
+    restart: unless-stopped
+
+    ports:
+      - "8012:8080"
+      - "50000:50000"
+
+    volumes:
+      - jenkins_home:/var/jenkins_home
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /opt/deployment:/opt/deployment
+
+    group_add:
+      - "${DOCKER_GID:-999}"
+
+    environment:
+      - DOCKER_HOST=unix:///var/run/docker.sock
+
+volumes:
+  jenkins_home:

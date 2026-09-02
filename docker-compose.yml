@@ -1,0 +1,89 @@
+
+services:
+
+  nginx:
+    image: nginx:latest
+    container_name: critixperticu-nginx
+    depends_on:
+      - critixperticubackendengine
+    volumes:
+      - ./CIS-Deployment/nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./CIS-Deployment/nginx/cisFrontend:/nginx/cisFrontend
+    ports:
+      - "6011:9000"
+    restart: unless-stopped
+    networks:
+      - cns_network
+
+  connectengine:
+    build: ./CIS-Deployment/connectEngine
+    container_name: CIS-Deployment-connect-engine
+    ports:
+      - "6012:9010"
+    volumes:
+      - ./CIS-Deployment/connectEngine/config:/connectEngine/config
+      - ./CIS-Deployment/connectEngine/logs:/connectEngine/logs
+    environment:
+      SPRING_CONFIG_ADDITIONAL_LOCATION: "file:/connectEngine/config/"
+      DRIVERS_PATH: /connectEngine/driverJarsDump/
+      SPRING_DATA_MONGODB_URI: "mongodb://rtwo:Rtwo%40123@cis-mongodb:27017/ICU-Connect?authSource=admin"
+      SPRING_RABBITMQ_HOST: rabbitmq
+      SPRING_RABBITMQ_VIRTUAL_HOST: ICUcharting
+      SPRING_RABBITMQ_PORT: 5672
+      SPRING_RABBITMQ_USERNAME: ICUcharting
+      SPRING_RABBITMQ_PASSWORD: admin@123
+    restart: unless-stopped
+    networks:
+      - cns_network
+
+  visualizationengine:
+    build: ./CIS-Deployment/visualizationEngine
+    container_name: CIS-Deployment-visualization-engine
+    ports:
+      - "6013:9013"
+    volumes:
+      - ./CIS-Deployment/visualizationEngine/config:/visualizationEngine/config
+      - ./CIS-Deployment/visualizationEngine/logs:/visualizationEngine/logs
+    environment:
+      SPRING_CONFIG_ADDITIONAL_LOCATION: "file:/visualizationEngine/config/"
+      SPRING_DATA_MONGODB_URI: "mongodb://rtwo:Rtwo%40123@cis-mongodb:27017/ICU-Connect?authSource=admin"
+      SPRING_RABBITMQ_HOST: rabbitmq
+      SPRING_RABBITMQ_VIRTUAL_HOST: ICUcharting
+      SPRING_RABBITMQ_PORT: 5672
+      SPRING_RABBITMQ_USERNAME: ICUcharting
+      SPRING_RABBITMQ_PASSWORD: admin@123
+    restart: unless-stopped
+    networks:
+      - cns_network
+
+  critixperticubackendengine:
+    build: ./CIS-Deployment/cisBackend
+    container_name: CIS-Deployment-cisBackend-engine
+    ports:
+      - "6014:9001"
+    volumes:
+      - ./CIS-Deployment/cisBackend/config:/cisBackend/config
+      - ./CIS-Deployment/cisBackend/logs:/cisBackend/logs
+    environment:
+      SPRING_CONFIG_ADDITIONAL_LOCATION: "optional:file:/cisBackend/config/"
+      SPRING_DATA_MONGODB_URI: "mongodb://rtwo:Rtwo%40123@cis-mongodb:27017/ICU-Charting?authSource=admin"
+      SPRING_RABBITMQ_HOST: rabbitmq
+      SPRING_RABBITMQ_VIRTUAL_HOST: ICUcharting
+      SPRING_RABBITMQ_PORT: 5672
+      SPRING_RABBITMQ_USERNAME: ICUcharting
+      SPRING_RABBITMQ_PASSWORD: admin@123
+    restart: unless-stopped
+    networks:
+      - cns_network
+
+
+
+networks:
+  cns_network:
+    external: true
+
+volumes:
+  mongodb_data:
+  rabbitmq_data:
+  rabbitmq_logs:
+

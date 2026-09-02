@@ -1,0 +1,16 @@
+# Use images from Nexus instead of local build
+# Usage: docker compose -f docker-compose.yml -f docker-compose.nexus.yml up -d
+
+services:
+  nginx:
+    image: 192.168.0.125:8003/cis-nginx:latest
+    volumes: []  # frontend is baked into image
+
+  connectengine:
+    image: 192.168.0.125:8003/cis-connect-engine:latest
+
+  visualizationengine:
+    image: 192.168.0.125:8003/cis-visualization-engine:latest
+
+  critixperticubackendengine:
+    image: 192.168.0.125:8003/cis-backend:latest

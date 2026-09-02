@@ -1,0 +1,18 @@
+[
+    {
+      "backgroundColor": "#fff",
+      "buttonColor": "#ffc107",
+      "headingColor": "#673ab7",
+      "label": "Deep Purple & Amber",
+      "value": "deeppurple-amber"
+    },
+ 
+    {
+      "backgroundColor": "#303030",
+      "buttonColor": "#607d8b",
+      "headingColor": "#e91e63",
+      "label": "Pink & Blue Grey",
+      "value": "pink-bluegrey"
+    }
+    
+  ]

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drivers>
+  <driver port="8086">
+        <driver-jar>agilia-infusion-pump-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.fresenius.agilia.AgiliaDevice</driver-class>
+    </driver>
+	 <driver port="8149">
+        <driver-jar>bpl-acura-s1-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.acura.s1.BPLAcuraS1Device</driver-class>
+    </driver>
+	   <driver port="8093">
+        <driver-jar>bpl-ultima-prime-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.ultimaprime.BplUltimaPrimeDevice</driver-class>
+    </driver>
+	 <driver port="8094">
+        <driver-jar>nihonKohden-patient-monitor-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.nihonKohden.patient.monitor.NihonPatientMonitorDevice</driver-class>
+    </driver>
+	 <driver port="8096">
+        <driver-jar>smiths-c9-infusion-pump-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.smiths.Smithsc9Device</driver-class>
+    </driver>
+	  <driver port="8147">
+        <driver-jar>bpl-lowenstein-elisa600-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.lowenstein.elisa600.BplElisa600Device</driver-class>
+    </driver>
+	<driver port="8103">
+        <driver-jar>draeger-savina-300-ventilator-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.draeger.savina300.ventilator.DraegerSavina300Device</driver-class>
+    </driver>
+	  <driver port="8104">
+        <driver-jar>sle-4000-ventilator-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.sle.sle4000.ventilator.SLE4000Device</driver-class>
+    </driver>
+	  <driver port="8151">
+        <driver-jar>bpl-vividvue-m10-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.bpl.vividvue.m10.VividVueM10Device</driver-class>
+     </driver>
+          <driver port="8084">
+        <driver-jar>sle-5000-ventilator-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.sle.sle5000.ventilator.SLE5000Device</driver-class>
+     </driver>
+          <driver port="8132">
+        <driver-jar>schiller-tecme-neumovent-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.schiller.tecme.neumovent.SchillerNeumoventDevice</driver-class>
+    </driver>
+          <driver port="8143">
+        <driver-jar>mindray-sv-300-driver-0.0.1-SNAPSHOT</driver-jar>
+        <driver-class>com.rtwo.med.device.connect.mindray.sv.SV300Device</driver-class>
+    </driver>
+</drivers>	

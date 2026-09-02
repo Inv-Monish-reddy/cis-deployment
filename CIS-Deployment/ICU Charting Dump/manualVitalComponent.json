@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "67e38fd728319128bd0a4b44"
+  },
+  "name": "Amount",
+  "displayName": "Amount",
+  "input": {
+    "input": "STRING",
+    "size": 30,
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.StringType"
+  },
+  "vitalType": "ABG",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "67e3bd5c28319128bd0a4b4c"
+  },
+  "name": "Blood Gas values",
+  "displayName": "Blood Gas",
+  "input": {
+    "listMap": {
+      "pH": "pH",
+      "pCO₂": "pCO₂",
+      "pO₂": "pO₂"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "ABG",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "67e3c03228319128bd0a4b50"
+  },
+  "name": "ABG",
+  "displayName": "ABG",
+  "input": {
+    "listMap": {
+      "sO₂": "sO₂",
+      "FO₂Hb": "FO₂Hb",
+      "FCOHb": "FCOHb",
+      "FMetHb": "FMetHb",
+      "ctHb": "ctHb",
+      "FHHb": "FHHb"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "ABG",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "67e3e0a228319128bd0a4b53"
+  },
+  "name": "Electrolyte Values",
+  "displayName": "Electrolyte",
+  "input": {
+    "listMap": {
+      "cK⁺": "cK⁺",
+      "cNa⁺": "cNa⁺",
+      "cCa²⁺": "cCa²⁺",
+      "cCl⁻": "cCl⁻",
+      "cHCO₃⁻(P,st)c": "cHCO₃⁻(P,st)c",
+      "cHCO₃⁻(P)c": "cHCO₃⁻(P)c"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "ABG",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "67e3e11828319128bd0a4b55"
+  },
+  "name": "Metabolite Values",
+  "displayName": "Metabolite",
+  "input": {
+    "listMap": {
+      "cGlu": "cGlu",
+      "cLac": "cLac",
+      "ctBil": "ctBil"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "ABG",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "67e3e1cc28319128bd0a4b57"
+  },
+  "name": "Oxygen Status",
+  "displayName": "Oxygen Status",
+  "input": {
+    "listMap": {
+      "ctO₂c": "ctO₂c",
+      "p50c": "p50c"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "ABG",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "67e3e2ab28319128bd0a4b59"
+  },
+  "name": "Acid-Base Status",
+  "displayName": "Acid-Base Status",
+  "input": {
+    "listMap": {
+      "cBase(Ecf)c": "cBase(Ecf)c",
+      "cBase(B)c": "cBase(B)c",
+      "Anion Gapc": "Anion Gapc",
+      "Hctc": "Hctc",
+      "BO₂c": "BO₂c",
+      "ctCO₂(B)c": "ctCO₂(B)c",
+      "ctCO₂(P)c": "ctCO₂(P)c",
+      "ctO₂c": "ctO₂c",
+      "ct(O₂)x(c)": "ct(O₂)x(c)",
+      "pO₂(A)c": "pO₂(A)c",
+      "pO₂(A-a)c": "pO₂(A-a)c",
+      "pO₂(a)/FiO₂(I)c": "pO₂(a)/FiO₂(I)c",
+      "RIc": "RIc",
+      "mOsmc": "mOsmc",
+      "cH⁺c": "cH⁺c",
+      "ABEc": "ABEc",
+      "SBEc": "SBEc",
+      "cBase(B,ox)c": "cBase(B,ox)c",
+      "cBase(Ecf,ox)c": "cBase(Ecf,ox)c",
+      "pO₂(a/A)c": "pO₂(a/A)c"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "ABG",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68039ad769868e6b11d56162"
+  },
+  "name": "Hemodynamic Parameters",
+  "displayName": "Hemodynamic Parameters",
+  "input": {
+    "listMap": {
+      "Heart Rate": "Heart Rate",
+      "Unassisted Systolic": "Unassisted Systolic",
+      "Unassisted Diastolic": "Unassisted Diastolic",
+      "Assisted Systolic BP": "Assisted Systolic BP",
+      "AssistedDiastolic BP": "AssistedDiastolic BP",
+      "Augmented Diastolic ": "Augmented Diastolic ",
+      "MAP": "MAP",
+      "Augmentation Percent": "Augmentation Percent"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "IABP",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68061118064dc856a4dfced3"
+  },
+  "name": "RBS",
+  "displayName": "RBS",
+  "input": {
+    "input": "STRING",
+    "size": 20,
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.StringType"
+  },
+  "vitalType": "RBS",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "6806604f9f4a6f22ed60d476"
+  },
+  "name": "Ratio",
+  "displayName": "Ratio",
+  "input": {
+    "listMap": {
+      "Value": "Value"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "IABP",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "680662469f4a6f22ed60d479"
+  },
+  "name": "Peripheral Pulses",
+  "displayName": "Peripheral Pulses",
+  "input": {
+    "listMap": {
+      "DPA": "DPA",
+      "ATA": "ATA",
+      "Right ATA": "Right ATA",
+      "Left ATA": "Left ATA",
+      "Right DPA": "Right DPA",
+      "Left DPA": "Left DPA"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "IABP",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68066b3e9f4a6f22ed60d488"
+  },
+  "name": "NitricOxide",
+  "displayName": "NitricOxide",
+  "input": {
+    "listMap": {
+      "ppm": "ppm",
+      "NO2": "NO2"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "NITRICOXIDE",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "680877f931735b6403503684"
+  },
+  "name": "Pressure",
+  "displayName": "Pressure",
+  "input": {
+    "listMap": {
+      "Dias": "Dias",
+      "Aug": "Aug"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "IABP",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ca4ad015900a7c624669d6"
+  },
+  "name": "Amount",
+  "displayName": "Amount",
+  "input": {
+    "input": "STRING",
+    "size": 35,
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.StringType"
+  },
+  "vitalType": "RBS",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ca4ae915900a7c624669d7"
+  },
+  "name": "Amount",
+  "displayName": "Amount",
+  "input": {
+    "input": "STRING",
+    "size": 46,
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.StringType"
+  },
+  "vitalType": "NITRICOXIDE",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ca4b3915900a7c624669d8"
+  },
+  "name": "Status",
+  "displayName": "Status",
+  "input": {
+    "listMap": {
+      "absent": "absent",
+      "feeble": "feeble",
+      "normal": "normal"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "IABP",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ca4c3215900a7c624669dc"
+  },
+  "name": "Amount",
+  "displayName": "Amount",
+  "input": {
+    "input": "STRING",
+    "size": 33,
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.StringType"
+  },
+  "vitalType": "IABP",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ca4c6915900a7c624669dd"
+  },
+  "name": "Value",
+  "displayName": "Value",
+  "input": {
+    "listMap": {
+      "1:1": "1:1",
+      "1:2": "1:2",
+      "1:3": "1:3"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.manualvital.model.ListType"
+  },
+  "vitalType": "IABP",
+  "_class": "com.dragger.cis.DragerCISBackend.manualvital.entity.Component"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6852709b1735bb266d18a32d"
+  },
+  "selectType": [
+    "Arterial Line",
+    "CENTRAL VENOUS CATHETER",
+    "PERIPHERAL VENOUS LINE",
+    "PULMONARY ARTERY CATHETER",
+    "FOLEY’S CATHETER- LATEX",
+    "FOLEY’S CATHETER- SILICON",
+    "PICC LINE",
+    "NASOGASTRIC TUBE",
+    "NASOJEJUNAL TUBE",
+    "FEEDING GASTROSTOMY TUBE",
+    "FEEDING JEJUNOSTOMY TUBE",
+    "ENDOTRACHEAL TUBE",
+    "TRACHEOSTOMY TUBE",
+    "ARTERIAL LINE",
+    "Laryngeal Tube",
+    "arterial"
+  ],
+  "selectSite": [
+    "Left Jugular",
+    "RT. IJV",
+    "LT. IJV",
+    "RT. SUBCLAVIAN V.",
+    "LT. SUBCLAVIAN V.",
+    "RT. FEMORAL V.",
+    "LT. FEMORAL V.",
+    "RT. FOREARM",
+    "LT. FOREARM",
+    "LT. FOOT",
+    "RT. FOOT",
+    "LT. ARM",
+    "RT. ARM",
+    "Larynx"
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesDropDownEntity"
+}]

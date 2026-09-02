@@ -1,0 +1,2885 @@
+[{
+  "_id": {
+    "$oid": "6645a80db38c7a4044281831"
+  },
+  "scoreId": "6645a7a2b38c7a4044281830",
+  "groupName": "Best eye response",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Spontaneously",
+        "answer": 4
+      },
+      {
+        "questionText": "To verbal command",
+        "answer": 3
+      },
+      {
+        "questionText": "To pain",
+        "answer": 2
+      },
+      {
+        "questionText": "No eye opening",
+        "answer": 1
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645a857b38c7a4044281832"
+  },
+  "scoreId": "6645a7a2b38c7a4044281830",
+  "groupName": "Best verbal response",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Oriented",
+        "answer": 5
+      },
+      {
+        "questionText": "Confused",
+        "answer": 4
+      },
+      {
+        "questionText": "Inappropriate words",
+        "answer": 3
+      },
+      {
+        "questionText": "Incomprehensible sounds",
+        "answer": 2
+      },
+      {
+        "questionText": "No verbal response",
+        "answer": 1
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645a89bb38c7a4044281833"
+  },
+  "scoreId": "6645a7a2b38c7a4044281830",
+  "groupName": "Best motor response",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Obeys commands",
+        "answer": 6
+      },
+      {
+        "questionText": "Localizes pain",
+        "answer": 5
+      },
+      {
+        "questionText": "Withdrawal from pain",
+        "answer": 4
+      },
+      {
+        "questionText": "Flexion to pain",
+        "answer": 3
+      },
+      {
+        "questionText": "Extension to pain",
+        "answer": 2
+      },
+      {
+        "questionText": "No motor response",
+        "answer": 1
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645a9f0b38c7a4044281836"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Age",
+  "input": {
+    "answerType": "DEMOGRAPHICS",
+    "answer": "Age",
+    "ranges": {
+      "lessthan": {
+        "condition": 44,
+        "score": 0
+      },
+      "between": [
+        {
+          "low": 45,
+          "high": 54,
+          "score": 2
+        },
+        {
+          "low": 55,
+          "high": 64,
+          "score": 3
+        },
+        {
+          "low": 65,
+          "high": 74,
+          "score": 5
+        }
+      ],
+      "greaterThan": {
+        "condition": 74,
+        "score": 6
+      },
+      "absMax": 74,
+      "absMin": 44,
+      "ranges": []
+    },
+    "typeofanswer": [
+      {
+        "type": "Demographics",
+        "answer": "Age",
+        "ranges": {
+          "lessthan": {
+            "condition": 44,
+            "score": 0
+          },
+          "between": [
+            {
+              "low": 45,
+              "high": 54,
+              "score": 2
+            },
+            {
+              "low": 55,
+              "high": 64,
+              "score": 3
+            },
+            {
+              "low": 65,
+              "high": 74,
+              "score": 5
+            }
+          ],
+          "greaterThan": {
+            "condition": 74,
+            "score": 6
+          },
+          "absMax": 74,
+          "absMin": 44,
+          "ranges": []
+        },
+        "questions": []
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Demographics"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645aa645c3681698087c937"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Rectal Temperature",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "BplUltimaPrime",
+      "parameter": "Temp1",
+      "ranges": {
+        "lessthan": {
+          "condition": 30,
+          "score": 4
+        },
+        "between": [
+          {
+            "low": 39,
+            "high": 41,
+            "score": 3
+          },
+          {
+            "low": 38.5,
+            "high": 39,
+            "score": 1
+          },
+          {
+            "low": 36,
+            "high": 38.5,
+            "score": 0
+          },
+          {
+            "low": 34,
+            "high": 36,
+            "score": 1
+          },
+          {
+            "low": 32,
+            "high": 34,
+            "score": 2
+          },
+          {
+            "low": 30,
+            "high": 32,
+            "score": 3
+          }
+        ],
+        "greaterThan": {
+          "condition": 41,
+          "score": 4
+        },
+        "absMax": 41,
+        "absMin": 30,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "BplUltimaPrime",
+    "parameter": "Temp1",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645aab35c3681698087c938"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Mean arterial pressure",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "DragerVista120S",
+      "parameter": "MEAN",
+      "ranges": {
+        "lessthan": {
+          "condition": 49,
+          "score": 4
+        },
+        "between": [
+          {
+            "low": 129,
+            "high": 159,
+            "score": 3
+          },
+          {
+            "low": 109,
+            "high": 129,
+            "score": 2
+          },
+          {
+            "low": 69,
+            "high": 109,
+            "score": 0
+          },
+          {
+            "low": 49,
+            "high": 69,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 159,
+          "score": 4
+        },
+        "absMax": 159,
+        "absMin": 49,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "DragerVista120S",
+    "parameter": "MEAN",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645ab4f5c3681698087c939"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Arterial pH",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "ph",
+    "ranges": {
+      "lessthan": {
+        "condition": 7.15,
+        "score": 4
+      },
+      "between": [
+        {
+          "low": 7.6,
+          "high": 7.7,
+          "score": 3
+        },
+        {
+          "low": 7.5,
+          "high": 7.6,
+          "score": 1
+        },
+        {
+          "low": 7.33,
+          "high": 7.5,
+          "score": 0
+        },
+        {
+          "low": 7.25,
+          "high": 7.33,
+          "score": 2
+        },
+        {
+          "low": 7.15,
+          "high": 7.25,
+          "score": 3
+        }
+      ],
+      "greaterThan": {
+        "condition": 7.7,
+        "score": 4
+      },
+      "absMax": 8,
+      "absMin": 7,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645ab955c3681698087c93a"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Heart rate/pulse",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "DragerVista120S",
+      "parameter": "Heart Rate",
+      "ranges": {
+        "lessthan": {
+          "condition": 40,
+          "score": 4
+        },
+        "between": [
+          {
+            "low": 140,
+            "high": 180,
+            "score": 3
+          },
+          {
+            "low": 110,
+            "high": 140,
+            "score": 2
+          },
+          {
+            "low": 70,
+            "high": 110,
+            "score": 0
+          },
+          {
+            "low": 55,
+            "high": 70,
+            "score": 2
+          },
+          {
+            "low": 40,
+            "high": 55,
+            "score": 3
+          }
+        ],
+        "greaterThan": {
+          "condition": 180,
+          "score": 4
+        },
+        "absMax": 180,
+        "absMin": 40,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "DragerVista120S",
+    "parameter": "Heart Rate",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645abd65c3681698087c93b"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Respiratory rate",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "BplUltimaPrime",
+      "parameter": "Resp.Rate",
+      "ranges": {
+        "lessthan": {
+          "condition": 6,
+          "score": 4
+        },
+        "between": [
+          {
+            "low": 35,
+            "high": 50,
+            "score": 3
+          },
+          {
+            "low": 25,
+            "high": 35,
+            "score": 1
+          },
+          {
+            "low": 12,
+            "high": 25,
+            "score": 0
+          },
+          {
+            "low": 10,
+            "high": 12,
+            "score": 1
+          },
+          {
+            "low": 6,
+            "high": 10,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 50,
+          "score": 4
+        },
+        "absMax": 50,
+        "absMin": 6,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "BplUltimaPrime",
+    "parameter": "Resp.Rate",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645ac315c3681698087c93c"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Sodium",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "sodium",
+    "ranges": {
+      "lessthan": {
+        "condition": 111,
+        "score": 4
+      },
+      "between": [
+        {
+          "low": 160,
+          "high": 180,
+          "score": 3
+        },
+        {
+          "low": 155,
+          "high": 160,
+          "score": 2
+        },
+        {
+          "low": 150,
+          "high": 155,
+          "score": 1
+        },
+        {
+          "low": 130,
+          "high": 150,
+          "score": 0
+        },
+        {
+          "low": 120,
+          "high": 130,
+          "score": 2
+        },
+        {
+          "low": 111,
+          "high": 120,
+          "score": 3
+        }
+      ],
+      "greaterThan": {
+        "condition": 180,
+        "score": 4
+      },
+      "absMax": 180,
+      "absMin": 111,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645ac995c3681698087c93d"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Potassium",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "potassium",
+    "ranges": {
+      "lessthan": {
+        "condition": 2.5,
+        "score": 4
+      },
+      "between": [
+        {
+          "low": 6,
+          "high": 7,
+          "score": 3
+        },
+        {
+          "low": 5.5,
+          "high": 6,
+          "score": 1
+        },
+        {
+          "low": 3.5,
+          "high": 5.5,
+          "score": 0
+        },
+        {
+          "low": 3,
+          "high": 3.5,
+          "score": 1
+        },
+        {
+          "low": 2.5,
+          "high": 3,
+          "score": 2
+        }
+      ],
+      "greaterThan": {
+        "condition": 7,
+        "score": 4
+      },
+      "absMax": 7,
+      "absMin": 2,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645acea5c3681698087c93e"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Hematocrit",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "haematocrit",
+    "ranges": {
+      "lessthan": {
+        "condition": 20,
+        "score": 4
+      },
+      "between": [
+        {
+          "low": 50,
+          "high": 60,
+          "score": 2
+        },
+        {
+          "low": 46,
+          "high": 50,
+          "score": 1
+        },
+        {
+          "low": 30,
+          "high": 46,
+          "score": 0
+        },
+        {
+          "low": 20,
+          "high": 30,
+          "score": 2
+        }
+      ],
+      "greaterThan": {
+        "condition": 60,
+        "score": 4
+      },
+      "absMax": 60,
+      "absMin": 20,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645ad225c3681698087c93f"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "White blood cell count",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "wbc count",
+    "ranges": {
+      "lessthan": {
+        "condition": 1,
+        "score": 4
+      },
+      "between": [
+        {
+          "low": 20,
+          "high": 40,
+          "score": 2
+        },
+        {
+          "low": 15,
+          "high": 20,
+          "score": 1
+        },
+        {
+          "low": 3,
+          "high": 15,
+          "score": 0
+        },
+        {
+          "low": 1,
+          "high": 3,
+          "score": 2
+        }
+      ],
+      "greaterThan": {
+        "condition": 40,
+        "score": 4
+      },
+      "absMax": 40,
+      "absMin": 1,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645ad355c3681698087c940"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "GCS",
+  "input": {
+    "groupName": "GCS",
+    "scoreId": "6645a8f3b38c7a4044281835",
+    "answerType": "SCORE",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Score"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645ad745c3681698087c941"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "History of severe organ failure or immunocompromise",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Yes, and nonoperative or emergency postoperative patient",
+        "answer": 5
+      },
+      {
+        "questionText": "Yes, and elective postoperative patient",
+        "answer": 2
+      },
+      {
+        "questionText": "No",
+        "answer": 0
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645b14f5c3681698087c945"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Serum Creatinine",
+  "input": {
+    "groupName": "Serum Creatinine",
+    "scoreId": "6645a8f3b38c7a4044281835",
+    "question": "",
+    "yes": [
+      {
+        "groupName": "Acute Renal Failure - Yes",
+        "scoreId": "6645a8f3b38c7a4044281835",
+        "answerType": {
+          "type": "Lab",
+          "ranges": {
+            "lessthan": {
+              "condition": 0.6,
+              "score": 2
+            },
+            "between": [
+              {
+                "low": 2,
+                "high": 3.5,
+                "score": 6
+              },
+              {
+                "low": 1.5,
+                "high": 2,
+                "score": 4
+              },
+              {
+                "low": 0.6,
+                "high": 1.5,
+                "score": 0
+              }
+            ],
+            "greaterThan": {
+              "condition": 3.5,
+              "score": 8
+            },
+            "absMax": 4,
+            "absMin": 0,
+            "ranges": []
+          },
+          "questions": []
+        }
+      }
+    ],
+    "no": [
+      {
+        "groupName": "Acute Renal Failure - No",
+        "scoreId": "6645a8f3b38c7a4044281835",
+        "answerType": {
+          "type": "Lab",
+          "ranges": {
+            "lessthan": {
+              "condition": 0.6,
+              "score": 2
+            },
+            "between": [
+              {
+                "low": 2,
+                "high": 3.5,
+                "score": 3
+              },
+              {
+                "low": 1.5,
+                "high": 2,
+                "score": 2
+              },
+              {
+                "low": 0.6,
+                "high": 1.5,
+                "score": 0
+              }
+            ],
+            "greaterThan": {
+              "condition": 3.5,
+              "score": 4
+            },
+            "absMax": 3,
+            "absMin": 0,
+            "ranges": []
+          },
+          "questions": []
+        }
+      }
+    ],
+    "type": "YesorNo",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.YesorNo"
+  },
+  "typeOfAnswer": [
+    {
+      "type": "Lab",
+      "answer": "Lab Data",
+      "ranges": {
+        "lessthan": {
+          "condition": 0.6,
+          "score": 2
+        },
+        "between": [
+          {
+            "high": 3.5,
+            "score": 6
+          },
+          {
+            "high": 2,
+            "score": 4
+          },
+          {
+            "high": 1.5,
+            "score": 0
+          }
+        ],
+        "greaterThan": {
+          "condition": 3.5,
+          "score": 8
+        },
+        "absMax": 4,
+        "absMin": 0,
+        "ranges": []
+      },
+      "questions": [],
+      "isRadioSelected": true
+    },
+    {
+      "type": "Lab",
+      "answer": "Lab Data",
+      "ranges": {
+        "lessthan": {
+          "condition": 0.6,
+          "score": 2
+        },
+        "between": [
+          {
+            "high": 3.5,
+            "score": 3
+          },
+          {
+            "high": 2,
+            "score": 2
+          },
+          {
+            "high": 1.5,
+            "score": 0
+          }
+        ],
+        "greaterThan": {
+          "condition": 3.5,
+          "score": 4
+        },
+        "absMax": 3,
+        "absMin": 0,
+        "ranges": []
+      },
+      "questions": [],
+      "isRadioSelected": true
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645b2d25c3681698087c948"
+  },
+  "scoreId": "6645a8f3b38c7a4044281835",
+  "groupName": "Oxygenation",
+  "input": {
+    "groupName": "Oxygenation",
+    "scoreId": "6645a8f3b38c7a4044281835",
+    "question": "",
+    "yes": [
+      {
+        "groupName": "FiO2 ≥ 50%, use A-a DO2",
+        "scoreId": "6645a8f3b38c7a4044281835",
+        "answerType": {
+          "type": "Trends",
+          "ranges": {
+            "lessthan": {
+              "condition": 200,
+              "score": 0
+            },
+            "between": [
+              {
+                "low": 350,
+                "high": 499,
+                "score": 3
+              },
+              {
+                "low": 200,
+                "high": 349,
+                "score": 2
+              }
+            ],
+            "greaterThan": {
+              "condition": 499,
+              "score": 4
+            },
+            "absMax": 499,
+            "absMin": 200,
+            "ranges": []
+          },
+          "questions": []
+        }
+      }
+    ],
+    "no": [
+      {
+        "groupName": "If FiO2 <50%, use PaO2",
+        "scoreId": "6645a8f3b38c7a4044281835",
+        "answerType": {
+          "type": "Lab",
+          "ranges": {
+            "lessthan": {
+              "condition": 55,
+              "score": 4
+            },
+            "between": [
+              {
+                "low": 61,
+                "high": 70,
+                "score": 1
+              },
+              {
+                "low": 55,
+                "high": 60,
+                "score": 3
+              }
+            ],
+            "greaterThan": {
+              "condition": 70,
+              "score": 0
+            },
+            "absMax": 70,
+            "absMin": 55,
+            "ranges": []
+          },
+          "questions": []
+        }
+      }
+    ],
+    "type": "YesorNo",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.YesorNo"
+  },
+  "typeOfAnswer": [
+    {
+      "type": "Trends",
+      "answer": "Trend Data",
+      "ranges": {
+        "lessthan": {
+          "condition": 200,
+          "score": 0
+        },
+        "between": [
+          {
+            "high": 499,
+            "score": 3
+          },
+          {
+            "high": 349,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 499,
+          "score": 4
+        },
+        "absMax": 499,
+        "absMin": 200,
+        "ranges": []
+      },
+      "questions": [],
+      "isRadioSelected": true
+    },
+    {
+      "type": "Lab",
+      "answer": "Lab Data",
+      "ranges": {
+        "lessthan": {
+          "condition": 55,
+          "score": 4
+        },
+        "between": [
+          {
+            "high": 70,
+            "score": 1
+          },
+          {
+            "high": 60,
+            "score": 3
+          }
+        ],
+        "greaterThan": {
+          "condition": 70,
+          "score": 0
+        },
+        "absMax": 70,
+        "absMin": 55,
+        "ranges": []
+      },
+      "questions": [],
+      "isRadioSelected": true
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e2855c3681698087c94a"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "PaO2",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "pao2",
+    "ranges": {
+      "lessthan": {
+        "score": 0
+      },
+      "between": [
+        {
+          "low": 0,
+          "high": 0,
+          "score": 0
+        }
+      ],
+      "greaterThan": {
+        "score": 0
+      },
+      "absMax": 0,
+      "absMin": 0,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e29d5c3681698087c94b"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "Fio2",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "DraegerSavina300",
+      "parameter": "FiO2",
+      "ranges": {
+        "lessthan": {
+          "score": 0
+        },
+        "between": [
+          {
+            "low": 0,
+            "high": 0,
+            "score": 0
+          }
+        ],
+        "greaterThan": {
+          "score": 0
+        },
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "DraegerSavina300",
+    "parameter": "FiO2",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e2cb5c3681698087c94c"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "On mechanical ventilation",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Ventilation Yes",
+        "answer": 1
+      },
+      {
+        "questionText": "Ventilation No",
+        "answer": 0
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e32e5c3681698087c94d"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "Platelets, ×10³/µL",
+  "input": {
+    "questions": [
+      {
+        "questionText": "  ≥150",
+        "answer": 0
+      },
+      {
+        "questionText": "100-149",
+        "answer": 1
+      },
+      {
+        "questionText": "50-99",
+        "answer": 2
+      },
+      {
+        "questionText": "20-49",
+        "answer": 3
+      },
+      {
+        "questionText": "<20",
+        "answer": 4
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e3745c3681698087c94e"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "Glasgow Coma Scale",
+  "input": {
+    "questions": [
+      {
+        "questionText": "15",
+        "answer": 0
+      },
+      {
+        "questionText": "13-14",
+        "answer": 1
+      },
+      {
+        "questionText": "10-12",
+        "answer": 2
+      },
+      {
+        "questionText": "6-9",
+        "answer": 3
+      },
+      {
+        "questionText": "<6",
+        "answer": 4
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e3c95c3681698087c94f"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "Bilirubin, mg/dL (μmol/L)",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<1.2 (<20)",
+        "answer": 0
+      },
+      {
+        "questionText": "1.2–1.9 (20-32)",
+        "answer": 1
+      },
+      {
+        "questionText": "2.0–5.9 (33-101)",
+        "answer": 2
+      },
+      {
+        "questionText": "6.0–11.9 (102-204)",
+        "answer": 3
+      },
+      {
+        "questionText": "≥12.0 (>204)",
+        "answer": 4
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e3fb5c3681698087c950"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "Mean arterial pressure OR administration of vasoactive agents required",
+  "input": {
+    "questions": [
+      {
+        "questionText": "No hypotension",
+        "answer": 0
+      },
+      {
+        "questionText": "MAP <70 mmHg",
+        "answer": 1
+      },
+      {
+        "questionText": "DOPamine ≤5 or DOBUTamine (any dose)",
+        "answer": 2
+      },
+      {
+        "questionText": "DOPamine >5, EPINEPHrine ≤0.1, or norEPINEPHrine ≤0.1",
+        "answer": 3
+      },
+      {
+        "questionText": "DOPamine >15, EPINEPHrine >0.1, or norEPINEPHrine >0.1",
+        "answer": 4
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e42e5c3681698087c951"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "Creatinine, mg/dL (μmol/L) (or urine output)",
+  "input": {
+    "questions": [
+      {
+        "questionText": "  <1.2 (<110)",
+        "answer": 0
+      },
+      {
+        "questionText": "1.2–1.9 (110-170)",
+        "answer": 1
+      },
+      {
+        "questionText": "2.0–3.4 (171-299)",
+        "answer": 2
+      },
+      {
+        "questionText": " +3  ≥5",
+        "answer": 3
+      },
+      {
+        "questionText": "≥5.0 (>440) or UOP <200 mL/day",
+        "answer": 4
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647308c48c40335049b572d"
+  },
+  "scoreId": "6645e2605c3681698087c949",
+  "groupName": "PaO2/FiO2",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "pao2",
+    "ranges": {
+      "lessthan": {
+        "condition": 0,
+        "score": 3
+      },
+      "between": [
+        {
+          "low": 300,
+          "high": 299,
+          "score": 1
+        },
+        {
+          "low": 200,
+          "high": 299,
+          "score": 2
+        },
+        {
+          "low": 100,
+          "high": 199,
+          "score": 2
+        }
+      ],
+      "greaterThan": {
+        "condition": 400,
+        "score": 0
+      },
+      "absMax": 400,
+      "absMin": 0,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647335648c40335049b572f"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Age, years",
+  "input": {
+    "answerType": "DEMOGRAPHICS",
+    "answer": "Age",
+    "ranges": {
+      "lessthan": {
+        "condition": 40,
+        "score": 0
+      },
+      "between": [
+        {
+          "low": 40,
+          "high": 59,
+          "score": 7
+        },
+        {
+          "low": 60,
+          "high": 69,
+          "score": 12
+        },
+        {
+          "low": 70,
+          "high": 74,
+          "score": 15
+        },
+        {
+          "low": 75,
+          "high": 79,
+          "score": 16
+        }
+      ],
+      "greaterThan": {
+        "condition": 80,
+        "score": 18
+      },
+      "absMax": 100,
+      "absMin": 35,
+      "ranges": []
+    },
+    "typeofanswer": [
+      {
+        "type": "Demographics",
+        "answer": "Age",
+        "ranges": {
+          "lessthan": {
+            "condition": 40,
+            "score": 0
+          },
+          "between": [
+            {
+              "low": 40,
+              "high": 59,
+              "score": 7
+            },
+            {
+              "low": 60,
+              "high": 69,
+              "score": 12
+            },
+            {
+              "low": 70,
+              "high": 74,
+              "score": 15
+            },
+            {
+              "low": 75,
+              "high": 79,
+              "score": 16
+            }
+          ],
+          "greaterThan": {
+            "condition": 80,
+            "score": 18
+          },
+          "absMax": 100,
+          "absMin": 35,
+          "ranges": []
+        },
+        "questions": []
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Demographics"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664733cc48c40335049b5730"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Heart rate",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<40",
+        "answer": 11
+      },
+      {
+        "questionText": "40-69",
+        "answer": 2
+      },
+      {
+        "questionText": "70-119",
+        "answer": 0
+      },
+      {
+        "questionText": "120-159",
+        "answer": 4
+      },
+      {
+        "questionText": "≥160",
+        "answer": 7
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647343a48c40335049b5731"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Systolic BP, mmHg",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "DragerVista120S",
+      "parameter": "SYS",
+      "ranges": {
+        "lessthan": {
+          "condition": 70,
+          "score": 13
+        },
+        "between": [
+          {
+            "low": 70,
+            "high": 99,
+            "score": 5
+          },
+          {
+            "low": 100,
+            "high": 199,
+            "score": 0
+          }
+        ],
+        "greaterThan": {
+          "condition": 200,
+          "score": 2
+        },
+        "absMax": 175,
+        "absMin": 30,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "DragerVista120S",
+    "parameter": "SYS",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647345e48c40335049b5732"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Temperature ≥39ºC (102.2ºF)",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Yes",
+        "answer": 3
+      },
+      {
+        "questionText": "No",
+        "answer": 0
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664734ce48c40335049b5733"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "GCS Score",
+  "input": {
+    "questions": [
+      {
+        "questionText": "14-15",
+        "answer": 3
+      },
+      {
+        "questionText": "11-13",
+        "answer": 5
+      },
+      {
+        "questionText": "9-10",
+        "answer": 7
+      },
+      {
+        "questionText": "6-8",
+        "answer": 13
+      },
+      {
+        "questionText": "<6",
+        "answer": 26
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647365048c40335049b5736"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "PaO₂/FiO₂, if on mechanical ventilation",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<100 mm Hg/% (13.3 kPa/%)",
+        "answer": 11
+      },
+      {
+        "questionText": "100-199 mm Hg/% (13.3-26.5 kPa/%)",
+        "answer": 9
+      },
+      {
+        "questionText": "≥200 mm Hg/% (26.6 kPa/%)",
+        "answer": 6
+      },
+      {
+        "questionText": "Not on mechanical ventilation or CPAP within the last 24 hours",
+        "answer": 0
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647372c48c40335049b5737"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "BUN, mg/dL or serum urea, mmol/L",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "urea",
+    "ranges": {
+      "lessthan": {
+        "condition": 10,
+        "score": 0
+      },
+      "between": [
+        {
+          "low": 10,
+          "high": 29.6,
+          "score": 5
+        }
+      ],
+      "greaterThan": {
+        "condition": 30,
+        "score": 10
+      },
+      "absMax": 50,
+      "absMin": 0,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647376448c40335049b5738"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Urine output, mL/day",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<500",
+        "answer": 11
+      },
+      {
+        "questionText": "500-999",
+        "answer": 4
+      },
+      {
+        "questionText": "≥1000",
+        "answer": 0
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664737c048c40335049b5739"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Potassium, mEq/L",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<3.0",
+        "answer": 3
+      },
+      {
+        "questionText": "3.0-4.9",
+        "answer": 0
+      },
+      {
+        "questionText": "≥5.0",
+        "answer": 3
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664737e848c40335049b573a"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Bicarbonate, mEq/L",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<15",
+        "answer": 6
+      },
+      {
+        "questionText": "15-19",
+        "answer": 3
+      },
+      {
+        "questionText": "≥20",
+        "answer": 0
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647383548c40335049b573b"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "WBC, x 10³/mm³",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<1.0",
+        "answer": 12
+      },
+      {
+        "questionText": "1.0-19.9",
+        "answer": 0
+      },
+      {
+        "questionText": "≥20.0",
+        "answer": 3
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6647387b48c40335049b573c"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Chronic disease",
+  "input": {
+    "questions": [
+      {
+        "questionText": "None",
+        "answer": 0
+      },
+      {
+        "questionText": "Metastatic cancer",
+        "answer": 9
+      },
+      {
+        "questionText": "Hematologic malignancy",
+        "answer": 10
+      },
+      {
+        "questionText": "AIDS",
+        "answer": 17
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664738a648c40335049b573d"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Type of admission",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Scheduled surgical",
+        "answer": 0
+      },
+      {
+        "questionText": "Medical",
+        "answer": 6
+      },
+      {
+        "questionText": "Unscheduled surgical",
+        "answer": 8
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664739ce48c40335049b573e"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Sodium, mEq/L or mmol/L",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<125",
+        "answer": 5
+      },
+      {
+        "questionText": "125-144",
+        "answer": 0
+      },
+      {
+        "questionText": "≥145",
+        "answer": 1
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "66473aef48c40335049b573f"
+  },
+  "scoreId": "664732bc48c40335049b572e",
+  "groupName": "Bilirubin",
+  "input": {
+    "questions": [
+      {
+        "questionText": "<4.0 mg/dL (<68.4 µmol/L)",
+        "answer": 0
+      },
+      {
+        "questionText": "4.0-5.9 mg/dL (68.4-102.5 µmol/L)",
+        "answer": 4
+      },
+      {
+        "questionText": "≥6.0 mg/dL (≥102.6 µmol/L)",
+        "answer": 9
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c529780e5932638be84b5"
+  },
+  "scoreId": "664c520280e5932638be84b4",
+  "groupName": "Respiratory Rate",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "RR",
+      "ranges": {
+        "lessthan": {
+          "condition": 8,
+          "score": 3
+        },
+        "between": [
+          {
+            "low": 9,
+            "high": 11,
+            "score": 1
+          },
+          {
+            "low": 12,
+            "high": 20,
+            "score": 0
+          },
+          {
+            "low": 21,
+            "high": 24,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 25,
+          "score": 3
+        },
+        "absMax": 40,
+        "absMin": 0,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "RR",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c52ee80e5932638be84b6"
+  },
+  "scoreId": "664c520280e5932638be84b4",
+  "groupName": "Oxygen Saturations",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "SpO2",
+      "ranges": {
+        "lessthan": {
+          "condition": 91,
+          "score": 3
+        },
+        "between": [
+          {
+            "low": 92,
+            "high": 93,
+            "score": 2
+          },
+          {
+            "low": 94,
+            "high": 95,
+            "score": 1
+          }
+        ],
+        "greaterThan": {
+          "condition": 96,
+          "score": 0
+        },
+        "absMax": 100,
+        "absMin": 88,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "SpO2",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c530780e5932638be84b7"
+  },
+  "scoreId": "664c520280e5932638be84b4",
+  "groupName": "Any Supplemental Oxygen",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Yes",
+        "answer": 2
+      },
+      {
+        "questionText": "No",
+        "answer": 0
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c537980e5932638be84b8"
+  },
+  "scoreId": "664c520280e5932638be84b4",
+  "groupName": "Temperature",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "T1",
+      "ranges": {
+        "lessthan": {
+          "condition": 35,
+          "score": 3
+        },
+        "between": [
+          {
+            "low": 35.1,
+            "high": 36,
+            "score": 1
+          },
+          {
+            "low": 36.1,
+            "high": 38,
+            "score": 0
+          },
+          {
+            "low": 38.1,
+            "high": 39,
+            "score": 1
+          }
+        ],
+        "greaterThan": {
+          "condition": 39.1,
+          "score": 2
+        },
+        "absMax": 40,
+        "absMin": 34,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "T1",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c546280e5932638be84ba"
+  },
+  "scoreId": "664c520280e5932638be84b4",
+  "groupName": "Systolic Blood Pressure",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "SYS",
+      "ranges": {
+        "lessthan": {
+          "condition": 90,
+          "score": 3
+        },
+        "between": [
+          {
+            "low": 91,
+            "high": 100,
+            "score": 2
+          },
+          {
+            "low": 101,
+            "high": 110,
+            "score": 1
+          },
+          {
+            "low": 111,
+            "high": 219,
+            "score": 0
+          }
+        ],
+        "greaterThan": {
+          "condition": 220,
+          "score": 3
+        },
+        "absMax": 225,
+        "absMin": 85,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "SYS",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c54b280e5932638be84bb"
+  },
+  "scoreId": "664c520280e5932638be84b4",
+  "groupName": "Heart Rate",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "Heart Rate",
+      "ranges": {
+        "lessthan": {
+          "condition": 40,
+          "score": 3
+        },
+        "between": [
+          {
+            "low": 41,
+            "high": 50,
+            "score": 1
+          },
+          {
+            "low": 51,
+            "high": 90,
+            "score": 0
+          },
+          {
+            "low": 91,
+            "high": 110,
+            "score": 1
+          },
+          {
+            "low": 111,
+            "high": 130,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 131,
+          "score": 3
+        },
+        "absMax": 135,
+        "absMin": 35,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "Heart Rate",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c54df80e5932638be84bc"
+  },
+  "scoreId": "664c520280e5932638be84b4",
+  "groupName": "AVPU Score",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Alert",
+        "answer": 0
+      },
+      {
+        "questionText": "Voice",
+        "answer": 3
+      },
+      {
+        "questionText": "Pain",
+        "answer": 3
+      },
+      {
+        "questionText": "Unresponsive",
+        "answer": 3
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c576680e5932638be84bf"
+  },
+  "scoreId": "664c571a80e5932638be84be",
+  "groupName": "Systolic BP",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "SYS",
+      "ranges": {
+        "lessthan": {
+          "condition": 70,
+          "score": 3
+        },
+        "between": [
+          {
+            "low": 71,
+            "high": 80,
+            "score": 2
+          },
+          {
+            "low": 81,
+            "high": 100,
+            "score": 1
+          },
+          {
+            "low": 101,
+            "high": 199,
+            "score": 0
+          }
+        ],
+        "greaterThan": {
+          "condition": 200,
+          "score": 2
+        },
+        "absMax": 210,
+        "absMin": 65,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "SYS",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c57b180e5932638be84c0"
+  },
+  "scoreId": "664c571a80e5932638be84be",
+  "groupName": "Heartrate",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "Heart Rate",
+      "ranges": {
+        "lessthan": {
+          "condition": 40,
+          "score": 2
+        },
+        "between": [
+          {
+            "low": 41,
+            "high": 50,
+            "score": 1
+          },
+          {
+            "low": 51,
+            "high": 100,
+            "score": 0
+          },
+          {
+            "low": 101,
+            "high": 110,
+            "score": 1
+          },
+          {
+            "low": 111,
+            "high": 129,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 130,
+          "score": 3
+        },
+        "absMax": 140,
+        "absMin": 35,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "Heart Rate",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c57f380e5932638be84c1"
+  },
+  "scoreId": "664c571a80e5932638be84be",
+  "groupName": "Respiration rate",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "RR",
+      "ranges": {
+        "lessthan": {
+          "condition": 9,
+          "score": 2
+        },
+        "between": [
+          {
+            "low": 9,
+            "high": 14,
+            "score": 0
+          },
+          {
+            "low": 15,
+            "high": 20,
+            "score": 1
+          },
+          {
+            "low": 21,
+            "high": 29,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 30,
+          "score": 3
+        },
+        "absMax": 35,
+        "absMin": 5,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "RR",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c582d80e5932638be84c2"
+  },
+  "scoreId": "664c571a80e5932638be84be",
+  "groupName": "Temperature T1",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "T1",
+      "ranges": {
+        "lessthan": {
+          "condition": 35,
+          "score": 2
+        },
+        "between": [
+          {
+            "low": 35,
+            "high": 38.4,
+            "score": 0
+          }
+        ],
+        "greaterThan": {
+          "condition": 38.5,
+          "score": 2
+        },
+        "absMax": 45,
+        "absMin": 30,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "T1",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "664c585e80e5932638be84c3"
+  },
+  "scoreId": "664c571a80e5932638be84be",
+  "groupName": "AVPU - Score",
+  "input": {
+    "questions": [
+      {
+        "questionText": "Alert",
+        "answer": 0
+      },
+      {
+        "questionText": "React to Voice",
+        "answer": 1
+      },
+      {
+        "questionText": "Reacts to Pain",
+        "answer": 2
+      },
+      {
+        "questionText": "Unresponsive",
+        "answer": 3
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.MultiChoice"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "667e502c1bd05c1b398d8a93"
+  },
+  "scoreId": "667e4f6f1bd05c1b398d8a92",
+  "groupName": "SpO2",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "BplUltimaPrime",
+      "parameter": "SpO2",
+      "ranges": {
+        "lessthan": {
+          "condition": 90,
+          "score": 4
+        },
+        "between": [
+          {
+            "low": 95,
+            "high": 100,
+            "score": 0
+          },
+          {
+            "low": 90,
+            "high": 95,
+            "score": 2
+          }
+        ],
+        "greaterThan": {
+          "condition": 100,
+          "score": 4
+        },
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "BplUltimaPrime",
+    "parameter": "SpO2",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699007829d57055f0f5e439"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Gender",
+  "input": {
+    "answerType": "DEMOGRAPHICS",
+    "answer": "Gender",
+    "ranges": {
+      "lessthan": {
+        "score": 0
+      },
+      "between": [
+        {
+          "low": 0,
+          "high": 0,
+          "score": 0
+        }
+      ],
+      "greaterThan": {
+        "score": 0
+      },
+      "absMax": 1,
+      "absMin": 1,
+      "ranges": []
+    },
+    "typeofanswer": [
+      {
+        "type": "Demographics",
+        "answer": "Gender",
+        "ranges": {
+          "lessthan": {
+            "score": 0
+          },
+          "between": [
+            {
+              "low": 0,
+              "high": 0,
+              "score": 0
+            }
+          ],
+          "greaterThan": {
+            "score": 0
+          },
+          "absMax": 1,
+          "absMin": 1,
+          "ranges": []
+        },
+        "questions": []
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Demographics"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "669900e229d57055f0f5e43a"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Age",
+  "input": {
+    "answerType": "DEMOGRAPHICS",
+    "answer": "Age",
+    "ranges": {
+      "lessthan": {
+        "condition": 40,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 80,
+        "score": 1
+      },
+      "absMax": 90,
+      "absMin": 18,
+      "ranges": []
+    },
+    "typeofanswer": [
+      {
+        "type": "Demographics",
+        "answer": "Age",
+        "ranges": {
+          "lessthan": {
+            "condition": 40,
+            "score": 1
+          },
+          "between": [],
+          "greaterThan": {
+            "condition": 80,
+            "score": 1
+          },
+          "absMax": 90,
+          "absMin": 18,
+          "ranges": []
+        },
+        "questions": []
+      }
+    ],
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Demographics"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699013829d57055f0f5e43b"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Heart Rate",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "Heart Rate",
+      "ranges": {
+        "lessthan": {
+          "condition": 65,
+          "score": 1
+        },
+        "between": [],
+        "greaterThan": {
+          "condition": 100,
+          "score": 1
+        },
+        "absMax": 90,
+        "absMin": 50,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "Heart Rate",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699015a29d57055f0f5e43c"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "SpO2",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "SpO2",
+      "ranges": {
+        "lessthan": {
+          "condition": 95,
+          "score": 1
+        },
+        "between": [],
+        "greaterThan": {
+          "condition": 100,
+          "score": 1
+        },
+        "absMax": 100,
+        "absMin": 90,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "SpO2",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699019329d57055f0f5e43d"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Temperature",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "T1",
+      "ranges": {
+        "lessthan": {
+          "condition": 36,
+          "score": 1
+        },
+        "between": [],
+        "greaterThan": {
+          "condition": 38,
+          "score": 1
+        },
+        "absMax": 40,
+        "absMin": 34,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "T1",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "669901be29d57055f0f5e43e"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Mean Arterial Pressure",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "MEAN",
+      "ranges": {
+        "lessthan": {
+          "condition": 60,
+          "score": 1
+        },
+        "between": [],
+        "greaterThan": {
+          "condition": 120,
+          "score": 1
+        },
+        "absMax": 180,
+        "absMin": 60,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "MEAN",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "669901ed29d57055f0f5e43f"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Respiration Rate",
+  "input": {
+    "answerTypeDTO": {
+      "type": "Trends",
+      "device": "Draeger-Vista120S-PM",
+      "parameter": "RR",
+      "ranges": {
+        "lessthan": {
+          "condition": 10,
+          "score": 1
+        },
+        "between": [],
+        "greaterThan": {
+          "condition": 12,
+          "score": 1
+        },
+        "absMax": 20,
+        "absMin": 10,
+        "ranges": []
+      },
+      "questions": []
+    },
+    "device": "Draeger-Vista120S-PM",
+    "parameter": "RR",
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Trends"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699029229d57055f0f5e440"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Chloride",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "chloride",
+    "ranges": {
+      "lessthan": {
+        "condition": 90,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 110,
+        "score": 1
+      },
+      "absMax": 110,
+      "absMin": 90,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "669902e729d57055f0f5e441"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Creatinine",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "creatinine",
+    "ranges": {
+      "lessthan": {
+        "condition": 0.6,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 1.6,
+        "score": 1
+      },
+      "absMax": 1,
+      "absMin": 0,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699032629d57055f0f5e442"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Glucose",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "glucose",
+    "ranges": {
+      "lessthan": {
+        "condition": 65,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 100,
+        "score": 1
+      },
+      "absMax": 200,
+      "absMin": 60,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699036629d57055f0f5e443"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Hematocrit",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "haematocrit",
+    "ranges": {
+      "lessthan": {
+        "condition": 36,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 50,
+        "score": 1
+      },
+      "absMax": 60,
+      "absMin": 30,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699039829d57055f0f5e444"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Hemoglobin",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "haemoglobin",
+    "ranges": {
+      "lessthan": {
+        "condition": 12,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 18,
+        "score": 1
+      },
+      "absMax": 25,
+      "absMin": 10,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699040129d57055f0f5e445"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "White Blood Cell Count",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "wbc count",
+    "ranges": {
+      "lessthan": {
+        "condition": 4500,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 11000,
+        "score": 1
+      },
+      "absMax": 1500,
+      "absMin": 800,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+},
+{
+  "_id": {
+    "$oid": "6699047c29d57055f0f5e446"
+  },
+  "scoreId": "6699005329d57055f0f5e438",
+  "groupName": "Platelets",
+  "input": {
+    "answerType": "LAB",
+    "labParameter": "platelet count",
+    "ranges": {
+      "lessthan": {
+        "condition": 150000,
+        "score": 1
+      },
+      "between": [],
+      "greaterThan": {
+        "condition": 450000,
+        "score": 1
+      },
+      "absMax": 500000,
+      "absMin": 50000,
+      "ranges": []
+    },
+    "_class": "com.dragger.cis.DragerCISBackend.scoring.model.Lab"
+  },
+  "typeOfAnswer": [],
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.GroupEntity"
+}]

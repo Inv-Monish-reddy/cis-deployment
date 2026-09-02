@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "67761948062d801346903c52"
+  },
+  "proceduresName": "MVR",
+  "createdDate": {
+    "$date": "2025-01-02T04:42:48.171Z"
+  },
+  "updateDate": {
+    "$date": "2025-01-02T04:42:48.171Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "67761950062d801346903c54"
+  },
+  "proceduresName": "CABG",
+  "createdDate": {
+    "$date": "2025-01-02T04:42:56.570Z"
+  },
+  "updateDate": {
+    "$date": "2025-01-02T04:42:56.570Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc2a4aae80671ff1a62ec"
+  },
+  "proceduresName": "Appendectomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:45:56.899Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:45:56.899Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc2adaae80671ff1a62ee"
+  },
+  "proceduresName": "CABG",
+  "createdDate": {
+    "$date": "2024-05-10T06:46:05.051Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:46:05.051Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc2b8aae80671ff1a62f1"
+  },
+  "proceduresName": "Cholecystectomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:46:16.830Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:46:16.830Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc2c4aae80671ff1a62f2"
+  },
+  "proceduresName": "Bypass Surgery",
+  "createdDate": {
+    "$date": "2024-05-10T06:46:28.605Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:46:28.605Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc2ccaae80671ff1a62f3"
+  },
+  "proceduresName": "LAP Appendectomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:46:36.927Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:46:36.927Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc2d3aae80671ff1a62f4"
+  },
+  "proceduresName": "Laparoscopic Surgery",
+  "createdDate": {
+    "$date": "2024-05-10T06:46:43.749Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:46:43.749Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc319aae80671ff1a62f6"
+  },
+  "proceduresName": "Carotid endarterectomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:47:53.037Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:47:53.037Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc330aae80671ff1a62f8"
+  },
+  "proceduresName": "Hysterectomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:48:16.983Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:48:16.983Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc34aaae80671ff1a62f9"
+  },
+  "proceduresName": "Hemodialysis",
+  "createdDate": {
+    "$date": "2024-05-10T06:48:42.975Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:48:42.975Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc362aae80671ff1a62fc"
+  },
+  "proceduresName": "Knee Arthroscopy",
+  "createdDate": {
+    "$date": "2024-05-10T06:49:06.704Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:49:06.704Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc379aae80671ff1a62fd"
+  },
+  "proceduresName": "Nephrostomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:49:29.698Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:49:29.698Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc38eaae80671ff1a6301"
+  },
+  "proceduresName": "Mastoidectomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:49:50.779Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:49:50.779Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc3a9aae80671ff1a6303"
+  },
+  "proceduresName": "Pulmonary Valve Surgery",
+  "createdDate": {
+    "$date": "2024-05-10T06:50:17.071Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:50:17.071Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc3bbaae80671ff1a6306"
+  },
+  "proceduresName": "Tracheostomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:50:35.388Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:50:35.388Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc3c8aae80671ff1a6308"
+  },
+  "proceduresName": "Stapedectomy",
+  "createdDate": {
+    "$date": "2024-05-10T06:50:48.875Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T06:50:48.875Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "663dc6abaae80671ff1a631d"
+  },
+  "proceduresName": "Bilateral Adrenalectomy",
+  "createdDate": {
+    "$date": "2024-05-10T07:03:07.598Z"
+  },
+  "updateDate": {
+    "$date": "2024-05-10T07:03:07.598Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "6789d5da1a48cd09e6d30e48"
+  },
+  "proceduresName": "OPCAB: Off-Pump Coronary Artery Bypass",
+  "createdDate": {
+    "$date": "2025-01-17T04:00:26.735Z"
+  },
+  "updateDate": {
+    "$date": "2025-01-17T04:00:26.735Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+},
+{
+  "_id": {
+    "$oid": "67cfe35b96cd231299746b18"
+  },
+  "proceduresName": "IV Fluid Therapy",
+  "createdDate": {
+    "$date": "2025-03-11T07:16:43.928Z"
+  },
+  "updateDate": {
+    "$date": "2025-03-11T07:16:43.928Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.entity.ProceduresEntity"
+}]

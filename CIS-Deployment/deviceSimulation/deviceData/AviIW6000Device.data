@@ -1,0 +1,1432 @@
+MSH|^~\&|IW6000A^||||20250311025358||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025358
+OBR|||||||20250311025402
+OBX||NM|1010^Measured^BabyTemp||30.4|C||||||||20250311025403
+OBX||NM|1011^Measured^AirTemp||29.5|C||||||||20250311025403
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025403
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025403
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025403
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025403
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025403
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025403
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025403
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025403
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025403
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025403
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025403
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025403
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025403
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025403
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025403
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025403
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025403
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025403
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025403
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025403
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025403
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025403~MSH|^~\&|IW6000A^||||20250311025408||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025410
+OBR|||||||20250311025411
+OBX||NM|1010^Measured^BabyTemp||29.2|C||||||||20250311025412
+OBX||NM|1011^Measured^AirTemp||29.5|C||||||||20250311025412
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025412
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025412
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025412
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025412
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025412
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025412
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025412
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025412
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025412
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025412
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025412
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025412
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025412
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025412
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025412
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025412
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025412
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025412
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025412
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025412
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025412
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025412~MSH|^~\&|IW6000A^||||20250311025417||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025419
+OBR|||||||20250311025420
+OBX||NM|1010^Measured^BabyTemp||29.2|C||||||||20250311025421
+OBX||NM|1011^Measured^AirTemp||29.5|C||||||||20250311025421
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025421
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025421
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025421
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025421
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025421
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025421
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025421
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025421
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025421
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025421
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025421
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025421
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025421
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025421
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025421
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025421
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025421
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025421
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025421
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025421
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025421
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025421~MSH|^~\&|IW6000A^||||20250311025426||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025428
+OBR|||||||20250311025429
+OBX||NM|1010^Measured^BabyTemp||29.1|C||||||||20250311025430
+OBX||NM|1011^Measured^AirTemp||29.5|C||||||||20250311025430
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025430
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025430
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025430
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025430
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025430
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025430
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025430
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025430
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025430
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025430
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025430
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025430
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025430
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025430
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025430
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025430
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025430
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025430
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025430
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025430
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025430
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025430~MSH|^~\&|IW6000A^||||20250311025435||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025437
+OBR|||||||20250311025438
+OBX||NM|1010^Measured^BabyTemp||29.2|C||||||||20250311025439
+OBX||NM|1011^Measured^AirTemp||29.5|C||||||||20250311025439
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025439
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025439
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025439
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025439
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025439
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025439
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025439
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025439
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025439
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025439
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025439
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025439
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025439
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025439
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025439
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025439
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025439
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025439
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025439
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025439
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025439
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025439~MSH|^~\&|IW6000A^||||20250311025444||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025446
+OBR|||||||20250311025447
+OBX||NM|1010^Measured^BabyTemp||29.1|C||||||||20250311025448
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311025448
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025448
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025448
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025448
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025448
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025448
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025448
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025448
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025448
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025448
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025448
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025448
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025448
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025448
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025448
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025448
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025448
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025448
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025448
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025448
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025448
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025448
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025448~MSH|^~\&|IW6000A^||||20250311025453||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025455
+OBR|||||||20250311025456
+OBX||NM|1010^Measured^BabyTemp||29.1|C||||||||20250311025457
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311025457
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025457
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025457
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025457
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025457
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025457
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025457
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025457
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025457
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025457
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025457
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025457
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025457
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025457
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025457
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025457
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025457
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025457
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025457
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025457
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025457
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025457
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025457~MSH|^~\&|IW6000A^||||20250311025502||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025504
+OBR|||||||20250311025505
+OBX||NM|1010^Measured^BabyTemp||29.1|C||||||||20250311025506
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311025506
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025506
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025506
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025506
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025506
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025506
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025506
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025506
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025506
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025506
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025506
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025506
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025506
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025506
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025506
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025506
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025506
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025506
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025506
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025506
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025506
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025506
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025506~MSH|^~\&|IW6000A^||||20250311025511||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025513
+OBR|||||||20250311025514
+OBX||NM|1010^Measured^BabyTemp||29.1|C||||||||20250311025515
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311025515
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025515
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025515
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025515
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025515
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025515
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025515
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025515
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025515
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025515
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025515
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025515
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025515
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025515
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025515
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025515
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025515
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025515
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025515
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025515
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025515
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025515
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025515~MSH|^~\&|IW6000A^||||20250311025520||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025522
+OBR|||||||20250311025523
+OBX||NM|1010^Measured^BabyTemp||29.1|C||||||||20250311025524
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311025524
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025524
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025524
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025524
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025524
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025524
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025524
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025524
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025524
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025524
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025524
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025524
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025524
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025524
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025524
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025524
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025524
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025524
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025524
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025524
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025524
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025524
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025524~MSH|^~\&|IW6000A^||||20250311025529||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025531
+OBR|||||||20250311025532
+OBX||NM|1010^Measured^BabyTemp||29.1|C||||||||20250311025533
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311025533
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025533
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025533
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025533
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025533
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025533
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025533
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025533
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025533
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025533
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025533
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025533
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025533
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025533
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025533
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025533
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025533
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025533
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025533
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025533
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025533
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025533
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025533~MSH|^~\&|IW6000A^||||20250311025538||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025540
+OBR|||||||20250311025541
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311025542
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311025542
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025542
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025542
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025542
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025542
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025542
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025542
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025542
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025542
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025542
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025542
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025542
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025542
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025542
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025542
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025542
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025542
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025542
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025542
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025542
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025542
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025542
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025542~MSH|^~\&|IW6000A^||||20250311025547||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025549
+OBR|||||||20250311025550
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311025551
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025551
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025551
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025551
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025551
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025551
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025551
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025551
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025551
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025551
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025551
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025551
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025551
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025551
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025551
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025551
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025551
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025551
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025551
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025551
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025551
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025551
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025551
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025551~MSH|^~\&|IW6000A^||||20250311025556||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025559
+OBR|||||||20250311025600
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311025601
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025601
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025601
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025601
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025601
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025601
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025601
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025601
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025601
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025601
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025601
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025601
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025601
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025601
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025601
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025601
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025601
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025601
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025601
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025601
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025601
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025601
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025601
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025601~MSH|^~\&|IW6000A^||||20250311025606||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025608
+OBR|||||||20250311025609
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311025610
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025610
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025610
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025610
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025610
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025610
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025610
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025610
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025610
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025610
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025610
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025610
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025610
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025610
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025610
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025610
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025610
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025610
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025610
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025610
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025610
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025610
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025610
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025610~MSH|^~\&|IW6000A^||||20250311025614||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025617
+OBR|||||||20250311025618
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311025619
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025619
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025619
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025619
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025619
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025619
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025619
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025619
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025619
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025619
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025619
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025619
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025619
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025619
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025619
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025619
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025619
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025619
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025619
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025619
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025619
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025619
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025619
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025619~MSH|^~\&|IW6000A^||||20250311025625||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025627
+OBR|||||||20250311025628
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311025628
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025628
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025628
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025628
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025628
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025628
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025628
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025628
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025628
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025628
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025628
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025628
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025628
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025628
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025628
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025628
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025628
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025628
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025628
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025628
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025628
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025628
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025628
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025628~MSH|^~\&|IW6000A^||||20250311025633||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025635
+OBR|||||||20250311025636
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025637
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025637
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025637
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025637
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025637
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025637
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025637
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025637
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025637
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025637
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025637
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025637
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025637
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025637
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025637
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025637
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025637
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025637
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025637
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025637
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025637
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025637
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025637
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025637~MSH|^~\&|IW6000A^||||20250311025642||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025644
+OBR|||||||20250311025645
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025646
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025646
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025646
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025646
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025646
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025646
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025646
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025646
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025646
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025646
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025646
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025646
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025646
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025646
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025646
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025646
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025646
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025646
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025646
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025646
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025646
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025646
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025646
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025646~MSH|^~\&|IW6000A^||||20250311025651||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025653
+OBR|||||||20250311025654
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025655
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025655
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025655
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025655
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025655
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025655
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025655
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025655
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025655
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025655
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025655
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025655
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025655
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025655
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025655
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025655
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025655
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025655
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025655
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025655
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025655
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025655
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025655
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025655~MSH|^~\&|IW6000A^||||20250311025700||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025704
+OBR|||||||20250311025705
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025706
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025706
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025706
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025706
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025706
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025706
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025706
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025706
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025706
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025706
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025706
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025706
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025706
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025706
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025706
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025706
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025706
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025706
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025706
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025706
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025706
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025706
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025706
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025706~MSH|^~\&|IW6000A^||||20250311025710||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025712
+OBR|||||||20250311025713
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025714
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025714
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025714
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025714
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025714
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025714
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025714
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025714
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025714
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025714
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025714
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025714
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025714
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025714
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025714
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025714
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025714
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025714
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025714
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025714
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025714
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025714
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025714
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025714~MSH|^~\&|IW6000A^||||20250311025719||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025721
+OBR|||||||20250311025722
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025722
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025722
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025722
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025722
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025722
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025722
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025722
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025722
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025722
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025722
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025722
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025722
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025722
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025722
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025722
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025722
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025722
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025722
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025722
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025722
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025722
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025722
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025722
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025722~MSH|^~\&|IW6000A^||||20250311025729||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025732
+OBR|||||||20250311025733
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025734
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025734
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025734
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025734
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025734
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025734
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025734
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025734
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025734
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025734
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025734
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025734
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025734
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025734
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025734
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025734
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025734
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025734
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025734
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025734
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025734
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025734
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025734
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025734~MSH|^~\&|IW6000A^||||20250311025739||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025741
+OBR|||||||20250311025742
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025743
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025743
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025743
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025743
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025743
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025743
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025743
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025743
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025743
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025743
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025743
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025743
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025743
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025743
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025743
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025743
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025743
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025743
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025743
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025743
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025743
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025743
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025743
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025743~MSH|^~\&|IW6000A^||||20250311025748||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025751
+OBR|||||||20250311025752
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025753
+OBX||NM|1011^Measured^AirTemp||29.1|C||||||||20250311025753
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025753
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025753
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025753
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025753
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025753
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025753
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025753
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025753
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025753
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025753
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025753
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025753
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025753
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025753
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025753
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025753
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025753
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025753
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025753
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025753
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025753
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025753~MSH|^~\&|IW6000A^||||20250311025758||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025801
+OBR|||||||20250311025802
+OBX||NM|1010^Measured^BabyTemp||28.6|C||||||||20250311025802
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025802
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025802
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025802
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025802
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025802
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025802
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025802
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025802
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025802
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025802
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025802
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025802
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025802
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025802
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025802
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025802
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025802
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025802
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025802
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025802
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025802
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025802
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025802~MSH|^~\&|IW6000A^||||20250311025808||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025810
+OBR|||||||20250311025811
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025812
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025812
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025812
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025812
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025812
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025812
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025812
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025812
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025812
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025812
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025812
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025812
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025812
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025812
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025812
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025812
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025812
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025812
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025812
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025812
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025812
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025812
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025812
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025812~MSH|^~\&|IW6000A^||||20250311025816||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025818
+OBR|||||||20250311025819
+OBX||NM|1010^Measured^BabyTemp||28.6|C||||||||20250311025820
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025820
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025820
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025820
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025820
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025820
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025820
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025820
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025820
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025820
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025820
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025820
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025820
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025820
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025820
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025820
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025820
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025820
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025820
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025820
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025820
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025820
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025820
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025820~MSH|^~\&|IW6000A^||||20250311025826||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025828
+OBR|||||||20250311025829
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025830
+OBX||NM|1011^Measured^AirTemp||29.1|C||||||||20250311025830
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025830
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025830
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025830
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025830
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025830
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025830
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025830
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025830
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025830
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025830
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025830
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025830
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025830
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025830
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025830
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025830
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025830
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025830
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025830
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025830
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025830
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025830~MSH|^~\&|IW6000A^||||20250311025835||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025837
+OBR|||||||20250311025838
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025839
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025839
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025839
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025839
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025839
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025839
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025839
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025839
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025839
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025839
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025839
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025839
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025839
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025839
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025839
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025839
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025839
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025839
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025839
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025839
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025839
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025839
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025839
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025839~MSH|^~\&|IW6000A^||||20250311025844||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025846
+OBR|||||||20250311025847
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025848
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025848
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025848
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025848
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025848
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025848
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025848
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025848
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025848
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025848
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025848
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025848
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025848
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025848
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025848
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025848
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025848
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025848
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025848
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025848
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025848
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025848
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025848
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025848~MSH|^~\&|IW6000A^||||20250311025853||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025855
+OBR|||||||20250311025856
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025857
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025857
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025857
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025857
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025857
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025857
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025857
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025857
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025857
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025857
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025857
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025857
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025857
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025857
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025857
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025857
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025857
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025857
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025857
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025857
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025857
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025857
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025857
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025857~MSH|^~\&|IW6000A^||||20250311025902||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025905
+OBR|||||||20250311025906
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025907
+OBX||NM|1011^Measured^AirTemp||29.2|C||||||||20250311025907
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025907
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025907
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025907
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025907
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025907
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025907
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025907
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025907
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025907
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025907
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025907
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025907
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025907
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025907
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025907
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025907
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025907
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025907
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025907
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025907
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025907
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025907~MSH|^~\&|IW6000A^||||20250311025912||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025915
+OBR|||||||20250311025916
+OBX||NM|1010^Measured^BabyTemp||28.7|C||||||||20250311025917
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025917
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025917
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025917
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025917
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025917
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025917
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025917
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025917
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025917
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025917
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025917
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025917
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025917
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025917
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025917
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025917
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025917
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025917
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025917
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025917
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025917
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025917
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025917~MSH|^~\&|IW6000A^||||20250311025922||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025925
+OBR|||||||20250311025926
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025927
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025927
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025927
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025927
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025927
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025927
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025927
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025927
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025927
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025927
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025927
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025927
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025927
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025927
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025927
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025927
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025927
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025927
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025927
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025927
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025927
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025927
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025927
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025927~MSH|^~\&|IW6000A^||||20250311025932||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025935
+OBR|||||||20250311025936
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025937
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025937
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025937
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025937
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025937
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025937
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025937
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025937
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025937
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025937
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025937
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025937
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025937
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025937
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025937
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025937
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025937
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025937
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025937
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025937
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025937
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025937
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025937
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025937~MSH|^~\&|IW6000A^||||20250311025942||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025944
+OBR|||||||20250311025945
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311025946
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025946
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025946
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025946
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025946
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025946
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025946
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025946
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025946
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025946
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025946
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025946
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025946
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025946
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025946
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025946
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025946
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025946
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025946
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025946
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025946
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025946
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025946
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025946~MSH|^~\&|IW6000A^||||20250311025951||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311025954
+OBR|||||||20250311025955
+OBX||NM|1010^Measured^BabyTemp||28.8|C||||||||20250311025956
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311025956
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311025956
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311025956
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311025956
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311025956
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311025956
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311025956
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311025956
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311025956
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311025956
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311025956
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311025956
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311025956
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311025956
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311025956
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311025956
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311025956
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311025956
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311025956
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311025956
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311025956
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311025956
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311025956~MSH|^~\&|IW6000A^||||20250311030001||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030004
+OBR|||||||20250311030005
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311030006
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030006
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030006
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030006
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030006
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030006
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030006
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030006
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030006
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030006
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030006
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030006
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030006
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030006
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030006
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030006
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030006
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030006
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030006
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030006
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030006
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030006
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030006
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030006~MSH|^~\&|IW6000A^||||20250311030011||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030014
+OBR|||||||20250311030015
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311030016
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030016
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030016
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030016
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030016
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030016
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030016
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030016
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030016
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030016
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030016
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030016
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030016
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030016
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030016
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030016
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030016
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030016
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030016
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030016
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030016
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030016
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030016
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030016~MSH|^~\&|IW6000A^||||20250311030021||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030024
+OBR|||||||20250311030025
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311030026
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030026
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030026
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030026
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030026
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030026
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030026
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030026
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030026
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030026
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030026
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030026
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030026
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030026
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030026
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030026
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030026
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030026
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030026
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030026
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030026
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030026
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030026
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030026~MSH|^~\&|IW6000A^||||20250311030031||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030034
+OBR|||||||20250311030035
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030036
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311030036
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030036
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030036
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030036
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030036
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030036
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030036
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030036
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030036
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030036
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030036
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030036
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030036
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030036
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030036
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030036
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030036
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030036
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030036
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030036
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030036
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030036
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030036~MSH|^~\&|IW6000A^||||20250311030041||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030044
+OBR|||||||20250311030045
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030046
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311030046
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030046
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030046
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030046
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030046
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030046
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030046
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030046
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030046
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030046
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030046
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030046
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030046
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030046
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030046
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030046
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030046
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030046
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030046
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030046
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030046
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030046
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030046~MSH|^~\&|IW6000A^||||20250311030051||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030054
+OBR|||||||20250311030055
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311030056
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311030056
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030056
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030056
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030056
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030056
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030056
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030056
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030056
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030056
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030056
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030056
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030056
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030056
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030056
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030056
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030056
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030056
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030056
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030056
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030056
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030056
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030056
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030056~MSH|^~\&|IW6000A^||||20250311030101||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030104
+OBR|||||||20250311030105
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030106
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030106
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030106
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030106
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030106
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030106
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030106
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030106
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030106
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030106
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030106
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030106
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030106
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030106
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030106
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030106
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030106
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030106
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030106
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030106
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030106
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030106
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030106
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030106~MSH|^~\&|IW6000A^||||20250311030111||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030114
+OBR|||||||20250311030115
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030116
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030116
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030116
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030116
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030116
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030116
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030116
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030116
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030116
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030116
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030116
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030116
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030116
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030116
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030116
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030116
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030116
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030116
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030116
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030116
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030116
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030116
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030116
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030116~MSH|^~\&|IW6000A^||||20250311030121||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030124
+OBR|||||||20250311030125
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030126
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311030126
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030126
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030126
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030126
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030126
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030126
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030126
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030126
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030126
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030126
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030126
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030126
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030126
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030126
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030126
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030126
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030126
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030126
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030126
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030126
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030126
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030126
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030126~MSH|^~\&|IW6000A^||||20250311030131||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030134
+OBR|||||||20250311030135
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030136
+OBX||NM|1011^Measured^AirTemp||29.4|C||||||||20250311030136
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030136
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030136
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030136
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030136
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030136
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030136
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030136
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030136
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030136
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030136
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030136
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030136
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030136
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030136
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030136
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030136
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030136
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030136
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030136
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030136
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030136
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030136~MSH|^~\&|IW6000A^||||20250311030141||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030144
+OBR|||||||20250311030145
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030146
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030146
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030146
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030146
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030146
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030146
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030146
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030146
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030146
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030146
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030146
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030146
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030146
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030146
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030146
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030146
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030146
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030146
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030146
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030146
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030146
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030146
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030146
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030146~MSH|^~\&|IW6000A^||||20250311030151||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030154
+OBR|||||||20250311030154
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030154
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030154
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030154
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030154
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030154
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030154
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030154
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030154
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030154
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030154
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030154
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030154
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030154
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030154
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030154
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030154
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030154
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030154
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030154
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030154
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030154
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030154
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030154
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030154~MSH|^~\&|IW6000A^||||20250311030201||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030204
+OBR|||||||20250311030205
+OBX||NM|1010^Measured^BabyTemp||29.0|C||||||||20250311030206
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030206
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030206
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030206
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030206
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030206
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030206
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030206
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030206
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030206
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030206
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030206
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030206
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030206
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030206
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030206
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030206
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030206
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030206
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030206
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030206
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030206
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030206
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030206~MSH|^~\&|IW6000A^||||20250311030211||ORU^RO1|||2.6
+PID|||  1234||  ADMIN||20250311|Boy
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250311030214
+OBR|||||||20250311030215
+OBX||NM|1010^Measured^BabyTemp||28.9|C||||||||20250311030216
+OBX||NM|1011^Measured^AirTemp||29.3|C||||||||20250311030216
+OBX||NM|1012^Measured^HeaterPower||0|%||||||||20250311030216
+OBX||NM|1013^Measured^PressureValue||0|bar||||||||20250311030216
+OBX||NM|1014^Measured^SuctionPressure||0|bar||||||||20250311030216
+OBX||NM|1015^Measured^BabyWeight||0|grams||||||||20250311030216
+OBX||NM|1016^Measured^PulseRate||0|bpm||||||||20250311030216
+OBX||NM|1017^Measured^SpO2||0|%||||||||20250311030216
+OBX||NM|1001^Setting^BabyTemp||32.0|C||||||||20250311030216
+OBX||NM|1002^Setting^AirTemp||36.0|C||||||||20250311030216
+OBX||NM|1003^Setting^HeaterPowerCutOff ||40|%||||||||20250311030216
+OBX||NM|1004^Setting^HeaterPower||20|%||||||||20250311030216
+OBX||NM|1005^Setting^Timer||15|min||||||||20250311030216
+OBX||NM|1006^Setting^SpO2High||89|%||||||||20250311030216
+OBX||NM|1007^Setting^SpO2Low||62|%||||||||20250311030216
+OBX||NM|1008^Setting^PulseRateLow||32|bpm||||||||20250311030216
+OBX||NM|1009^Setting^PulseRateHigh||84|bpm||||||||20250311030216
+OBX||NM|1018^Setting^PressLow||3|bar||||||||20250311030216
+OBX||NM|1019^Setting^PressHigh||8|bar||||||||20250311030216
+OBX||CWE|1064^Setting^TreatmentMode||PrewarmMode|-||||||||20250311030216
+OBX||CWE|1030^Alarm^High||Overhead Heater Fail|-||||||||20250311030216
+OBX||CWE|1036^Alarm^High||Pre-Warm Mode Over|-||||||||20250311030216
+OBX||CWE|1041^Alarm^Medium||Baby Sensor Dislocated|-||||||||20250311030216
+OBX||CWE|1038^Alarm^Medium||Please Change The Mode|-||||||||20250311030216~

@@ -1,0 +1,1162 @@
+[{
+  "_id": {
+    "$oid": "68ecf32d0ca4667abc259c0b"
+  },
+  "name": "Alpha agonist STAT",
+  "displayName": "Alpha agonist STAT",
+  "input": {
+    "listMap": {
+      "Phenylephrine": "Phenylephrine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ecf6060ca4667abc259c0d"
+  },
+  "name": "Amount",
+  "displayName": "Amount",
+  "input": {
+    "input": "NUMBER",
+    "precision": "0.00",
+    "highestValue": "3000.00",
+    "lowestValue": "0.00",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.Number"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed30f30ca4667abc259c0f"
+  },
+  "name": "Alpha2 agonist STAT",
+  "displayName": "Alpha2 agonist STAT",
+  "input": {
+    "listMap": {
+      "Clonidine": "Clonidine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed32490ca4667abc259c11"
+  },
+  "name": "Anti-arrhythmic STAT",
+  "displayName": "Anti-arrhythmic STAT",
+  "input": {
+    "listMap": {
+      "Amiodarone": "Amiodarone",
+      "Digoxin": "Digoxin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed32ec0ca4667abc259c14"
+  },
+  "name": "Antibiotics STAT",
+  "displayName": "Antibiotics STAT",
+  "input": {
+    "listMap": {
+      "Ceftriaxone": "Ceftriaxone"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed34de0ca4667abc259c16"
+  },
+  "name": "Anticholinergics STAT",
+  "displayName": "Anticholinergics STAT",
+  "input": {
+    "listMap": {
+      "Atropine": "Atropine",
+      "Glycopyrolate": "Glycopyrolate"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed37910ca4667abc259c18"
+  },
+  "name": "Anticoagulants STAT",
+  "displayName": "Anticoagulants STAT",
+  "input": {
+    "listMap": {
+      "Heparin": "Heparin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed38340ca4667abc259c1a"
+  },
+  "name": "Anti-emetic STAT",
+  "displayName": "Anti-emetic STAT",
+  "input": {
+    "listMap": {
+      "Ondansetron": "Ondansetron"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed39250ca4667abc259c1c"
+  },
+  "name": "Anti-fibrinolytics STAT",
+  "displayName": "Anti-fibrinolytics STAT",
+  "input": {
+    "listMap": {
+      "Tranexamic Acid": "Tranexamic Acid"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed39930ca4667abc259c1e"
+  },
+  "name": "Anti-hypertensives STAT",
+  "displayName": "Anti-hypertensives STAT",
+  "input": {
+    "listMap": {
+      "Labetalol": "Labetalol"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed39e80ca4667abc259c20"
+  },
+  "name": "Benzodiazepines STAT",
+  "displayName": "Benzodiazepines STAT",
+  "input": {
+    "listMap": {
+      "Midazolam": "Midazolam"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed3a870ca4667abc259c22"
+  },
+  "name": "Beta-blockers STAT",
+  "displayName": "Beta-blockers STAT",
+  "input": {
+    "listMap": {
+      "Metoprolol": "Metoprolol",
+      "Esmolol": "Esmolol",
+      "Metoprolol tartrate": "Metoprolol tartrate"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed3b0f0ca4667abc259c24"
+  },
+  "name": "Calcium channel blockers STAT",
+  "displayName": "Calcium channel blockers STAT",
+  "input": {
+    "listMap": {
+      "Diltiazem": "Diltiazem"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed3bd50ca4667abc259c26"
+  },
+  "name": "Diuretics STAT",
+  "displayName": "Diuretics STAT",
+  "input": {
+    "listMap": {
+      "Frusemide": "Frusemide"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed3e510ca4667abc259c28"
+  },
+  "name": "Electrolytes STAT",
+  "displayName": "Electrolytes STAT",
+  "input": {
+    "listMap": {
+      "Potassium Chloride": "Potassium Chloride",
+      "Calcium Gluconate": "Calcium Gluconate",
+      " Magnesium Sulphate": " Magnesium Sulphate",
+      "Sodium Bicarbonate": "Sodium Bicarbonate"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed40580ca4667abc259c2a"
+  },
+  "name": "Inhaler STAT",
+  "displayName": "Inhaler STAT",
+  "input": {
+    "listMap": {
+      "Budecort": "Budecort",
+      "Duolin": "Duolin",
+      "Foracort": "Foracort"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed40be0ca4667abc259c2b"
+  },
+  "name": "Inotropes STAT",
+  "displayName": "Inotropes STAT",
+  "input": {
+    "listMap": {
+      "Adrenaline": "Adrenaline",
+      "Milrinone": "Milrinone"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed415e0ca4667abc259c2e"
+  },
+  "name": "Local Anesthestics STAT",
+  "displayName": "Local Anesthestics STAT",
+  "input": {
+    "listMap": {
+      "Lignocaine": "Lignocaine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed427f0ca4667abc259c30"
+  },
+  "name": "Muscle Relaxants STAT",
+  "displayName": "Muscle Relaxants STAT",
+  "input": {
+    "listMap": {
+      "Atracurium": "Atracurium",
+      "Vecuronium": "Vecuronium",
+      "Rocuronium": "Rocuronium",
+      "Pancuronium": "Pancuronium",
+      " Succinylcholine": "Succinylcholine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed430d0ca4667abc259c32"
+  },
+  "name": "NSAIDS STAT",
+  "displayName": "NSAIDS STAT",
+  "input": {
+    "listMap": {
+      "Diclofenac": "Diclofenac",
+      "Ketorolac": "Ketorolac"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed4b220ca4667abc259c3d"
+  },
+  "name": "Steriods STAT",
+  "displayName": "Steriods STAT",
+  "input": {
+    "listMap": {
+      "Triamcinolone": "Triamcinolone",
+      "Hydrocortisone": "Hydrocortisone",
+      "Dexamethasone": "Dexamethasone",
+      "Methylprednisolone": "Methylprednisolone"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed4bbe0ca4667abc259c3f"
+  },
+  "name": "Sedatives STAT",
+  "displayName": "Sedatives STAT",
+  "input": {
+    "listMap": {
+      "Propofol": "Propofol",
+      "Ketamine": "Ketamine",
+      "Etomidate": "Etomidate",
+      "Thiopentone": "Thiopentone"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed4c520ca4667abc259c41"
+  },
+  "name": "Opioids STAT",
+  "displayName": "Opioids STAT",
+  "input": {
+    "listMap": {
+      "Nalbuphine": "Nalbuphine",
+      "Fentanyl": "Fentanyl"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed4cee0ca4667abc259c43"
+  },
+  "name": "STAT",
+  "displayName": "STAT",
+  "input": {
+    "listMap": {
+      "Insulin": "Insulin",
+      "Ephedrine": "Ephedrine",
+      "Pantoprazole": "Pantoprazole",
+      "Paracetamol": "Paracetamol",
+      "Mephentermine": "Mephentermine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed4d4e0ca4667abc259c45"
+  },
+  "name": "Reversal agents STAT",
+  "displayName": "Reversal agents STAT",
+  "input": {
+    "listMap": {
+      "Neostigmine": "Neostigmine",
+      "Myopyrolate": "Myopyrolate"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed52040ca4667abc259c47"
+  },
+  "name": "Alpha2 agonist PRN",
+  "displayName": "Alpha2 agonist PRN",
+  "input": {
+    "listMap": {
+      "Dexmedetomidine": "Dexmedetomidine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed53240ca4667abc259c49"
+  },
+  "name": "Antibiotics PRN",
+  "displayName": "Antibiotics PRN",
+  "input": {
+    "listMap": {
+      "Magnex Forte ": "Magnex Forte",
+      "Piperacillin+tazobactam": "Piperacillin+tazobactam",
+      "Ceftraixone": "Ceftraixone",
+      "Promethazine": "Promethazine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed53d60ca4667abc259c4b"
+  },
+  "name": "Analgesics PRN",
+  "displayName": "Analgesics PRN",
+  "input": {
+    "listMap": {
+      "Paracetamol": "Paracetamol"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ed56200ca4667abc259c4d"
+  },
+  "name": "INFUSED",
+  "displayName": "INFUSED",
+  "input": {
+    "listMap": {
+      "Infused Levosemendan": "Infused Levosemendan",
+      "Infused Milrinone": "Infused Milrinone",
+      "Infused Propofol": "Infused Propofol",
+      "Infused Dexemedetomidine": "Infused Dexemedetomidine",
+      "Infused Vasopressin": "Infused Vasopressin",
+      "Infused Noradrenaline": "Infused Noradrenaline",
+      "Infused Adrenaline": "Infused Adrenaline",
+      "Infused Nitroglycerin": "Infused Nitroglycerin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68eda90a0ca4667abc259c4f"
+  },
+  "name": "Anti histamines PRN",
+  "displayName": "Anti histamines PRN",
+  "input": {
+    "listMap": {
+      "Avil": "Avil"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68eda98a0ca4667abc259c51"
+  },
+  "name": "Anti-epileptics PRN",
+  "displayName": "Anti-epileptics PRN",
+  "input": {
+    "listMap": {
+      "Sodium Valporate": "Sodium Valporate",
+      "Levetiractam": "Levetiractam",
+      "Phenytoin": "Phenytoin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edaa0b0ca4667abc259c53"
+  },
+  "name": "Anti-cholinergics PRN",
+  "displayName": "Anti-cholinergics PRN",
+  "input": {
+    "listMap": {
+      "Ipratropium": "Ipratropium"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edaa570ca4667abc259c54"
+  },
+  "name": "Anti-coagulants PRN",
+  "displayName": "Anti-coagulants PRN",
+  "input": {
+    "listMap": {
+      "Bivalirudin": "Bivalirudin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edab9e0ca4667abc259c57"
+  },
+  "name": "Beta agonist PRN",
+  "displayName": "Beta agonist PRN",
+  "input": {
+    "listMap": {
+      "Terbutaline": "Terbutaline",
+      "Asthalin": "Asthalin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edac030ca4667abc259c59"
+  },
+  "name": "Inotropes PRN",
+  "displayName": "Inotropes PRN",
+  "input": {
+    "listMap": {
+      "Dopamine": "Dopamine",
+      "Dobutamine": "Dobutamine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edac4f0ca4667abc259c5b"
+  },
+  "name": "Diuretics PRN",
+  "displayName": "Diuretics PRN",
+  "input": {
+    "listMap": {
+      "Furosemide": "Furosemide"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edac990ca4667abc259c5d"
+  },
+  "name": "Calcium channel blockers PRN",
+  "displayName": "Calcium channel blockers PRN",
+  "input": {
+    "listMap": {
+      "Verapamil": "Verapamil"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edad340ca4667abc259c5f"
+  },
+  "name": "Uterotonics PRN",
+  "displayName": "Uterotonics PRN",
+  "input": {
+    "listMap": {
+      "Methergin": "Methergin",
+      "Oxytocin": "Oxytocin",
+      "Carbetocin": "Carbetocin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edaed50ca4667abc259c61"
+  },
+  "name": "Local anesthetics PRN",
+  "displayName": "Local anesthetics PRN",
+  "input": {
+    "listMap": {
+      "Bupivacaine": "Bupivacaine",
+      "Lignocaine + Adrenaline": "Lignocaine + Adrenaline",
+      "Ropivacaine": "Ropivacaine"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edb10c0ca4667abc259c63"
+  },
+  "name": "Opioids PRN",
+  "displayName": "Opioids PRN",
+  "input": {
+    "listMap": {
+      "Pentazocine": "Pentazocine",
+      "Buprenophine": "Buprenophine",
+      "Tramadol": "Tramadol"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edb1600ca4667abc259c65"
+  },
+  "name": "Vasodilators PRN",
+  "displayName": "Vasodilators PRN",
+  "input": {
+    "listMap": {
+      "Nitroglycerine": "Nitroglycerine",
+      "Sodium Nitroprusside      ": "Sodium Nitroprusside      "
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edb1870ca4667abc259c66"
+  },
+  "name": "Reversal agents PRN",
+  "displayName": "Reversal agents PRN",
+  "input": {
+    "listMap": {
+      "Sugammadex": "Sugammadex"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edb1b00ca4667abc259c67"
+  },
+  "name": "Vasopressors PRN",
+  "displayName": "Vasopressors PRN",
+  "input": {
+    "listMap": {
+      "Vasopressin": "Vasopressin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edb3210ca4667abc259c68"
+  },
+  "name": "PRN",
+  "displayName": "PRN",
+  "input": {
+    "listMap": {
+      " Aminophylline": " Aminophylline",
+      "Calcium Gluconate ": "Calcium Gluconate ",
+      "Deriphylline": "Deriphylline",
+      "Magnesium": "Magnesium",
+      "Naloxone": "Naloxone",
+      "Xylometazoline": "Xylometazoline",
+      "Ranitidine": "Ranitidine",
+      "Lipid Emulsion": "Lipid Emulsion",
+      "Levosimendan": "Levosimendan",
+      "Vitamin K": "Vitamin K",
+      "Vitamin C": "Viamin C",
+      "Cremofin": "Cremofin"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ede9350ca4667abc259c6f"
+  },
+  "name": "Crystalloids",
+  "displayName": "Crystalloids",
+  "input": {
+    "input": "STRING",
+    "size": 30,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68ede9420ca4667abc259c70"
+  },
+  "name": "Colloids",
+  "displayName": "Colloids",
+  "input": {
+    "input": "STRING",
+    "size": 20,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edec170ca4667abc259c72"
+  },
+  "name": "Amount",
+  "displayName": "Amount",
+  "input": {
+    "input": "NUMBER",
+    "precision": "0.00",
+    "highestValue": "3000.00",
+    "lowestValue": "0.00",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.Number"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68eded970ca4667abc259c82"
+  },
+  "name": "bloodProduct",
+  "displayName": "Blood Product",
+  "input": {
+    "listMap": {
+      "FFP": "FFP",
+      "Platelets": "Platelets",
+      "Cyroprecipitate": " Cryoprecipitate",
+      "PCC": "PCC"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edee080ca4667abc259c83"
+  },
+  "name": "Bag No",
+  "displayName": "Bag No",
+  "input": {
+    "input": "STRING",
+    "size": 10,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edeea90ca4667abc259c86"
+  },
+  "name": "Vasoactive agents",
+  "displayName": "Vasoactive agents",
+  "input": {
+    "listMap": {
+      "Norepinephrine": "Norepinephrine",
+      "Epinephrine": "Epinephrine",
+      "Dopamine": "Dopamine",
+      "Dobutamine": "Dobutamine",
+      "Phenylephrine": "Phenylephrine",
+      "Milrinone": "Milrinone"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edef120ca4667abc259c88"
+  },
+  "name": "Conc",
+  "displayName": "Dose",
+  "input": {
+    "input": "NUMBER",
+    "precision": "0.00",
+    "highestValue": "3000.00",
+    "lowestValue": "0.00",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.Number"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf0530ca4667abc259c8f"
+  },
+  "name": "Dosage",
+  "displayName": "Volume",
+  "input": {
+    "input": "NUMBER",
+    "precision": "0.00",
+    "highestValue": "3000.00",
+    "lowestValue": "0.00",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.Number"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf1a30ca4667abc259c95"
+  },
+  "name": "drainageOutput",
+  "displayName": "Drainage Output",
+  "input": {
+    "listMap": {
+      "Penrose drain": "Penrose drain",
+      "Jackson-pratt drain": "Jackson-pratt drain",
+      "Hemovac drain": "Hemovac drain",
+      "Sump drains": "Sump drains",
+      "Corrugated drain": "Corrugated drain",
+      "Pigtail drain": "Pigtail drain",
+      "Davol drain": "Davol drain"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "OUTPUT",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf1ce0ca4667abc259c96"
+  },
+  "name": "urineOutput",
+  "displayName": "Urine Output",
+  "input": {
+    "listMap": {
+      "Normal Urine Output": "Normal Urine Output",
+      "Urinary Catheter": "Urinary Catheter"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "OUTPUT",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf1db0ca4667abc259c97"
+  },
+  "name": "Amount",
+  "displayName": "Amount",
+  "input": {
+    "input": "NUMBER",
+    "precision": "0.00",
+    "highestValue": "3000.00",
+    "lowestValue": "0.00",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.Number"
+  },
+  "fluidType": "OUTPUT",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf4770ca4667abc259ca5"
+  },
+  "name": "oralIntake",
+  "displayName": "Oral Intake",
+  "input": {
+    "listMap": {
+      "Water": "Water",
+      "Tea": "Tea",
+      "Coffee": "Coffee",
+      "Dal kichdi": "Dal kichdi",
+      "Curd": "Curd"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf6e30ca4667abc259caa"
+  },
+  "name": "Oral Medications",
+  "displayName": "Oral Medications",
+  "input": {
+    "listMap": {
+      "Metoprolol": "Metoprolol",
+      "Carvedilol": "Carvedilol",
+      "Enalapril": "Enalapril",
+      "Losartan": "Losartan"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf7520ca4667abc259cad"
+  },
+  "name": "Special ICU medications",
+  "displayName": "Special ICU medications",
+  "input": {
+    "listMap": {
+      "Nitroprusside": "Nitroprusside",
+      "Epoprostenol": "Epoprostenol"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf7e00ca4667abc259cae"
+  },
+  "name": "Conc",
+  "displayName": "Dose",
+  "input": {
+    "input": "NUMBER",
+    "precision": "0.00",
+    "highestValue": "3000.00",
+    "lowestValue": "0.00",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.Number"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "68edf7f00ca4667abc259caf"
+  },
+  "name": "Dosage",
+  "displayName": "Volume",
+  "input": {
+    "input": "NUMBER",
+    "precision": "0.00",
+    "highestValue": "3000.00",
+    "lowestValue": "0.00",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.Number"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "6900943331bc685ffd0558ac"
+  },
+  "name": "Sedatives",
+  "displayName": "Sed",
+  "input": {
+    "input": "STRING",
+    "size": 20,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "6900973431bc685ffd0558ae"
+  },
+  "name": "NSAID",
+  "displayName": "NSAID",
+  "input": {
+    "listMap": {
+      "Acetaminophen": "Acetaminophen",
+      "Diclofenac": "Diclofenac"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "6900a67f31bc685ffd0558be"
+  },
+  "name": "Adrenaline",
+  "displayName": "Adrenaline",
+  "input": {
+    "input": "STRING",
+    "size": 50,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "6900a77731bc685ffd0558c5"
+  },
+  "name": "Cremofin",
+  "displayName": "Cremofin",
+  "input": {
+    "input": "STRING",
+    "size": 10,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "INTAKE",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "6900a99231bc685ffd0558ce"
+  },
+  "name": "Cremofin",
+  "displayName": "Cremofin",
+  "input": {
+    "input": "STRING",
+    "size": 10,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "6902fba331bc685ffd055939"
+  },
+  "name": "Proton Pump Inhibitor",
+  "displayName": "PPI",
+  "input": {
+    "listMap": {
+      "Pantaprazole": "Pantaprazole",
+      "Omeprazole": "Omeprazole"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "69045c3231bc685ffd05596e"
+  },
+  "name": "Ayurvedic Medicines",
+  "displayName": "Ayurvedic Medicines",
+  "input": {
+    "listMap": {
+      "Clove": "Clove",
+      "Cinnamon": "Cinnamon",
+      "Tulsi": "Tulsi",
+      "Neem": "Neem",
+      "Honey": "Honey",
+      "Tree Bark": "Tree Bark",
+      "Lemon": "Lemon"
+    },
+    "input": "LIST",
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.ListType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+},
+{
+  "_id": {
+    "$oid": "690eea4d3da60079811e5a06"
+  },
+  "name": "Codeine STAT",
+  "displayName": "Codeine STAT",
+  "input": {
+    "input": "STRING",
+    "size": 30,
+    "_class": "com.dragger.cis.DragerCISBackend.fluids.model.StringType"
+  },
+  "fluidType": "MEDICATION",
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Component"
+}]

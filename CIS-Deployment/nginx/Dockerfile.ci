@@ -1,0 +1,9 @@
+# CI/CD nginx image - bakes frontend into image for Nexus storage
+FROM nginx:1.25-alpine
+
+COPY default.conf /etc/nginx/conf.d/default.conf
+COPY cisFrontend /nginx/cisFrontend
+
+EXPOSE 9000
+
+CMD ["nginx", "-g", "daemon off;"]

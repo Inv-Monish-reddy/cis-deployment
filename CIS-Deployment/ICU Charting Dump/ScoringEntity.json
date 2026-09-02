@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6645a7a2b38c7a4044281830"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "GCS",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+},
+{
+  "_id": {
+    "$oid": "6645a8f3b38c7a4044281835"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "APACHE II",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+},
+{
+  "_id": {
+    "$oid": "6645e2605c3681698087c949"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "SOFA",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+},
+{
+  "_id": {
+    "$oid": "664732bc48c40335049b572e"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "SAPS II",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+},
+{
+  "_id": {
+    "$oid": "664c520280e5932638be84b4"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "NEWS",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+},
+{
+  "_id": {
+    "$oid": "664c571a80e5932638be84be"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "MEWS",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+},
+{
+  "_id": {
+    "$oid": "667e4f6f1bd05c1b398d8a92"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "APACHE 23",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+},
+{
+  "_id": {
+    "$oid": "6699005329d57055f0f5e438"
+  },
+  "careUnitId": "684ff10861ee087c041128c9",
+  "scoreName": "SIRS",
+  "postCalculation": {},
+  "_class": "com.dragger.cis.DragerCISBackend.scoring.entity.ScoringEntity"
+}]

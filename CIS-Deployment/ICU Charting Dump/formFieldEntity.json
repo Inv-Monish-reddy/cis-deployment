@@ -1,0 +1,4768 @@
+[{
+  "_id": {
+    "$oid": "685f7d1680ce3f1fbb0c475c"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Audit Form",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "650px",
+    "marginRight": "40px",
+    "fontSize": "20px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#d0021b"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 37
+},
+{
+  "_id": {
+    "$oid": "685f7f9980ce3f1fbb0c4760"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Risk Factors",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "445px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#ff42e8"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 38
+},
+{
+  "_id": {
+    "$oid": "685f80fb80ce3f1fbb0c4763"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Mallampati",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Mallampati Gr",
+        "multiInputTextareaFormControlName": "MlaGr"
+      },
+      {
+        "multiInputTextarealabelName": "Allens Test: Lt",
+        "multiInputTextareaFormControlName": "Allenlt"
+      },
+      {
+        "multiInputTextarealabelName": "Allens Test: Rt",
+        "multiInputTextareaFormControlName": "Allenrt"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 41
+},
+{
+  "_id": {
+    "$oid": "685f817280ce3f1fbb0c4764"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Pre-Medication",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-1",
+    "float": "left",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#9b08b9"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 42
+},
+{
+  "_id": {
+    "$oid": "685f832080ce3f1fbb0c4766"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Investigations",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#5a9e0c"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 44
+},
+{
+  "_id": {
+    "$oid": "685f81f480ce3f1fbb0c4765"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Premeds",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-6",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Tablet Lorazepam",
+        "multiInputTextareaFormControlName": "Tab Lorazepam"
+      },
+      {
+        "multiInputTextarealabelName": "Others",
+        "multiInputTextareaFormControlName": "Others"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 43
+},
+{
+  "_id": {
+    "$oid": "685f83c480ce3f1fbb0c4767"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Investigations",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Hb%",
+        "multiInputTextareaFormControlName": "Hb%"
+      },
+      {
+        "multiInputTextarealabelName": "Hct",
+        "multiInputTextareaFormControlName": "Hct"
+      },
+      {
+        "multiInputTextarealabelName": "PT",
+        "multiInputTextareaFormControlName": "PT"
+      },
+      {
+        "multiInputTextarealabelName": "APTT",
+        "multiInputTextareaFormControlName": "APTT"
+      },
+      {
+        "multiInputTextarealabelName": "CR",
+        "multiInputTextareaFormControlName": "CR"
+      },
+      {
+        "multiInputTextarealabelName": "BUN",
+        "multiInputTextareaFormControlName": "BUN"
+      },
+      {
+        "multiInputTextarealabelName": "Angiography",
+        "multiInputTextareaFormControlName": "Angiography"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 45
+},
+{
+  "_id": {
+    "$oid": "685f841080ce3f1fbb0c4768"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Anesthetics",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#9013fe"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 46
+},
+{
+  "_id": {
+    "$oid": "685f844d80ce3f1fbb0c4769"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Anesthetics",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-4",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Induction",
+        "multiInputTextareaFormControlName": "Induction"
+      },
+      {
+        "multiInputTextarealabelName": "Maintenance",
+        "multiInputTextareaFormControlName": "Maintenance"
+      },
+      {
+        "multiInputTextarealabelName": "Monitoring",
+        "multiInputTextareaFormControlName": "Monitoring"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 47
+},
+{
+  "_id": {
+    "$oid": "685f847780ce3f1fbb0c476a"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Cardiopulmonary Bypass",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#db1931"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 48
+},
+{
+  "_id": {
+    "$oid": "685f856280ce3f1fbb0c476b"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Cardiopulmonary Bypass",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Cardioplegia",
+        "multiInputTextareaFormControlName": "Cardioplegia"
+      },
+      {
+        "multiInputTextarealabelName": "Max Flow",
+        "multiInputTextareaFormControlName": "Max"
+      },
+      {
+        "multiInputTextarealabelName": "Heparin",
+        "multiInputTextareaFormControlName": "Heparin"
+      },
+      {
+        "multiInputTextarealabelName": "Fluid",
+        "multiInputTextareaFormControlName": "Fluid"
+      },
+      {
+        "multiInputTextarealabelName": "Lowest Temp (C)",
+        "multiInputTextareaFormControlName": "Lowest Temp (C)"
+      },
+      {
+        "multiInputTextarealabelName": "Additives",
+        "multiInputTextareaFormControlName": "Additives"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 49
+},
+{
+  "_id": {
+    "$oid": "685f864880ce3f1fbb0c476c"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Cardiopulmonary by",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Lowest Hct (CPB)",
+        "multiInputTextareaFormControlName": "Lowest Hct (CPB)"
+      },
+      {
+        "multiInputTextarealabelName": "ACC",
+        "multiInputTextareaFormControlName": "ACC"
+      },
+      {
+        "multiInputTextarealabelName": "Hct (Baseline)",
+        "multiInputTextareaFormControlName": "Hct (Baseline)"
+      },
+      {
+        "multiInputTextarealabelName": "Hct (CPB)",
+        "multiInputTextareaFormControlName": "Hct (CPB)"
+      },
+      {
+        "multiInputTextarealabelName": "Total Duration CPB",
+        "multiInputTextareaFormControlName": "Total Duration CPB"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 50
+},
+{
+  "_id": {
+    "$oid": "685f869080ce3f1fbb0c476d"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Post Clamp Period",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#6dc310"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 51
+},
+{
+  "_id": {
+    "$oid": "685f809b80ce3f1fbb0c4762"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Pre-Op Assessment",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#4a90e2"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 40
+},
+{
+  "_id": {
+    "$oid": "685f876380ce3f1fbb0c4770"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Infusion",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Adr (ug/Kg/min)",
+        "multiInputTextareaFormControlName": "Adr (ug/Kg/min)"
+      },
+      {
+        "multiInputTextarealabelName": "NORAD (ug/Kg/min)",
+        "multiInputTextareaFormControlName": "NORAD (ug/Kg/min)"
+      },
+      {
+        "multiInputTextarealabelName": "Dopamine (ug/Kg/min)",
+        "multiInputTextareaFormControlName": "Dopamine (ug/Kg/min)"
+      },
+      {
+        "multiInputTextarealabelName": "Dobutamine (ug/Kg/min)",
+        "multiInputTextareaFormControlName": "Dobutamine (ug/Kg/min)"
+      },
+      {
+        "multiInputTextarealabelName": "NTG (ug/Kg/min)",
+        "multiInputTextareaFormControlName": "NTG (ug/Kg/min)"
+      },
+      {
+        "multiInputTextarealabelName": "Amiodarone(ug/ Kg/min)",
+        "multiInputTextareaFormControlName": "Amiodarone(ug/ Kg/min)"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 54
+},
+{
+  "_id": {
+    "$oid": "685f87cf80ce3f1fbb0c4771"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Post CPB Events ",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#d0021b"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 55
+},
+{
+  "_id": {
+    "$oid": "685f882280ce3f1fbb0c4772"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Post CPB Events",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-5",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "30px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Protamine Reversal",
+        "multiInputTextareaFormControlName": "Protamine Reversal"
+      },
+      {
+        "multiInputTextarealabelName": "Dose (mg)",
+        "multiInputTextareaFormControlName": "Dose (mg)"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 56
+},
+{
+  "_id": {
+    "$oid": "685f886780ce3f1fbb0c4773"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "checkbox",
+    "name": "Assist Devices",
+    "label": "Assist Devices",
+    "action": null,
+    "options": [
+      {
+        "option": "IABP",
+        "value": "IABP"
+      },
+      {
+        "option": "ELMO",
+        "value": "ELMO"
+      },
+      {
+        "option": "LVAD",
+        "value": "LVAD"
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-1",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 57
+},
+{
+  "_id": {
+    "$oid": "685f88f280ce3f1fbb0c4774"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Urine Output",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#7ed321"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 58
+},
+{
+  "_id": {
+    "$oid": "685f892780ce3f1fbb0c4775"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Urine Output",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-4",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Pre Bypass",
+        "multiInputTextareaFormControlName": "Pre Bypass"
+      },
+      {
+        "multiInputTextarealabelName": "Bypass",
+        "multiInputTextareaFormControlName": "Bypass"
+      },
+      {
+        "multiInputTextarealabelName": "Post Bypass",
+        "multiInputTextareaFormControlName": "Post Bypass"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 59
+},
+{
+  "_id": {
+    "$oid": "685f86d680ce3f1fbb0c476e"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Post Clamp Period",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-4",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "30px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Type Rhythm",
+        "multiInputTextareaFormControlName": "Type Rhythm"
+      },
+      {
+        "multiInputTextarealabelName": "Rate (Per min)",
+        "multiInputTextareaFormControlName": "Rate (Per min)"
+      },
+      {
+        "multiInputTextarealabelName": "Maneuver",
+        "multiInputTextareaFormControlName": "Maneuver"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 52
+},
+{
+  "_id": {
+    "$oid": "685f801380ce3f1fbb0c4761"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Risk factor",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "80px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Procedure",
+        "multiInputTextareaFormControlName": "Procedure"
+      },
+      {
+        "multiInputTextarealabelName": "BSA",
+        "multiInputTextareaFormControlName": "BSA"
+      },
+      {
+        "multiInputTextarealabelName": "Coronaries",
+        "multiInputTextareaFormControlName": "Coronaries"
+      },
+      {
+        "multiInputTextarealabelName": "Valves/Congenitals",
+        "multiInputTextareaFormControlName": "Valves"
+      },
+      {
+        "multiInputTextarealabelName": "Medications",
+        "multiInputTextareaFormControlName": "Medications"
+      },
+      {
+        "multiInputTextarealabelName": "Echocardiography",
+        "multiInputTextareaFormControlName": "Echo"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 39
+},
+{
+  "_id": {
+    "$oid": "685f89bb80ce3f1fbb0c4777"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Total Fluid",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Colloids (ml)",
+        "multiInputTextareaFormControlName": "Colloids (ml)"
+      },
+      {
+        "multiInputTextarealabelName": "Crystalloids (ml)",
+        "multiInputTextareaFormControlName": "Crystalloids (ml)"
+      },
+      {
+        "multiInputTextarealabelName": "Whole Blood (units)",
+        "multiInputTextareaFormControlName": "Whole Blood (units)"
+      },
+      {
+        "multiInputTextarealabelName": "FFP (units) ",
+        "multiInputTextareaFormControlName": "FFP (units) "
+      },
+      {
+        "multiInputTextarealabelName": "Platelets (units)",
+        "multiInputTextareaFormControlName": "Platelets (units)"
+      },
+      {
+        "multiInputTextarealabelName": "Total Blood Loss",
+        "multiInputTextareaFormControlName": "Total Blood Loss"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 61
+},
+{
+  "_id": {
+    "$oid": "685f89dd80ce3f1fbb0c4778"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "ICU Summary",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "650px",
+    "marginRight": "40px",
+    "fontSize": "15px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#bd10e0"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 62
+},
+{
+  "_id": {
+    "$oid": "685f8a0480ce3f1fbb0c4779"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Cardiac Drugs",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#d0021b"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 63
+},
+{
+  "_id": {
+    "$oid": "685f8a6180ce3f1fbb0c477a"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Cardiac Drugs",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Adr (ug/Kg.min) ",
+        "multiInputTextareaFormControlName": "Adr (ug/Kgmin) "
+      },
+      {
+        "multiInputTextarealabelName": "NTG ug/Kg/min",
+        "multiInputTextareaFormControlName": "NTG ug/Kg/min"
+      },
+      {
+        "multiInputTextarealabelName": "Dobutamine (ug/Kg/min)",
+        "multiInputTextareaFormControlName": "Dobutamine (ug/Kg/min)"
+      },
+      {
+        "multiInputTextarealabelName": "Dopamine(ug/Kg /min)",
+        "multiInputTextareaFormControlName": "Dopamine(ug/Kg /min)"
+      },
+      {
+        "multiInputTextarealabelName": "NORAD(ug/Kg/min)",
+        "multiInputTextareaFormControlName": "NORAD(ug/Kg/min)"
+      },
+      {
+        "multiInputTextarealabelName": "Milrinone",
+        "multiInputTextareaFormControlName": "Milrinone"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 64
+},
+{
+  "_id": {
+    "$oid": "685f8abc80ce3f1fbb0c477b"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "ICU Summ",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-2",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Duration of ICU Stay",
+        "multiInputTextareaFormControlName": "Duration of ICU Stay"
+      },
+      {
+        "multiInputTextarealabelName": "Duration of Inotropic Use",
+        "multiInputTextareaFormControlName": "Duration of Inotropic Use"
+      },
+      {
+        "multiInputTextarealabelName": "Ventilatory Support",
+        "multiInputTextareaFormControlName": "Ventilatory Support"
+      },
+      {
+        "multiInputTextarealabelName": "Mode",
+        "multiInputTextareaFormControlName": "Mode"
+      },
+      {
+        "multiInputTextarealabelName": "Duration",
+        "multiInputTextareaFormControlName": "Duration"
+      },
+      {
+        "multiInputTextarealabelName": "Duration of Hospital Stay",
+        "multiInputTextareaFormControlName": "Duration of Hospital Stay"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 65
+},
+{
+  "_id": {
+    "$oid": "685f8ad680ce3f1fbb0c477c"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Blood Products",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#d08914"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 66
+},
+{
+  "_id": {
+    "$oid": "685f896a80ce3f1fbb0c4776"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Total Fluid Input/Output",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#6e6e6d"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 60
+},
+{
+  "_id": {
+    "$oid": "685f86fd80ce3f1fbb0c476f"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Infusion",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#3addb9"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 53
+},
+{
+  "_id": {
+    "$oid": "685f8e5680ce3f1fbb0c4782"
+  },
+  "formId": "685f8b5580ce3f1fbb0c477f",
+  "properties": {
+    "type": "table",
+    "name": "Form A",
+    "label": "Form A",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "Correct Patient Identity",
+      "Confirmed Consent",
+      "Anaesthesia Equipment Checked",
+      "Fasting",
+      "Effect of Premedication",
+      "CNS",
+      "RS",
+      "CVS",
+      "Details",
+      "Peri-Operative Anesthetic Procedures",
+      "Procedure Site",
+      "Airway Management",
+      "MALLAMPATI",
+      "ASA",
+      "Cormack Grade",
+      "LMA Type",
+      "LMA Size",
+      "ETT Type",
+      "ETT Size ",
+      "ETT Fixed At",
+      "Perfusion Data",
+      "CPB (min)",
+      "Baseline HCT",
+      "Lowest HCT",
+      "Cardioplegia Total Amount (ml)",
+      "Lowest Temp (C)",
+      "Max Flow "
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "left",
+    "fontFamily": null,
+    "rows": 1,
+    "tableLayout": "vertical",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 70
+},
+{
+  "_id": {
+    "$oid": "685f8d1680ce3f1fbb0c4781"
+  },
+  "formId": "685f8b5580ce3f1fbb0c477f",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Anesthesia Methods",
+    "action": null,
+    "options": [],
+    "columns": [
+      "Correct Patient Identity",
+      "Confirmed Consent",
+      "Anesthesia Equipment Checked",
+      "Fasting",
+      "Effect of Premedication",
+      "CNS",
+      "RS",
+      "CVS",
+      "Details",
+      "Perioperative Anesthetic Procedures",
+      "Procedure Site",
+      "Airway Management",
+      "Mallampati",
+      "ASA",
+      "Cormack Grade",
+      "LMA Type",
+      "LMA Size",
+      "ETT Type",
+      "ETT Size",
+      "ETT Fixed At",
+      "Perfusion Data",
+      "CPB (min)",
+      "Baseline HCT",
+      "Lowest HCT",
+      "Cardioplegia Total Amount (ml)",
+      "Lowest Temperature (C)",
+      "Max Flow "
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "650px",
+    "marginRight": "40px",
+    "fontSize": "20px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": "arial",
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#d0021b"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 69
+},
+{
+  "_id": {
+    "$oid": "685f8b1980ce3f1fbb0c477d"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Blood",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-3",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "FFP",
+        "multiInputTextareaFormControlName": "FFP"
+      },
+      {
+        "multiInputTextarealabelName": "PRBC",
+        "multiInputTextareaFormControlName": "PRBC"
+      },
+      {
+        "multiInputTextarealabelName": "Platelets",
+        "multiInputTextareaFormControlName": "Platelets"
+      },
+      {
+        "multiInputTextarealabelName": "Cryo",
+        "multiInputTextareaFormControlName": "Cryo"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 67
+},
+{
+  "_id": {
+    "$oid": "685f8b3d80ce3f1fbb0c477e"
+  },
+  "formId": "685f7b6b80ce3f1fbb0c475b",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "Notes",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "5px",
+    "grid": "col-md-12",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "80px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Notes",
+        "multiInputTextareaFormControlName": "Notes"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 68
+},
+{
+  "_id": {
+    "$oid": "685f915780ce3f1fbb0c4783"
+  },
+  "formId": "685f8b5580ce3f1fbb0c477f",
+  "properties": {
+    "type": "table",
+    "name": "Form B",
+    "label": "Form B",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "Vascular Lines",
+      "Peripheral Line 1",
+      "Size",
+      "Peripheral Line 2",
+      "Size",
+      "Peripheral Line 3",
+      "Size",
+      "Central Line ",
+      "Size",
+      "Arterial Line 1",
+      "Size",
+      "Arterial Line 2",
+      "Size",
+      "Tourniquet Time ",
+      "Tourniquet 1",
+      "Limb",
+      "From",
+      "To",
+      "Tourniquet 2",
+      "Limb",
+      "From",
+      "To",
+      "Perioperative Eye Care",
+      "Eyes taped Time:",
+      "Ointment Applied Time",
+      "Anesthetic Service ",
+      "Events",
+      "Service Indication",
+      "Complications & Remarks"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "5px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "left",
+    "fontFamily": null,
+    "rows": 1,
+    "tableLayout": "vertical",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 71
+},
+{
+  "_id": {
+    "$oid": "685f91fe80ce3f1fbb0c4784"
+  },
+  "formId": "685f8b5580ce3f1fbb0c477f",
+  "properties": {
+    "type": "table",
+    "name": "ABG Data",
+    "label": "ABG Data",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "Time",
+      "pH",
+      "PCO2",
+      "PO2",
+      "Hb",
+      "sO2",
+      "K+",
+      "Na+",
+      "Ca++",
+      "LACT",
+      "BE",
+      "HCO3",
+      "Glu",
+      "ACT"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "left",
+    "fontFamily": null,
+    "rows": 4,
+    "tableLayout": "vertical",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity",
+  "importOrder": 72
+},
+{
+  "_id": {
+    "$oid": "68ea0e748dfba85bee323930"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Informed Consent For Surgery/Procedure",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "500px",
+    "marginRight": "40px",
+    "fontSize": "20px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#000000"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea0f0a8dfba85bee323931"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Patient Demographics",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "normal",
+    "fieldSpace": "2px",
+    "grid": "col-md-3",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Patient Name",
+        "multiInputTextareaFormControlName": "a"
+      },
+      {
+        "multiInputTextarealabelName": "UHID",
+        "multiInputTextareaFormControlName": "s"
+      },
+      {
+        "multiInputTextarealabelName": "Age",
+        "multiInputTextareaFormControlName": "d"
+      },
+      {
+        "multiInputTextarealabelName": "Gender",
+        "multiInputTextareaFormControlName": "f"
+      },
+      {
+        "multiInputTextarealabelName": "Procedure to be Performed",
+        "multiInputTextareaFormControlName": "g"
+      },
+      {
+        "multiInputTextarealabelName": "Procedure to be Performed By",
+        "multiInputTextareaFormControlName": "h"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea10268dfba85bee323933"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "declare",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "normal",
+    "fieldSpace": "2px",
+    "grid": "col-md-6",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "I hereby authorize Dr",
+        "multiInputTextareaFormControlName": "v"
+      },
+      {
+        "multiInputTextarealabelName": "to perform this surgery for.......................................................................................(diagnosis)",
+        "multiInputTextareaFormControlName": "n"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea11598dfba85bee323934"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "procedure",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "I have been explained that surgery involves",
+        "multiInputTextareaFormControlName": "k"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea12708dfba85bee323936"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "sas",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "The risks & possible undesirable consequences associated with the procedure have been explained to me. Potential risks & complications of the procedure",
+        "multiInputTextareaFormControlName": "klk"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea13398dfba85bee323937"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "benefits",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "50px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Benefits expected",
+        "multiInputTextareaFormControlName": "xx"
+      },
+      {
+        "multiInputTextarealabelName": "Alternatives available ",
+        "multiInputTextareaFormControlName": "cx"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea17158dfba85bee323938"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "paragraph",
+    "name": "xxww",
+    "label": "saw",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "nullpx",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-10",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "paragraphContent": "<font size=\"3\">I hereby authorize my doctor to utilize or dispose removed tissues, parts or organs.</font><div><font size=\"3\">I acknowledge that I was able to ask questions and raise concerns with doctor about my condition, the procedure and its risks. My questions and concerns have been discussed and answered to my satisfaction and I give my consent to perform the surgery.</font></div>"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea18f38dfba85bee323939"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "table",
+    "name": "trew",
+    "label": ".",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "Name of Patient ",
+      "Signature of Patient",
+      "(OR)",
+      "Name of Surrogate (if applicable)",
+      "Signature of Surrogate",
+      "Date ",
+      "Time"
+    ],
+    "marginTop": "-50px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "left",
+    "fontFamily": null,
+    "rows": 1,
+    "tableLayout": "vertical",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea19b68dfba85bee32393a"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "table",
+    "name": "tyui",
+    "label": "..",
+    "action": null,
+    "options": [],
+    "columns": [
+      "Name of Doctor",
+      "Designation",
+      "Signature",
+      "Date",
+      "Time"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "left",
+    "fontFamily": null,
+    "rows": 1,
+    "tableLayout": "vertical",
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68ea1a5f8dfba85bee32393b"
+  },
+  "formId": "68ea0d438dfba85bee32392d",
+  "properties": {
+    "type": "table",
+    "name": "sdfgh",
+    "label": "....",
+    "action": null,
+    "options": [],
+    "columns": [
+      "Name of Witness (From Patient Side)",
+      "Signature",
+      "Relationship with patient",
+      "Date",
+      "Time"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "5px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "left",
+    "fontFamily": null,
+    "rows": 1,
+    "tableLayout": "vertical",
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e008fbbfc357e8446ce0"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "IP INITIAL ASSESSMENT NURSE FORM",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "25px",
+    "marginLeft": "450px",
+    "marginRight": "40px",
+    "fontSize": "20px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "center",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#ff0909"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e00efbbfc357e8446ce1"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "BUNDLE CHECK LIST",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "10px",
+    "marginBottom": "0px",
+    "marginLeft": "590px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#9013fe"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e099fbbfc357e8446ce3"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Date & Time :",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e133fbbfc357e8446ce5"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "table",
+    "name": "PhlebitisTable",
+    "label": "CHECKLIST FOR PHLEBITIS :",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SL NO",
+      "CHECKLIST",
+      "YES/NO",
+      "SHIFT",
+      "REMARKS"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 10,
+    "tableLayout": "horizontal",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e19afbbfc357e8446ce6"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Mode of Admission",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "normal",
+    "fieldSpace": "0px",
+    "grid": "col-md-3",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Mode of Admission",
+        "multiInputTextareaFormControlName": "Mode of Admission"
+      },
+      {
+        "multiInputTextarealabelName": "Patient Name",
+        "multiInputTextareaFormControlName": "Patient Name"
+      },
+      {
+        "multiInputTextarealabelName": "UHID",
+        "multiInputTextareaFormControlName": "UHID"
+      },
+      {
+        "multiInputTextarealabelName": "Patient Condition",
+        "multiInputTextareaFormControlName": "Patient Condition"
+      },
+      {
+        "multiInputTextarealabelName": "Patient accompained on admission",
+        "multiInputTextareaFormControlName": "Patient accompained on admission"
+      },
+      {
+        "multiInputTextarealabelName": "Primary Language Spoken",
+        "multiInputTextareaFormControlName": "Primary Language Spoken"
+      },
+      {
+        "multiInputTextarealabelName": "Other Language(if applicable):-",
+        "multiInputTextareaFormControlName": "Other Language(if applicable):-"
+      },
+      {
+        "multiInputTextarealabelName": "NAME oF ATTENDER",
+        "multiInputTextareaFormControlName": "Name of Attender"
+      },
+      {
+        "multiInputTextarealabelName": "RELATION",
+        "multiInputTextareaFormControlName": "Relation "
+      },
+      {
+        "multiInputTextarealabelName": "Phone Number",
+        "multiInputTextareaFormControlName": "Phone Number"
+      },
+      {
+        "multiInputTextarealabelName": "TIME OF ARRIVAL",
+        "multiInputTextareaFormControlName": "Time of Arrival"
+      },
+      {
+        "multiInputTextarealabelName": "DIAGNOSIS",
+        "multiInputTextareaFormControlName": "DIAGNOSIS"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e268fbbfc357e8446ce7"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "table",
+    "name": "pneumoniaTable",
+    "label": "CHECKLIST FOR PREVENTION OF VENTILATOR ASSOCIATED PNEUMONIA :",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SL NO",
+      "CHECKLIST",
+      "SHIFT",
+      "NO.OF DAYS",
+      "REMARKS"
+    ],
+    "marginTop": "5px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 10,
+    "tableLayout": "horizontal",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e290fbbfc357e8446ce8"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "CULTURAL",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "17px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "CULTURAL/RELIGIOUS BARRIERS",
+        "multiInputTextareaFormControlName": "CULTURAL/RELIGIOUS BARRIERS"
+      },
+      {
+        "multiInputTextarealabelName": "IF YES DESCRIBE",
+        "multiInputTextareaFormControlName": "IF YES DESCRIBE"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e2d4fbbfc357e8446ce9"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "VITALS",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "20px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "15px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e3f5fbbfc357e8446cea"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "TEMP",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "10px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "normal",
+    "fieldSpace": "0px",
+    "grid": "col-md-3",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "TEMP",
+        "multiInputTextareaFormControlName": "T"
+      },
+      {
+        "multiInputTextarealabelName": "PULSE",
+        "multiInputTextareaFormControlName": "PULSE"
+      },
+      {
+        "multiInputTextarealabelName": "BP",
+        "multiInputTextareaFormControlName": "BP"
+      },
+      {
+        "multiInputTextarealabelName": "SpO2",
+        "multiInputTextareaFormControlName": "SpO2"
+      },
+      {
+        "multiInputTextarealabelName": "RESP",
+        "multiInputTextareaFormControlName": "RESP"
+      },
+      {
+        "multiInputTextarealabelName": "Height",
+        "multiInputTextareaFormControlName": "Height"
+      },
+      {
+        "multiInputTextarealabelName": "Weight",
+        "multiInputTextareaFormControlName": "Weight"
+      },
+      {
+        "multiInputTextarealabelName": "Pain Location",
+        "multiInputTextareaFormControlName": "Pain Location"
+      },
+      {
+        "multiInputTextarealabelName": "PAIN SCORE(1-10)",
+        "multiInputTextareaFormControlName": "PAIN SCORE(1-10)"
+      },
+      {
+        "multiInputTextarealabelName": "Duration",
+        "multiInputTextareaFormControlName": "Duration"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e40cfbbfc357e8446ceb"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "table",
+    "name": "ASSOCICATEDBLOODSTREAM",
+    "label": "CHECK LIST FOR PREVENTION OF CENTRAL LINE ASSOCIATED BLOOD STREAM INFECTION",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "",
+      "Date and Time of Assessment",
+      "Remarks"
+    ],
+    "marginTop": "5px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 10,
+    "tableLayout": "horizontal",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e4b8fbbfc357e8446cec"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Functional Assesment",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "22px",
+    "marginBottom": "15px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#4a90e2"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e5edfbbfc357e8446ced"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Functional Assesment",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "normal",
+    "fieldSpace": "0px",
+    "grid": "col-md-3",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Functional Assesment",
+        "multiInputTextareaFormControlName": "Functional Assesment"
+      },
+      {
+        "multiInputTextarealabelName": "BATHING",
+        "multiInputTextareaFormControlName": "BATHING"
+      },
+      {
+        "multiInputTextarealabelName": "DRESSING",
+        "multiInputTextareaFormControlName": "DRESSING"
+      },
+      {
+        "multiInputTextarealabelName": "TOILET USE",
+        "multiInputTextareaFormControlName": "TOILET USE"
+      },
+      {
+        "multiInputTextarealabelName": "CLIMBING STAIRS",
+        "multiInputTextareaFormControlName": "CLIMBING STAIRS"
+      },
+      {
+        "multiInputTextarealabelName": "EATING",
+        "multiInputTextareaFormControlName": "EATING"
+      },
+      {
+        "multiInputTextarealabelName": "WALKING",
+        "multiInputTextareaFormControlName": "WALKING"
+      },
+      {
+        "multiInputTextarealabelName": "MOBILITY",
+        "multiInputTextareaFormControlName": "MOBILITY"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e639fbbfc357e8446cef"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Braden Scale",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "20px",
+    "marginBottom": "20px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#8b572a"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e69bfbbfc357e8446cf0"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "checklactate",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "1. Check the lactate levels :",
+        "multiInputTextareaFormControlName": "checklactatelevel"
+      },
+      {
+        "multiInputTextarealabelName": "2. Central line placed for CVP/Oxygen monitoring with adequate PPE (<2 hrs) :",
+        "multiInputTextareaFormControlName": "PPE2hrs"
+      },
+      {
+        "multiInputTextarealabelName": "3. Blood Culture collected with Sterile precautions with adequate PPE before Anti-Biotics started : ",
+        "multiInputTextareaFormControlName": "antiBioticsStarted"
+      },
+      {
+        "multiInputTextarealabelName": "4. Broad Spectrum antibiotic administered (<4 hrs) : ",
+        "multiInputTextareaFormControlName": "anitbioticsAdmisitartion"
+      },
+      {
+        "multiInputTextarealabelName": "5. Achieve hemodynamic stability <6 hrs. MAP> 65mmHg/SBP>90 mmHg :",
+        "multiInputTextareaFormControlName": "hemodynamicStability"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e6a7fbbfc357e8446cf1"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "table",
+    "name": "sensory",
+    "label": "BRADEN SCORE:",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "",
+    "fontFamily": null,
+    "rows": 4,
+    "tableLayout": "horizontal",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e91dfbbfc357e8446cf2"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "FRICTION/SHEAR",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "15px",
+    "marginBottom": "15px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#03d1fb"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1e997fbbfc357e8446cf3"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Problem",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "15px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "normal",
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "1. Problem",
+        "multiInputTextareaFormControlName": "Problem"
+      },
+      {
+        "multiInputTextarealabelName": "2. Potential Problem",
+        "multiInputTextareaFormControlName": "Potential Problem"
+      },
+      {
+        "multiInputTextarealabelName": "3. No Apparent Problem",
+        "multiInputTextareaFormControlName": "No Apparent Problem"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1eaddfbbfc357e8446cf4"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Date & Time :",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1ecf6fbbfc357e8446cf5"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "table",
+    "name": "CatheterURI",
+    "label": "CHECKLIST FOR PREVENTION OF CATHETER ASSOCIATED URINARY TRACT INFECTION : ",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SL.NO",
+      "CHECKLIST",
+      "SHIFT",
+      "NO.OF DAYS",
+      "REMARKS"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 10,
+    "tableLayout": "horizontal",
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1ed9bfbbfc357e8446cf6"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "labelsnumber6",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SL.NO",
+      "CHECKLIST",
+      "SHIFT",
+      "NO.OF DAYS",
+      "REMARKS"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "6. Tracheostomy tube / respiratory access change : ",
+        "multiInputTextareaFormControlName": "repchanges"
+      },
+      {
+        "multiInputTextarealabelName": "7. Central line / peripheral line / vascular access change :",
+        "multiInputTextareaFormControlName": "vascularchanges"
+      },
+      {
+        "multiInputTextarealabelName": "8. Urinary Catheter change : ",
+        "multiInputTextareaFormControlName": "ucchanges"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1edf9fbbfc357e8446cf7"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "info",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SL.NO",
+      "CHECKLIST",
+      "SHIFT",
+      "NO.OF DAYS",
+      "REMARKS"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "textareaHeight": "120px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Initiated by : ",
+        "multiInputTextareaFormControlName": "initiatedby"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1ee5efbbfc357e8446cf8"
+  },
+  "formId": "68f1dfc8fbbfc357e8446cdf",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Form Control Number - 13234",
+    "action": null,
+    "options": [],
+    "columns": [
+      "SL.NO",
+      "CHECKLIST",
+      "SHIFT",
+      "NO.OF DAYS",
+      "REMARKS"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f020fbbfc357e8446cf9"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "sensoryper",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "left",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "sensory perception (braden) :",
+        "multiInputTextareaFormControlName": "sensory perception(braden)"
+      },
+      {
+        "multiInputTextarealabelName": "Moisture (braden) :",
+        "multiInputTextareaFormControlName": "Moisture (braden)"
+      },
+      {
+        "multiInputTextarealabelName": "Activity (braden) :",
+        "multiInputTextareaFormControlName": "Activity (braden)"
+      },
+      {
+        "multiInputTextarealabelName": "mobility (braden) :",
+        "multiInputTextareaFormControlName": "mobility (braden)"
+      },
+      {
+        "multiInputTextarealabelName": "Nutrition (braden) :",
+        "multiInputTextareaFormControlName": "Nutrition (braden)"
+      },
+      {
+        "multiInputTextarealabelName": "Shear & Friction :",
+        "multiInputTextareaFormControlName": "shearandfrictions"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f0e7fbbfc357e8446cfa"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "FOR SCORE <17, INITIATE SKIN CARE PLAN",
+    "action": null,
+    "options": [],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f129fbbfc357e8446cfb"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "RISK LEVEL: SCORE 15/16 = LOW RISK, SCORE 14/13 = MODERATE RISK, SCORE 12/LESS = HIGH RISK",
+    "action": null,
+    "options": [],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f218fbbfc357e8446cfc"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "BRADENSCORES",
+    "action": null,
+    "options": [],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null,
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Braden Score :",
+        "multiInputTextareaFormControlName": "Braden Score :"
+      },
+      {
+        "multiInputTextarealabelName": "Action plan initiated ",
+        "multiInputTextareaFormControlName": "Action plan initiated "
+      },
+      {
+        "multiInputTextarealabelName": "pressure ulcer present at the time of admission",
+        "multiInputTextareaFormControlName": "pressure ulcer present at the time of admission"
+      },
+      {
+        "multiInputTextarealabelName": "if yes, location : ",
+        "multiInputTextareaFormControlName": "if yes, location : "
+      },
+      {
+        "multiInputTextarealabelName": "grade : ",
+        "multiInputTextareaFormControlName": "grade : "
+      },
+      {
+        "multiInputTextarealabelName": "Witnessed by his/her relation : ",
+        "multiInputTextareaFormControlName": "Witnessed by his/her relation : "
+      },
+      {
+        "multiInputTextarealabelName": "Documentation regarding comorbids : ",
+        "multiInputTextareaFormControlName": "Documentation regarding comorbids : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f25cfbbfc357e8446cfd"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Allergies / Adverse Reaction",
+    "action": null,
+    "options": [],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#ff03c2"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f44afbbfc357e8446cfe"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "allergies",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "SENSORY PERCEPTION ",
+      "MOISTURE",
+      "ACTIVITY",
+      "MOBILITY",
+      "NUTRITION"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Allergy : ",
+        "multiInputTextareaFormControlName": "Allergy : "
+      },
+      {
+        "multiInputTextarealabelName": "If known/suspected allergies to : ",
+        "multiInputTextareaFormControlName": "If known/suspected allergies to : "
+      },
+      {
+        "multiInputTextarealabelName": "Reaction to previous transfusion : ",
+        "multiInputTextareaFormControlName": "Reaction to previous transfusion : "
+      },
+      {
+        "multiInputTextarealabelName": "Diagnosis Clinical : ",
+        "multiInputTextareaFormControlName": "Diagnosis Clinical : "
+      },
+      {
+        "multiInputTextarealabelName": "Name of medications and description of reaction if yes, brief description of reaction : ",
+        "multiInputTextareaFormControlName": "medications and description of reaction if yes, brief description of reaction : "
+      },
+      {
+        "multiInputTextarealabelName": "CHIEF COMPLAINT REAL TIME : ",
+        "multiInputTextareaFormControlName": "CHIEF COMPLAINT REAL TIME : "
+      },
+      {
+        "multiInputTextarealabelName": "Food Allergy : ",
+        "multiInputTextareaFormControlName": "Food Allergy : "
+      },
+      {
+        "multiInputTextarealabelName": "REMARKS : ",
+        "multiInputTextareaFormControlName": "REMARKS :"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f51dfbbfc357e8446d01"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "COMPLAINTS",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": ""
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f5bbfbbfc357e8446d03"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "SOB AND UNRESPONSIVENESS hypertension  ",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f5fcfbbfc357e8446d04"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Current Medication",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#509a07"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f659fbbfc357e8446d05"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "currentmedications",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Medication History : ",
+        "multiInputTextareaFormControlName": "Medication History : "
+      },
+      {
+        "multiInputTextarealabelName": "Medicines brought to hospital : ",
+        "multiInputTextareaFormControlName": "Medicines brought to hospital : "
+      },
+      {
+        "multiInputTextarealabelName": "If Yes : ",
+        "multiInputTextareaFormControlName": "If Yes : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f6a2fbbfc357e8446d06"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Pain Score & GCS",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#05b54b"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f713fbbfc357e8446d07"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "painscoreGCS",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Pain Score : ",
+        "multiInputTextareaFormControlName": "Pain Score : "
+      },
+      {
+        "multiInputTextarealabelName": "Quality : ",
+        "multiInputTextareaFormControlName": "Quality : "
+      },
+      {
+        "multiInputTextarealabelName": "Treatment given : ",
+        "multiInputTextareaFormControlName": "Treatment given : "
+      },
+      {
+        "multiInputTextarealabelName": "Character- :",
+        "multiInputTextareaFormControlName": "Character- :"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f77afbbfc357e8446d08"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Specific Needs",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#6a111b"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f884fbbfc357e8446d09"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "specificNeeds",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null,
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Sensory Impairments (hearing/visual) :  ",
+        "multiInputTextareaFormControlName": "Sensory Impairments (hearing/visual) :  "
+      },
+      {
+        "multiInputTextarealabelName": "Yes/Is there a speech problem ? No : ",
+        "multiInputTextareaFormControlName": "Yes/Is there a speech problem ? No : "
+      },
+      {
+        "multiInputTextarealabelName": "Alcohol Abuse : ",
+        "multiInputTextareaFormControlName": "Alcohol Abuse : "
+      },
+      {
+        "multiInputTextarealabelName": "Drug Abuse :",
+        "multiInputTextareaFormControlName": "Drug Abuse :"
+      },
+      {
+        "multiInputTextarealabelName": "Smoking : ",
+        "multiInputTextareaFormControlName": "Smoking : "
+      },
+      {
+        "multiInputTextarealabelName": "Tobacco Abuse : ",
+        "multiInputTextareaFormControlName": "Tobacco Abuse : "
+      },
+      {
+        "multiInputTextarealabelName": "Does the patient have any artificial prosthesis ? : ",
+        "multiInputTextareaFormControlName": "Does the patient have any artificial prosthesis ? : "
+      },
+      {
+        "multiInputTextarealabelName": "Denture : ",
+        "multiInputTextareaFormControlName": "Denture : "
+      },
+      {
+        "multiInputTextarealabelName": "Implant : ",
+        "multiInputTextareaFormControlName": "Implant : "
+      },
+      {
+        "multiInputTextarealabelName": "Artificial Lens/Eyes : ",
+        "multiInputTextareaFormControlName": "Artificial Lens/Eyes : "
+      },
+      {
+        "multiInputTextarealabelName": "Pacemaker : ",
+        "multiInputTextareaFormControlName": "Pacemaker : "
+      },
+      {
+        "multiInputTextarealabelName": "Any other Specific Need : ",
+        "multiInputTextareaFormControlName": "Any other Specific Need : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f8f0fbbfc357e8446d0a"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "additionalspedicneeds",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null,
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Yes/No : ",
+        "multiInputTextareaFormControlName": "yes/no : "
+      },
+      {
+        "multiInputTextarealabelName": "psychological status : ",
+        "multiInputTextareaFormControlName": "psychological status : "
+      },
+      {
+        "multiInputTextarealabelName": "Level of consciousness : ",
+        "multiInputTextareaFormControlName": "Level of consciousness : "
+      },
+      {
+        "multiInputTextarealabelName": "Orient Patient : ",
+        "multiInputTextareaFormControlName": "Orient Patient : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f91dfbbfc357e8446d0b"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Nutritional Assessment ",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#4a4a4a"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f979fbbfc357e8446d0c"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "NutritationalAssessment",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "If Dieticians referral is required , informed to : ",
+        "multiInputTextareaFormControlName": "If Dieticians referral is required , informed to : "
+      },
+      {
+        "multiInputTextarealabelName": "Date : ",
+        "multiInputTextareaFormControlName": "Date : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1f9a3fbbfc357e8446d0d"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Morse Scale",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#6b8bc0"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1fa33fbbfc357e8446d0e"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Morse Scale",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "History of falling: Immediate or within 3 months :",
+        "multiInputTextareaFormControlName": "History of falling:"
+      },
+      {
+        "multiInputTextarealabelName": "Secondary Diagnosis (Two or more medical diagnosis) : ",
+        "multiInputTextareaFormControlName": "Secondary Diagnosis (Two or more medical diagnosis) : "
+      },
+      {
+        "multiInputTextarealabelName": "Ambulatory Aid : ",
+        "multiInputTextareaFormControlName": "Ambulatory Aid : "
+      },
+      {
+        "multiInputTextarealabelName": "IV/Heparin Lock : ",
+        "multiInputTextareaFormControlName": "IV/Heparin Lock : "
+      },
+      {
+        "multiInputTextarealabelName": "Gait / Transfering : ",
+        "multiInputTextareaFormControlName": "Gait / Transfering"
+      },
+      {
+        "multiInputTextarealabelName": "Mental Status : ",
+        "multiInputTextareaFormControlName": "Mental Status : "
+      },
+      {
+        "multiInputTextarealabelName": "FALL SCALE SCORE : ",
+        "multiInputTextareaFormControlName": "FALL SCALE SCORE : "
+      },
+      {
+        "multiInputTextarealabelName": "MORSE SCORE : ",
+        "multiInputTextareaFormControlName": "MORSE SCORE : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1fa7efbbfc357e8446d0f"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "Pain Measurement Scale",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#597f2d"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1fa92fbbfc357e8446d10"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "Pain Measurement Scale",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Pain Score : ",
+        "multiInputTextareaFormControlName": "painscore:"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1fb97fbbfc357e8446d11"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "VIP Score",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#fd0707"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1fd5bfbbfc357e8446d12"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "paragraph",
+    "name": "vipscoring",
+    "label": "vipscoring",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "paragraphContent": "<b>VIP Score&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp; &nbsp;observation (vip)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: observation (vip) :</b><div><div style=\"text-align: left;\"><div style=\"text-align: center;\">No Sign of phlebitis</div><div style=\"text-align: center;\">&nbsp;•&nbsp;Observe the Cannula</div><div><div style=\"text-align: center;\">Possible first signs of Phlebitis</div></div><div style=\"text-align: center;\">&nbsp;•&nbsp;Observe the Cannula</div><div><div style=\"text-align: center;\">Early signs of phlebitis</div></div><div><div style=\"text-align: center;\"><span style=\"font-size: 0.7rem;\">&nbsp;•&nbsp;</span>Re-site the Cannula</div></div><div><div style=\"text-align: center;\">Medium stage of Phlebitis</div></div><div><div style=\"text-align: center;\"><span style=\"font-size: 0.7rem;\">&nbsp;•&nbsp;</span>Re-site the Cannula</div></div><div><div style=\"text-align: center;\"><span style=\"font-size: 0.7rem;\">&nbsp;•&nbsp;</span>Consider Treatment</div></div><div><div style=\"text-align: center;\">Advanced stage of Phlebitis or start of Thrombophlebitis</div></div><div><div style=\"text-align: center;\"><span style=\"font-size: 0.7rem;\">&nbsp;•&nbsp;</span>Re-site the Cannula</div><div style=\"text-align: center;\"><span style=\"font-size: 0.7rem;\">&nbsp;•&nbsp;</span>Consider Treatment</div></div><div><div style=\"text-align: center;\">Advanced stage of Thrombophlebitis</div></div><div><div style=\"text-align: center;\"><span style=\"font-size: 0.7rem;\">•&nbsp;</span>Initiate treatment</div></div><div><div style=\"text-align: center;\"><span style=\"font-size: 0.7rem;\">•&nbsp;</span>Re-site the Cannula</div></div><div><br></div><div><br></div></div></div><div><div style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div></div>"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1fe1afbbfc357e8446d13"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "GCS Scale",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#006495"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1fed3fbbfc357e8446d14"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "GCSSCALE",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-3",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null,
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Eye response : ",
+        "multiInputTextareaFormControlName": "Eye response : "
+      },
+      {
+        "multiInputTextarealabelName": "Motor response : ",
+        "multiInputTextareaFormControlName": "Motor response : "
+      },
+      {
+        "multiInputTextarealabelName": "Verbal response : ",
+        "multiInputTextareaFormControlName": "Verbal response : "
+      },
+      {
+        "multiInputTextarealabelName": "Power : ",
+        "multiInputTextareaFormControlName": "Power : "
+      },
+      {
+        "multiInputTextarealabelName": "Pupil size (mm) : ",
+        "multiInputTextareaFormControlName": "Pupil size (mm) : "
+      },
+      {
+        "multiInputTextarealabelName": "BEST EYE OPENING : ",
+        "multiInputTextareaFormControlName": "BEST EYE OPENING : "
+      },
+      {
+        "multiInputTextarealabelName": "BEST MOTOR RESPONSE : ",
+        "multiInputTextareaFormControlName": "BEST MOTOR RESPONSE : "
+      },
+      {
+        "multiInputTextarealabelName": "GCS SCORE : ",
+        "multiInputTextareaFormControlName": "GCS SCORE : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1ff00fbbfc357e8446d15"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "PEDIATRIC ASSESSMENT",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#65b889"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1ffc3fbbfc357e8446d16"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "PEDICARTIC ASSESSMENT",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Age (Humpty Dumpty Assessment) :",
+        "multiInputTextareaFormControlName": "Age (Humpty Dumpty Assessment) :"
+      },
+      {
+        "multiInputTextarealabelName": "Gender (Humpty : DUmpty assessment)",
+        "multiInputTextareaFormControlName": "Gender (Humpty : DUmpty assessment)"
+      },
+      {
+        "multiInputTextarealabelName": "DIAGNOSIS (HUMPTY DUMPTY ASSESSMENT) :",
+        "multiInputTextareaFormControlName": "DIAGNOSIS (HUMPTY DUMPTY ASSESSMENT) :"
+      },
+      {
+        "multiInputTextarealabelName": "COGNITIVE IMPAIRMENTS ( HUMPTY DUMPTY ASSESSMENT)",
+        "multiInputTextareaFormControlName": "COGNITIVE IMPAIRMENTS ( HUMPTY DUMPTY ASSESSMENT)"
+      },
+      {
+        "multiInputTextarealabelName": "Environmental Factors  (Humpty Dumpty) :",
+        "multiInputTextareaFormControlName": "Environmental Factors  (Humpty Dumpty) :"
+      },
+      {
+        "multiInputTextarealabelName": "Response to Surgery/Sedation/Anesthesia (Humpty Dumpty)  :",
+        "multiInputTextareaFormControlName": "Response to Surgery/Sedation/Anesthesia (Humpty Dumpty)  :"
+      },
+      {
+        "multiInputTextarealabelName": "Medication Use(Humpty Dumpty) 7-11-Low risk 12 or above High risk : ",
+        "multiInputTextareaFormControlName": "Medication Use(Humpty Dumpty) 7-11-Low risk 12 or above High risk : "
+      },
+      {
+        "multiInputTextarealabelName": "Humpty Dumpty Scale Score : ",
+        "multiInputTextareaFormControlName": "Humpty Dumpty Scale Score : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f20070fbbfc357e8446d17"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "......................",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f20098fbbfc357e8446d18"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "FLACC SCALE",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#92b16e"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f200f4fbbfc357e8446d19"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "FLACCSCLAE",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Face : ",
+        "multiInputTextareaFormControlName": "face:::"
+      },
+      {
+        "multiInputTextarealabelName": "Legs : ",
+        "multiInputTextareaFormControlName": "legs:"
+      },
+      {
+        "multiInputTextarealabelName": "Activity : ",
+        "multiInputTextareaFormControlName": "Activity : "
+      },
+      {
+        "multiInputTextarealabelName": "Cry : ",
+        "multiInputTextareaFormControlName": "Cry : "
+      },
+      {
+        "multiInputTextarealabelName": "Consolability : ",
+        "multiInputTextareaFormControlName": "Consolability : "
+      },
+      {
+        "multiInputTextarealabelName": "FLACC Scale : ",
+        "multiInputTextareaFormControlName": "FLACC Scale : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f2023ffbbfc357e8446d1a"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "OBS ASSESSMENT",
+    "action": null,
+    "options": [],
+    "columns": [
+      ""
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#6b56f5"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f20277fbbfc357e8446d1b"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "table",
+    "name": "LATCH Score :",
+    "label": "LATCH Score :",
+    "action": null,
+    "options": [],
+    "columns": [
+      "ABBREVIATION",
+      "0",
+      "1",
+      "2",
+      "M"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 5,
+    "tableLayout": "horizontal",
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f202ddfbbfc357e8446d1c"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "table",
+    "name": "extend2table",
+    "label": ".",
+    "action": null,
+    "options": [],
+    "columns": [
+      "E",
+      "N",
+      "A (0)",
+      "B (1)",
+      "C (2)"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 5,
+    "tableLayout": "horizontal",
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f2031ffbbfc357e8446d1d"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "table",
+    "name": "3rd table",
+    "label": ".",
+    "action": null,
+    "options": [],
+    "columns": [
+      "M",
+      "E",
+      "N"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 5,
+    "tableLayout": "horizontal",
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f203bdfbbfc357e8446d1e"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "ScoreTotal",
+    "action": null,
+    "options": [],
+    "columns": [
+      "M",
+      "E",
+      "N"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-12",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null,
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "TOTAL SCORE : ",
+        "multiInputTextareaFormControlName": "TOTAL SCORE : "
+      },
+      {
+        "multiInputTextarealabelName": "INTERPRETATION : ",
+        "multiInputTextareaFormControlName": "INTERPRETATION : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f20576fbbfc357e8446d1f"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "paragraph",
+    "name": "INTERPRESTATION",
+    "label": "INTERPRETATION",
+    "action": null,
+    "options": [],
+    "columns": [
+      "M",
+      "E",
+      "N"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null,
+    "paragraphContent": "<u><b>INTERPRETATION</b></u><div>0-3 POOR</div><div>4-7 MORERATE&nbsp;</div><div>8-10 GOOD</div><div><br></div><div><b><u>ESCALATION</u></b></div><div>LATCH SCORE &lt; 7 after 24hrs, inform the Neonatalogist for further intervention</div><div><b>REEDA Episiotomy/LSCS</b></div><div>R-Redness :&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remarks :</b></div><div><div>E-Edema :&nbsp;<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Remarks :</span></div></div><div><div>E-Ecchymosis :<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Remarks :</span></div></div><div><div>D- Discharge :<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">Remarks :</span></div></div><div><div>A- Approximation of Wound :<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">Remarks :</span></div></div><div><div><b>BREAST EXAMINATION</b></div></div><div><div>Normal/Soft-N :<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">Remarks :</span></div></div><div><div>Cracked Nipple - C :<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">Remarks :</span></div></div><div><div>Retracted Nipple - R :<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">&nbsp;Remarks :</span></div></div><div><div>Engorged Breast - E :<span style=\"font-size: 0.7rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 0.7rem;\">&nbsp;</span><span style=\"font-size: 0.7rem; font-weight: bolder;\">&nbsp;Remarks :</span></div></div><div><br></div>"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f205b9fbbfc357e8446d20"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "table",
+    "name": "specialNotes:",
+    "label": "SPECIAL NOTES :",
+    "action": null,
+    "options": [],
+    "columns": [
+      "MORNING",
+      "EVENING",
+      "NIGHT"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": 1,
+    "tableLayout": "horizontal",
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f205dafbbfc357e8446d21"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "heading",
+    "name": "",
+    "label": "STAFF DETAILS",
+    "action": null,
+    "options": [],
+    "columns": [
+      "MORNING",
+      "EVENING",
+      "NIGHT"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "18px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "#62bda1"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f20625fbbfc357e8446d22"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "text",
+    "name": "",
+    "label": "staffdetails",
+    "action": null,
+    "options": [
+      {
+        "option": "",
+        "value": ""
+      }
+    ],
+    "columns": [
+      "MORNING",
+      "EVENING",
+      "NIGHT"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-6",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": "",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "SHIFT :",
+        "multiInputTextareaFormControlName": "SHIFT :"
+      },
+      {
+        "multiInputTextarealabelName": "Time : ",
+        "multiInputTextareaFormControlName": "Time : "
+      },
+      {
+        "multiInputTextarealabelName": "HANDOVER BY : ",
+        "multiInputTextareaFormControlName": "HANDOVER BY : "
+      },
+      {
+        "multiInputTextarealabelName": "EMP ID : ",
+        "multiInputTextareaFormControlName": "EMP ID : "
+      },
+      {
+        "multiInputTextarealabelName": "TAKEN OVER BY :",
+        "multiInputTextareaFormControlName": "TAKEN OVER BY :"
+      },
+      {
+        "multiInputTextarealabelName": "EMP ID :",
+        "multiInputTextareaFormControlName": "EMP ID :"
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f206cafbbfc357e8446d23"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "textArea",
+    "name": "",
+    "label": "information",
+    "action": null,
+    "options": [],
+    "columns": [
+      "MORNING",
+      "EVENING",
+      "NIGHT"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": null,
+    "fieldSpace": "0px",
+    "grid": "col-md-4",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null,
+    "textareaHeight": "120px",
+    "repeatedInputFields": [
+      {
+        "multiInputTextarealabelName": "Initiated by : ",
+        "multiInputTextareaFormControlName": "Initiated by : "
+      }
+    ]
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+},
+{
+  "_id": {
+    "$oid": "68f206e2fbbfc357e8446d24"
+  },
+  "formId": "68f1dfc0fbbfc357e8446cde",
+  "properties": {
+    "type": "label",
+    "name": "",
+    "label": "Form Control Number - 123",
+    "action": null,
+    "options": [],
+    "columns": [
+      "MORNING",
+      "EVENING",
+      "NIGHT"
+    ],
+    "marginTop": "0px",
+    "marginBottom": "0px",
+    "marginLeft": "40px",
+    "marginRight": "40px",
+    "fontSize": "14px",
+    "fontWeight": "bold",
+    "fieldSpace": "0px",
+    "grid": "",
+    "float": "",
+    "fontFamily": null,
+    "rows": "",
+    "tableLayout": null,
+    "textColor": null
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.forms.entity.FormFieldEntity"
+}]

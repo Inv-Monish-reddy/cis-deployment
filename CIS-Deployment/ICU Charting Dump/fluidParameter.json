@@ -1,0 +1,2938 @@
+[{
+  "_id": {
+    "$oid": "68ecf61a0ca4667abc259c0e"
+  },
+  "name": "Alpha agonist STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ecf32d0ca4667abc259c0b"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed314a0ca4667abc259c10"
+  },
+  "name": "Alpha2 agonist STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed30f30ca4667abc259c0f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed32790ca4667abc259c13"
+  },
+  "name": "Anti-arrhythmic STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed32490ca4667abc259c11"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed33140ca4667abc259c15"
+  },
+  "name": "Antibiotics STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed32ec0ca4667abc259c14"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed35180ca4667abc259c17"
+  },
+  "name": "Anticholinergics STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed34de0ca4667abc259c16"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed37d00ca4667abc259c19"
+  },
+  "name": "Anticoagulants STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed37910ca4667abc259c18"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed38590ca4667abc259c1b"
+  },
+  "name": "Anti-emetic STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed38340ca4667abc259c1a"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed39520ca4667abc259c1d"
+  },
+  "name": "Anti-fibrinolytics STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed39250ca4667abc259c1c"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed39bd0ca4667abc259c1f"
+  },
+  "name": "Anti-hypertensives STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed39930ca4667abc259c1e"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed3a230ca4667abc259c21"
+  },
+  "name": "Benzodiazepines STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed39e80ca4667abc259c20"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed3aaf0ca4667abc259c23"
+  },
+  "name": "Beta-blockers STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed3a870ca4667abc259c22"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed3b750ca4667abc259c25"
+  },
+  "name": "Calcium channel blockers STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed3b0f0ca4667abc259c24"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed3c330ca4667abc259c27"
+  },
+  "name": "Diuretics STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed3bd50ca4667abc259c26"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed3e6d0ca4667abc259c29"
+  },
+  "name": "Electrolytes STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed3e510ca4667abc259c28"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed40ee0ca4667abc259c2c"
+  },
+  "name": "Inhaler STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed40580ca4667abc259c2a"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed41150ca4667abc259c2d"
+  },
+  "name": "Intropes STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed40be0ca4667abc259c2b"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed41bb0ca4667abc259c2f"
+  },
+  "name": "Local Anesthestics STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed415e0ca4667abc259c2e"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed42a30ca4667abc259c31"
+  },
+  "name": "Muscle Relaxants STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed427f0ca4667abc259c30"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed43260ca4667abc259c33"
+  },
+  "name": "NSAIDS STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed430d0ca4667abc259c32"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed4b510ca4667abc259c3e"
+  },
+  "name": "Steriods STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed4b220ca4667abc259c3d"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed4bd90ca4667abc259c40"
+  },
+  "name": "Sedatives STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed4bbe0ca4667abc259c3f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed4c7a0ca4667abc259c42"
+  },
+  "name": "Opioids STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed4c520ca4667abc259c41"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed4d020ca4667abc259c44"
+  },
+  "name": "STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed4cee0ca4667abc259c43"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed4d750ca4667abc259c46"
+  },
+  "name": "Reversal agents STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed4d4e0ca4667abc259c45"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed521c0ca4667abc259c48"
+  },
+  "name": "Alpha2 agonist PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed52040ca4667abc259c47"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed53610ca4667abc259c4a"
+  },
+  "name": "Antibiotics PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed53240ca4667abc259c49"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed55350ca4667abc259c4c"
+  },
+  "name": "Analgesic PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed53d60ca4667abc259c4b"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68ed56360ca4667abc259c4e"
+  },
+  "name": "INFUSED",
+  "medicationOrder": "infused",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ed56200ca4667abc259c4d"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68eda9330ca4667abc259c50"
+  },
+  "name": "Anti-histamines PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68eda90a0ca4667abc259c4f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68eda9c90ca4667abc259c52"
+  },
+  "name": "Anti-epileptics PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68eda98a0ca4667abc259c51"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edaa880ca4667abc259c55"
+  },
+  "name": "Anti-coagulants PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edaa570ca4667abc259c54"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edaaad0ca4667abc259c56"
+  },
+  "name": "Anti-cholinergics PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edaa0b0ca4667abc259c53"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edabbe0ca4667abc259c58"
+  },
+  "name": "Beta agonists PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edab9e0ca4667abc259c57"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edac260ca4667abc259c5a"
+  },
+  "name": "Inotropes PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edac030ca4667abc259c59"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edac7c0ca4667abc259c5c"
+  },
+  "name": "Diuretics PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edac4f0ca4667abc259c5b"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edacba0ca4667abc259c5e"
+  },
+  "name": "Calcium channel blockers PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edac990ca4667abc259c5d"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edad640ca4667abc259c60"
+  },
+  "name": "UlterOtonics PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edad340ca4667abc259c5f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edaefb0ca4667abc259c62"
+  },
+  "name": "Local Anesthestics PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edaed50ca4667abc259c61"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edb1270ca4667abc259c64"
+  },
+  "name": "Opioids PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edb10c0ca4667abc259c63"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edb3370ca4667abc259c69"
+  },
+  "name": "PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edb3210ca4667abc259c68"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edb36c0ca4667abc259c6a"
+  },
+  "name": "Vasodilators PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edb1600ca4667abc259c65"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edb38d0ca4667abc259c6b"
+  },
+  "name": "Reversal agents PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edb1870ca4667abc259c66"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edb3b60ca4667abc259c6c"
+  },
+  "name": "Vasopressors PRN",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edb1b00ca4667abc259c67"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edec250ca4667abc259c73"
+  },
+  "name": "Normal Saline 0.9%",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edec5a0ca4667abc259c74"
+  },
+  "name": "Ringer Lactate",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edec680ca4667abc259c75"
+  },
+  "name": "Plasmalyte",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edec780ca4667abc259c76"
+  },
+  "name": "DNS",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edec9a0ca4667abc259c77"
+  },
+  "name": "0.45% DNS",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edecb00ca4667abc259c78"
+  },
+  "name": "5% Dextrose",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edecbd0ca4667abc259c79"
+  },
+  "name": "10% Dextrose",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edecc80ca4667abc259c7a"
+  },
+  "name": "25% Dextrose",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edecd50ca4667abc259c7b"
+  },
+  "name": "0.45% NS",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edece20ca4667abc259c7c"
+  },
+  "name": "3% NS",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9350ca4667abc259c6f"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68eded000ca4667abc259c7d"
+  },
+  "name": "Mannitol 20%",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9420ca4667abc259c70"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68eded0c0ca4667abc259c7e"
+  },
+  "name": "NaHCO3 (Sodium Bicarbonate)",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9420ca4667abc259c70"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68eded1a0ca4667abc259c7f"
+  },
+  "name": "Albumin 20%",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9420ca4667abc259c70"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68eded250ca4667abc259c80"
+  },
+  "name": "Albumin 5%",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9420ca4667abc259c70"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68eded340ca4667abc259c81"
+  },
+  "name": "Potassium Chloride",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68ede9420ca4667abc259c70"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edee1f0ca4667abc259c84"
+  },
+  "name": "Blood Product",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68eded970ca4667abc259c82"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edee080ca4667abc259c83"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf0700ca4667abc259c90"
+  },
+  "name": "Vasoactive agents",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edeea90ca4667abc259c86"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edef120ca4667abc259c88"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf0530ca4667abc259c8f"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf1ec0ca4667abc259c98"
+  },
+  "name": "Blood Output",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "OUTPUT",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf1a30ca4667abc259c95"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf1db0ca4667abc259c97"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf1f50ca4667abc259c99"
+  },
+  "name": "Urine Output",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "OUTPUT",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf1ce0ca4667abc259c96"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf1db0ca4667abc259c97"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf2020ca4667abc259c9a"
+  },
+  "name": "Postoperative Fluids",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "OUTPUT",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf1a30ca4667abc259c95"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf1db0ca4667abc259c97"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf20d0ca4667abc259c9b"
+  },
+  "name": "Mucus",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "OUTPUT",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf1a30ca4667abc259c95"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf1db0ca4667abc259c97"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf58b0ca4667abc259ca6"
+  },
+  "name": "Oral Intake",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf4770ca4667abc259ca5"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf6f30ca4667abc259cab"
+  },
+  "name": "Oral Meds",
+  "medicationOrder": "oral",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf6e30ca4667abc259caa"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68edf80b0ca4667abc259cb0"
+  },
+  "name": "Special ICU medications",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf7520ca4667abc259cad"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68efca190ca4667abc259cca"
+  },
+  "name": "Water",
+  "medicationOrder": "oral",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf7e00ca4667abc259cae"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68efcae70ca4667abc259ccd"
+  },
+  "name": "blood",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "OUTPUT",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf1a30ca4667abc259c95"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf1db0ca4667abc259c97"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "68f0469e0ca4667abc259ce5"
+  },
+  "name": "Vomitus",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "OUTPUT",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "68edf1a30ca4667abc259c95"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf1db0ca4667abc259c97"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900954031bc685ffd0558ad"
+  },
+  "name": "Sedatives",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900943331bc685ffd0558ac"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900976731bc685ffd0558af"
+  },
+  "name": "NSAID",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900973431bc685ffd0558ae"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "690099ad31bc685ffd0558b1"
+  },
+  "name": "Propofol",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900943331bc685ffd0558ac"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900a02b31bc685ffd0558b9"
+  },
+  "name": "Aceclofenac",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900973431bc685ffd0558ae"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900a47131bc685ffd0558bc"
+  },
+  "name": "Noradrenaline",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "INTAKE",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900a3a431bc685ffd0558bb"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edec170ca4667abc259c72"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edef120ca4667abc259c88"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf0530ca4667abc259c8f"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900a6be31bc685ffd0558c1"
+  },
+  "name": "Naline",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900a68b31bc685ffd0558bf"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900a6f631bc685ffd0558c2"
+  },
+  "name": "Adrenaline",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900a67f31bc685ffd0558be"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900a7d631bc685ffd0558c6"
+  },
+  "name": "Nalinee",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900a75f31bc685ffd0558c4"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900a7e031bc685ffd0558c7"
+  },
+  "name": "Nora",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900a6ad31bc685ffd0558c0"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6900a9d131bc685ffd0558cf"
+  },
+  "name": "Cremofin",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6900a99231bc685ffd0558ce"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "6902fc7f31bc685ffd05593a"
+  },
+  "name": "PPI",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "6902fba331bc685ffd055939"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "69045c6c31bc685ffd05596f"
+  },
+  "name": "Ayurvedic Medicines",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "69045c3231bc685ffd05596e"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "69045c3231bc685ffd05596e"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "69045c3231bc685ffd05596e"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "69045c3231bc685ffd05596e"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "69045e1b31bc685ffd055971"
+  },
+  "name": "Try",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "69045c3231bc685ffd05596e"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "690eea8a3da60079811e5a07"
+  },
+  "name": "Codeine",
+  "medicationOrder": "prn",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "690eea4d3da60079811e5a06"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+},
+{
+  "_id": {
+    "$oid": "690eeb1a3da60079811e5a08"
+  },
+  "name": "Codeine STAT",
+  "medicationOrder": "stat",
+  "isMedicationDrip": false,
+  "color": "#3f51b5",
+  "fluidType": "MEDICATION",
+  "careUnit": "ICU-1",
+  "labelChart": [
+    {
+      "components": [
+        {
+          "$ref": "fluidComponent",
+          "$id": {
+            "$oid": "690eea4d3da60079811e5a06"
+          }
+        }
+      ]
+    }
+  ],
+  "rowsChart": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68ecf6060ca4667abc259c0d"
+      }
+    }
+  ],
+  "supplementalData": [
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7e00ca4667abc259cae"
+      }
+    },
+    {
+      "$ref": "fluidComponent",
+      "$id": {
+        "$oid": "68edf7f00ca4667abc259caf"
+      }
+    }
+  ],
+  "_class": "com.dragger.cis.DragerCISBackend.fluids.entity.Parameter"
+}]

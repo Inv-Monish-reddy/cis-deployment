@@ -1,0 +1,117 @@
+[{
+  "_id": {
+    "$oid": "67f760f2a3ea7c64eb9030ec"
+  },
+  "groupName": "ADMIN-GROUP",
+  "createdDate": {
+    "$date": "2025-04-10T06:10:58.843Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:10:58.843Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "67f761eaa3ea7c64eb9030f9"
+  },
+  "groupName": "Cardiology",
+  "createdDate": {
+    "$date": "2025-04-10T06:15:06.194Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:15:06.194Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "67f761f3a3ea7c64eb9030fa"
+  },
+  "groupName": "Neurology",
+  "createdDate": {
+    "$date": "2025-04-10T06:15:15.184Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:15:15.184Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "67f76214a3ea7c64eb9030fb"
+  },
+  "groupName": "Dermatology",
+  "createdDate": {
+    "$date": "2025-04-10T06:15:48.498Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:15:48.498Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "67f76227a3ea7c64eb9030fc"
+  },
+  "groupName": "Hematology",
+  "createdDate": {
+    "$date": "2025-04-10T06:16:07.414Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:16:07.414Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "67f7623aa3ea7c64eb9030fd"
+  },
+  "groupName": "Psychology",
+  "createdDate": {
+    "$date": "2025-04-10T06:16:26.177Z"
+  },
+  "updateDate": {
+    "$date": "2025-04-10T06:16:26.177Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "68dfb0fd0c7a9727b5a1b65b"
+  },
+  "groupName": "Oncology",
+  "createdDate": {
+    "$date": "2025-10-03T11:18:21.225Z"
+  },
+  "updateDate": {
+    "$date": "2025-10-03T11:18:21.225Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "68dfb0fe0c7a9727b5a1b65c"
+  },
+  "groupName": "Nephrology",
+  "createdDate": {
+    "$date": "2025-10-03T11:18:22.622Z"
+  },
+  "updateDate": {
+    "$date": "2025-10-03T11:18:22.622Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+},
+{
+  "_id": {
+    "$oid": "6902ed7431bc685ffd05592e"
+  },
+  "groupName": "Gen Pathology",
+  "createdDate": {
+    "$date": "2025-10-30T04:45:40.618Z"
+  },
+  "updateDate": {
+    "$date": "2025-10-30T04:45:40.618Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.Staffing.Entity.OrGroupsEntity"
+}]

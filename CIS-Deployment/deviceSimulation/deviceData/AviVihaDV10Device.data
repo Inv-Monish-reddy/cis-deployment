@@ -1,0 +1,1082 @@
+MSH|^~\&|VIHA_DV10+^RND@test||||20250208173500||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173500
+OBR|||||||20250208173500
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173500
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173500
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173500
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173500
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173500
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173500
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173500
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173500
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173500
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173500
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173500
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173500
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173500
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173500
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173500
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173500
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173500
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173500
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173500
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173500
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173500
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173500
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173500
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173500
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173500
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173500
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173500
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173500
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173500
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173500
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173500
+OBX||NM|4511^Measured^Output Flow||20.34|lpm||||||||20250208173500
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173500
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173500
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173500
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173500
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173500
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173500
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173500
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173500
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173500
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173500
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173500
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173500~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173600||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173600
+OBR|||||||20250208173600
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173600
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173600
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173600
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173600
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173600
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173600
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173600
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173600
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173600
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173600
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173600
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173600
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173600
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173600
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173600
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173600
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173600
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173600
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173600
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173600
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173600
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173600
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173600
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173600
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173600
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173600
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173600
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173600
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173600
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173600
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173600
+OBX||NM|4511^Measured^Output Flow||20.85|lpm||||||||20250208173600
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173600
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173600
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173600
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173600
+OBX||NM|4516^Measured^Rlung||0.34|cmH2O/L/s||||||||20250208173600
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173600
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173600
+OBX||NM|4519^Measured^RC insp||2000|ms||||||||20250208173600
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173600
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173600
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173600
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173600~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173600||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173600
+OBR|||||||20250208173600
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173600
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173600
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173600
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173600
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173600
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173600
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173600
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173600
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173600
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173600
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173600
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173600
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173600
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173600
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173600
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173600
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173600
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173600
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173600
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173600
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173600
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173600
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173600
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173600
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173600
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173600
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173600
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173600
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173600
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173600
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173600
+OBX||NM|4511^Measured^Output Flow||21.64|lpm||||||||20250208173600
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173600
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173600
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173600
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173600
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173600
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173600
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173600
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173600
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173600
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173600
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173600
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173600~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173600||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173600
+OBR|||||||20250208173600
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173600
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173600
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173600
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173600
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173600
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173600
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173600
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173600
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173600
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173600
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173600
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173600
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173600
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173600
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173600
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173600
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173600
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173600
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173600
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173600
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173600
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173600
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173600
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173600
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173600
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173600
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173600
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173600
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173600
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173600
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173600
+OBX||NM|4511^Measured^Output Flow||26.69|lpm||||||||20250208173600
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173600
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173600
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173600
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173600
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173600
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173600
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173600
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173600
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173600
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173600
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173600
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173600~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173700||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173700
+OBR|||||||20250208173700
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173700
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173700
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173700
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173700
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173700
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173700
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173700
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173700
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173700
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173700
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173700
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173700
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173700
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173700
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173700
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173700
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173700
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173700
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173700
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173700
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173700
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173700
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173700
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173700
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173700
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173700
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173700
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173700
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173700
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173700
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173700
+OBX||NM|4511^Measured^Output Flow||21.14|lpm||||||||20250208173700
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173700
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173700
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173700
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173700
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173700
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173700
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173700
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173700
+OBX||NM|4520^Measured^RC exp||129|ms||||||||20250208173700
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173700
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173700
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173700~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173700||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173700
+OBR|||||||20250208173700
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173700
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173700
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173700
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173700
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173700
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173700
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173700
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173700
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173700
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173700
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173700
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173700
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173700
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173700
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173700
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173700
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173700
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173700
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173700
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173700
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173700
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173700
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173700
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173700
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173700
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173700
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173700
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173700
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173700
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173700
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173700
+OBX||NM|4511^Measured^Output Flow||40.71|lpm||||||||20250208173700
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173700
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173700
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173700
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173700
+OBX||NM|4516^Measured^Rlung||0.12|cmH2O/L/s||||||||20250208173700
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173700
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173700
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173700
+OBX||NM|4520^Measured^RC exp||2000|ms||||||||20250208173700
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173700
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173700
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173700~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173700||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173700
+OBR|||||||20250208173700
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173700
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173700
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173700
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173700
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173700
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173700
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173700
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173700
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173700
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173700
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173700
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173700
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173700
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173700
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173700
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173700
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173700
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173700
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173700
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173700
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173700
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173700
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173700
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173700
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173700
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173700
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173700
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173700
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173700
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173700
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173700
+OBX||NM|4511^Measured^Output Flow||22.18|lpm||||||||20250208173700
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173700
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173700
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173700
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173700
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173700
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173700
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173700
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173700
+OBX||NM|4520^Measured^RC exp||2000|ms||||||||20250208173700
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173700
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173700
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173700~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173800||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173800
+OBR|||||||20250208173800
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173800
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173800
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173800
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173800
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173800
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173800
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173800
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173800
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173800
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173800
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173800
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173800
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173800
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173800
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173800
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173800
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173800
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173800
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173800
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173800
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173800
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173800
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173800
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173800
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173800
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173800
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173800
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173800
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173800
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173800
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173800
+OBX||NM|4511^Measured^Output Flow||20.31|lpm||||||||20250208173800
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173800
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173800
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173800
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173800
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173800
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173800
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173800
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173800
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173800
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173800
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173800
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173800~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173800||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173800
+OBR|||||||20250208173800
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173800
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173800
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173800
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173800
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173800
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173800
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173800
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173800
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173800
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173800
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173800
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173800
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173800
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173800
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173800
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173800
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173800
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173800
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173800
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173800
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173800
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173800
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173800
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173800
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173800
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173800
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173800
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173800
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173800
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173800
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173800
+OBX||NM|4511^Measured^Output Flow||21.55|lpm||||||||20250208173800
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173800
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173800
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173800
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173800
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173800
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173800
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173800
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173800
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173800
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173800
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173800
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173800~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173800||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173800
+OBR|||||||20250208173800
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173800
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173800
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173800
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173800
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173800
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173800
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173800
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173800
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173800
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173800
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173800
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173800
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173800
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173800
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173800
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173800
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173800
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173800
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173800
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173800
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173800
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173800
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173800
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173800
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173800
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173800
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173800
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173800
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173800
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173800
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173800
+OBX||NM|4511^Measured^Output Flow||39.28|lpm||||||||20250208173800
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173800
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173800
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173800
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173800
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173800
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173800
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173800
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173800
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173800
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173800
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173800
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173800~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173900||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173900
+OBR|||||||20250208173900
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173900
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173900
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173900
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173900
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173900
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173900
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173900
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173900
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173900
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173900
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173900
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173900
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173900
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173900
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173900
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173900
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173900
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173900
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173900
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173900
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173900
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173900
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173900
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173900
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173900
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173900
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173900
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173900
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173900
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173900
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173900
+OBX||NM|4511^Measured^Output Flow||20.96|lpm||||||||20250208173900
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173900
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173900
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173900
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173900
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173900
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173900
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173900
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173900
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173900
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173900
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173900
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173900~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173900||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173900
+OBR|||||||20250208173900
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173900
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173900
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173900
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173900
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173900
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173900
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173900
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173900
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173900
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173900
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173900
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173900
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173900
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173900
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173900
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173900
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173900
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173900
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173900
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173900
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173900
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173900
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173900
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173900
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173900
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173900
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173900
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173900
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173900
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173900
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173900
+OBX||NM|4511^Measured^Output Flow||37.78|lpm||||||||20250208173900
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173900
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173900
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173900
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173900
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173900
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173900
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173900
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173900
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173900
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173900
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173900
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173900~MSH|^~\&|VIHA_DV10+^RND@test||||20250208173900||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208173900
+OBR|||||||20250208173900
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208173900
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208173900
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208173900
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208173900
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208173900
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208173900
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208173900
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208173900
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208173900
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208173900
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208173900
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208173900
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208173900
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208173900
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208173900
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208173900
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208173900
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208173900
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208173900
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208173900
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208173900
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208173900
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208173900
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208173900
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208173900
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208173900
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208173900
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208173900
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208173900
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208173900
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208173900
+OBX||NM|4511^Measured^Output Flow||37.89|lpm||||||||20250208173900
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208173900
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208173900
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208173900
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208173900
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208173900
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208173900
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208173900
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208173900
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208173900
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208173900
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208173900
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208173900~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174000||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174000
+OBR|||||||20250208174000
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174000
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174000
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174000
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174000
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174000
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174000
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174000
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174000
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174000
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174000
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174000
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174000
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174000
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174000
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174000
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174000
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174000
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174000
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174000
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174000
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174000
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174000
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174000
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174000
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174000
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174000
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174000
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174000
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174000
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174000
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174000
+OBX||NM|4511^Measured^Output Flow||21.9|lpm||||||||20250208174000
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174000
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174000
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174000
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174000
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174000
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174000
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174000
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174000
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174000
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174000
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174000
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174000~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174000||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174000
+OBR|||||||20250208174000
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174000
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174000
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174000
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174000
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174000
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174000
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174000
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174000
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174000
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174000
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174000
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174000
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174000
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174000
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174000
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174000
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174000
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174000
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174000
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174000
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174000
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174000
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174000
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174000
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174000
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174000
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174000
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174000
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174000
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174000
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174000
+OBX||NM|4511^Measured^Output Flow||21.16|lpm||||||||20250208174000
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174000
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174000
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174000
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174000
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174000
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174000
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174000
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174000
+OBX||NM|4520^Measured^RC exp||2000|ms||||||||20250208174000
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174000
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174000
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174000~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174000||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174000
+OBR|||||||20250208174000
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174000
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174000
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174000
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174000
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174000
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174000
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174000
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174000
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174000
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174000
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174000
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174000
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174000
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174000
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174000
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174000
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174000
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174000
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174000
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174000
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174000
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174000
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174000
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174000
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174000
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174000
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174000
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174000
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174000
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174000
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174000
+OBX||NM|4511^Measured^Output Flow||22.46|lpm||||||||20250208174000
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174000
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174000
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174000
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174000
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174000
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174000
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174000
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174000
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174000
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174000
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174000
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174000~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174000||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174100
+OBR|||||||20250208174100
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174100
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174100
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174100
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174100
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174100
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174100
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174100
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174100
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174100
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174100
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174100
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174100
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174100
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174100
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174100
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174100
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174100
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174100
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174100
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174100
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174100
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174100
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174100
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174100
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174100
+OBX||NM|4511^Measured^Output Flow||39.6|lpm||||||||20250208174100
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174100
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174100
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174100
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174100
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174100
+OBX||NM|4519^Measured^RC insp||1692|ms||||||||20250208174100
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174100
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174100
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174100
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174100~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174100||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174100
+OBR|||||||20250208174100
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174100
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174100
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174100
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174100
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174100
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174100
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174100
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174100
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174100
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174100
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174100
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174100
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174100
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174100
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174100
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174100
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174100
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174100
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174100
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174100
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174100
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174100
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174100
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174100
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174100
+OBX||NM|4511^Measured^Output Flow||27.20|lpm||||||||20250208174100
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174100
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174100
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174100
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174100
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174100
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174100
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174100
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174100
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174100
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174100~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174100||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174100
+OBR|||||||20250208174100
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174100
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174100
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174100
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174100
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174100
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174100
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174100
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174100
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174100
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174100
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174100
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174100
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174100
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174100
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174100
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174100
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174100
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174100
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174100
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174100
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174100
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174100
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174100
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174100
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174100
+OBX||NM|4511^Measured^Output Flow||21.87|lpm||||||||20250208174100
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174100
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174100
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174100
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174100
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174100
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174100
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174100
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174100
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174100
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174100~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174100||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174100
+OBR|||||||20250208174100
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174100
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174100
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174100
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174100
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174100
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174100
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174100
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174100
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174100
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174100
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174100
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174100
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174100
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174100
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174100
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174100
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174100
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174100
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174100
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174100
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174100
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174100
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174100
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174100
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174100
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174100
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174100
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174100
+OBX||NM|4511^Measured^Output Flow||32.55|lpm||||||||20250208174100
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174100
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174100
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174100
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174100
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174100
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174100
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174100
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174100
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174100
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174100
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174100~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174200||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174200
+OBR|||||||20250208174200
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174200
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174200
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174200
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174200
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174200
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174200
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174200
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174200
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174200
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174200
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174200
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174200
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174200
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174200
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174200
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174200
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174200
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174200
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174200
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174200
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174200
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174200
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174200
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174200
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174200
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174200
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174200
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174200
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174200
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174200
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174200
+OBX||NM|4511^Measured^Output Flow||22.54|lpm||||||||20250208174200
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174200
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174200
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174200
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174200
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174200
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174200
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174200
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174200
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174200
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174200
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174200
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174200~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174200||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174200
+OBR|||||||20250208174200
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174200
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174200
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174200
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174200
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174200
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174200
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174200
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174200
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174200
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174200
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174200
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174200
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174200
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174200
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174200
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174200
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174200
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174200
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174200
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174200
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174200
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174200
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174200
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174200
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174200
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174200
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174200
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174200
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174200
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174200
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174200
+OBX||NM|4511^Measured^Output Flow||22.7|lpm||||||||20250208174200
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174200
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174200
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174200
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174200
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174200
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174200
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174200
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174200
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174200
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174200
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174200
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174200~MSH|^~\&|VIHA_DV10+^RND@test||||20250208174200||ORU^RO1|||2.6
+PID|||12345||qwe||20241211|MALE
+PV1||I||||||||||||||||Neonatal||||||||||||||||||||||||||20250208174200
+OBR|||||||20250208174200
+OBX||NM|4001^Setting^Pinsp||16|cmH2O||||||||20250208174200
+OBX||NM|4002^Setting^PEEP||5|cmH2O||||||||20250208174200
+OBX||NM|4003^Setting^Pmax||50|cmH2O||||||||20250208174200
+OBX||NM|4004^Setting^PS above PEEP||0|cmH2O||||||||20250208174200
+OBX||NM|4005^Setting^PS above PIP||0|cmH2O||||||||20250208174200
+OBX||NM|4006^Setting^Vt||0|ml||||||||20250208174200
+OBX||NM|4007^Setting^RR||40|bpm||||||||20250208174200
+OBX||NM|4008^Setting^Tinsp||0.400|sec||||||||20250208174200
+OBX||NM|4009^Setting^Texp||1.100|sec||||||||20250208174200
+OBX||NM|4010^Setting^Fio2||21|%||||||||20250208174200
+OBX||NM|4011^Setting^Flow||0.0|lpm||||||||20250208174200
+OBX||NM|4012^Setting^Max PRVC||0|cmH2O||||||||20250208174200
+OBX||NM|4013^Setting^Min PRVC||0|cmH2O||||||||20250208174200
+OBX||NM|4014^Setting^Rise Time||100|msec||||||||20250208174200
+OBX||NM|4015^Setting^Pressure Trigger||0.0|cmH20||||||||20250208174200
+OBX||NM|4016^Setting^Flow Trigger||2.0|lpm||||||||20250208174200
+OBX||NM|4017^Setting^Flow Cycle Trigger||0|%||||||||20250208174200
+OBX||NM|4018^Setting^Inspiratory Pause||0|%||||||||20250208174200
+OBX||NM|4019^Setting^Apnea Time||10|sec||||||||20250208174200
+OBX||CWE|4020^Setting^TreatmentMode||PC-CMV|-||||||||20250208174200
+OBX||CWE|4021^Setting^I:E-Ratio||0.4:2.0|-||||||||20250208174200
+OBX||NM|4501^Measured^PIP||16|cmH2O||||||||20250208174200
+OBX||NM|4502^Measured^PEEP||5|cmH2O||||||||20250208174200
+OBX||NM|4503^Measured^Pplat||16|cmH2O||||||||20250208174200
+OBX||NM|4504^Measured^Pmean||8|cmH2O||||||||20250208174200
+OBX||NM|4505^Measured^Vti||0|ml||||||||20250208174200
+OBX||NM|4506^Measured^Vte||0|ml||||||||20250208174200
+OBX||NM|4507^Measured^RR||40|bpm||||||||20250208174200
+OBX||NM|4508^Measured^Tinsp||0.400|sec||||||||20250208174200
+OBX||NM|4509^Measured^Texp||1.98|sec||||||||20250208174200
+OBX||NM|4510^Measured^FiO2||21|%||||||||20250208174200
+OBX||NM|4511^Measured^Output Flow||23.25|lpm||||||||20250208174200
+OBX||NM|4512^Measured^Mvi||0.0|lpm||||||||20250208174200
+OBX||NM|4513^Measured^Mve||0.0|lpm||||||||20250208174200
+OBX||NM|4514^Measured^Cst||100.0|ml/cmH2O||||||||20250208174200
+OBX||NM|4515^Measured^Cdy||0.0|ml/cmH2O||||||||20250208174200
+OBX||NM|4516^Measured^Rlung||0.0|cmH2O/L/s||||||||20250208174200
+OBX||NM|4517^Measured^RSBI||0|bpm/L||||||||20250208174200
+OBX||NM|4518^Measured^Vleak||0|ml||||||||20250208174200
+OBX||NM|4519^Measured^RC insp||0|ms||||||||20250208174200
+OBX||NM|4520^Measured^RC exp||0|ms||||||||20250208174200
+OBX||CWE|4521^Measured^I:E-Ratio||1.0:2.7|-||||||||20250208174200
+OBX||CWE|4805^Alarm^High||MVe Low|-||||||||20250208174200
+OBX||CWE|4815^Alarm^High||FiO2 Low|-||||||||20250208174200~

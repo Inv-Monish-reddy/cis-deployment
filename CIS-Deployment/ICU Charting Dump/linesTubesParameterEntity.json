@@ -1,0 +1,279 @@
+[{
+  "_id": {
+    "$oid": "685270c41735bb266d18a32e"
+  },
+  "patientId": "68517a941da8595c64b3b419",
+  "selectType": "Arterial Line",
+  "selectSite": "",
+  "size": "20 mm",
+  "inserationDate": {
+    "$date": "2025-06-17T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-06-18T14:25:00.000Z"
+  },
+  "removalDate": {
+    "$date": "2025-06-18T00:00:00.000Z"
+  },
+  "removalTime": {
+    "$date": "2025-06-18T13:24:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68ca7fca15900a7c624669f1"
+  },
+  "patientId": "68c90be31da85950dc3042f7",
+  "selectType": "CENTRAL VENOUS CATHETER",
+  "selectSite": "LT. FEMORAL V.",
+  "size": "23 mm",
+  "inserationDate": {
+    "$date": "2025-09-17T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-09-17T05:55:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68db79b1533cec40325f8744"
+  },
+  "patientId": "68db78261da85904e02f52fc",
+  "selectType": "CENTRAL VENOUS CATHETER",
+  "selectSite": "Left Jugular",
+  "size": "20 mm",
+  "inserationDate": {
+    "$date": "2025-09-25T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-09-30T09:00:00.000Z"
+  },
+  "removalDate": {
+    "$date": "2025-09-30T00:00:00.000Z"
+  },
+  "removalTime": {
+    "$date": "2025-09-30T12:03:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68db79e3533cec40325f8745"
+  },
+  "patientId": "68db78261da85904e02f52fc",
+  "selectType": "PERIPHERAL VENOUS LINE",
+  "selectSite": "RT. IJV",
+  "size": "12",
+  "inserationDate": {
+    "$date": "2025-09-29T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-09-30T07:06:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68e399590c7a9727b5a1b69b"
+  },
+  "patientId": "68db78261da85904e02f52fc",
+  "selectType": "FEEDING JEJUNOSTOMY TUBE",
+  "selectSite": "Left Jugular",
+  "size": "20mm",
+  "inserationDate": {
+    "$date": "2025-10-06T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-10-06T15:56:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68e5f3970c7a9727b5a1b6d2"
+  },
+  "patientId": "68db78261da85904e02f52fc",
+  "selectType": "Arterial Line",
+  "selectSite": "LT. IJV",
+  "size": "20mm",
+  "inserationDate": {
+    "$date": "2025-10-07T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-10-08T10:45:00.000Z"
+  },
+  "removalDate": {
+    "$date": "2025-10-08T00:00:00.000Z"
+  },
+  "removalTime": {
+    "$date": "2025-10-08T10:45:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68e60a910c7a9727b5a1b6d9"
+  },
+  "patientId": "68db78261da85904e02f52fc",
+  "selectType": "Arterial Line",
+  "selectSite": "LT. FEMORAL V.",
+  "size": "20",
+  "inserationDate": {
+    "$date": "2025-10-08T00:00:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68edee820ca4667abc259c85"
+  },
+  "patientId": "68ecf3701da85934503d73c9",
+  "selectType": "Arterial Line",
+  "selectSite": "Left Jugular",
+  "size": "20",
+  "inserationDate": {
+    "$date": "2025-10-13T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-10-14T12:02:00.000Z"
+  },
+  "removalDate": {
+    "$date": "2025-10-14T00:00:00.000Z"
+  },
+  "removalTime": {
+    "$date": "2025-10-14T12:02:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68efccfd0ca4667abc259cce"
+  },
+  "patientId": "68ecf3701da85934503d73c9",
+  "selectType": "PERIPHERAL VENOUS LINE",
+  "selectSite": "LT. IJV",
+  "size": "",
+  "inserationDate": {
+    "$date": "2025-10-02T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68f1c489fbbfc357e8446cd0"
+  },
+  "patientId": "68ecf3701da85934503d73c9",
+  "selectType": "CENTRAL VENOUS CATHETER",
+  "selectSite": "Left Jugular",
+  "size": "20mm",
+  "inserationDate": {
+    "$date": "2025-10-16T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-10-17T04:46:00.000Z"
+  },
+  "removalDate": {
+    "$date": "2025-10-17T00:00:00.000Z"
+  },
+  "removalTime": {
+    "$date": "2025-10-17T09:52:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "68fa1ab931bc685ffd055826"
+  },
+  "patientId": "68ecf3701da85934503d73c9",
+  "selectType": "CENTRAL VENOUS CATHETER",
+  "selectSite": "",
+  "size": "",
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "6901eb2b31bc685ffd0558f9"
+  },
+  "patientId": "68ecf3701da85934503d73c9",
+  "selectType": "Laryngeal Tube",
+  "selectSite": "Larynx",
+  "size": "30mm",
+  "inserationDate": {
+    "$date": "2025-10-29T00:00:00.000Z"
+  },
+  "insertionTime": {
+    "$date": "2025-10-29T14:55:00.000Z"
+  },
+  "removalDate": {
+    "$date": "2025-10-29T00:00:00.000Z"
+  },
+  "removalTime": {
+    "$date": "2025-10-29T15:53:00.000Z"
+  },
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "691adf5e444a92166de11a20"
+  },
+  "patientId": "690f3345e5fedd5a0430e351",
+  "selectType": "",
+  "selectSite": "Left Jugular",
+  "size": "",
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "691adf61444a92166de11a21"
+  },
+  "patientId": "690f3345e5fedd5a0430e351",
+  "selectType": "",
+  "selectSite": "RT. IJV",
+  "size": "",
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "691adf67444a92166de11a22"
+  },
+  "patientId": "690f3345e5fedd5a0430e351",
+  "selectType": "",
+  "selectSite": "LT. IJV",
+  "size": "",
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "691adf6b444a92166de11a23"
+  },
+  "patientId": "690f3345e5fedd5a0430e351",
+  "selectType": "",
+  "selectSite": "RT. SUBCLAVIAN V.",
+  "size": "",
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "691adf70444a92166de11a24"
+  },
+  "patientId": "690f3345e5fedd5a0430e351",
+  "selectType": "",
+  "selectSite": "LT. SUBCLAVIAN V.",
+  "size": "",
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+},
+{
+  "_id": {
+    "$oid": "691adf78444a92166de11a25"
+  },
+  "patientId": "690f3345e5fedd5a0430e351",
+  "selectType": "",
+  "selectSite": "RT. FEMORAL V.",
+  "size": "",
+  "_class": "com.dragger.cis.DragerCISBackend.linesandtubes.entity.LinesTubesParameterEntity"
+}]
