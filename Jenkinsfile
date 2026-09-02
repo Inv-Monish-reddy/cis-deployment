@@ -24,6 +24,8 @@ pipeline {
         IMAGE_TAG           = "${BUILD_VERSION}-${GIT_COMMIT_SHORT}"
         LOCAL_ARTIFACTS_PATH = '/opt/deployment/CIS-Deployment'
         PATH                   = '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+        JAVA_HOME              = '/opt/java/openjdk'
+        DOCKER_BIN             = '/usr/local/bin/docker'
     }
 
     options {
@@ -90,6 +92,9 @@ pipeline {
                 withSonarQubeEnv('cis-deployment') {
                     withCredentials([string(credentialsId: 'sonarqube-token-CIS', variable: 'SONAR_TOKEN')]) {
                         sh '''
+                            export JAVA_HOME=/opt/java/openjdk
+                            export PATH=$JAVA_HOME/bin:$PATH
+                            java -version
                             sonar-scanner \
                               -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
                               -Dsonar.projectName="${SONAR_PROJECT_NAME}" \
@@ -113,8 +118,9 @@ pipeline {
             steps {
                 sh '''
                     set -e
-                    command -v docker >/dev/null 2>&1 || command -v /usr/bin/docker >/dev/null 2>&1 || { echo "ERROR: docker not found. Rebuild Jenkins: cd /opt/dependencies/jenkins && docker compose up -d --build"; exit 1; }
-                    DOCKER_BIN=$(command -v docker || echo /usr/bin/docker)
+                    DOCKER_BIN=/usr/local/bin/docker
+                    test -x "$DOCKER_BIN" || DOCKER_BIN=$(command -v docker)
+                    test -x "$DOCKER_BIN" || { echo "ERROR: docker not found. Rebuild Jenkins with --no-cache"; exit 1; }
                     cd CIS-Deployment
 
                     $DOCKER_BIN build -t ${REGISTRY}/${IMAGE_BACKEND}:${IMAGE_TAG} \
@@ -149,7 +155,8 @@ pipeline {
                 )]) {
                     sh '''
                         set -e
-                        DOCKER_BIN=$(command -v docker || echo /usr/bin/docker)
+                        DOCKER_BIN=/usr/local/bin/docker
+                        test -x "$DOCKER_BIN" || DOCKER_BIN=$(command -v docker)
                         echo "$NEXUS_PASS" | $DOCKER_BIN login ${REGISTRY} -u "$NEXUS_USER" --password-stdin
 
                         for IMAGE in ${IMAGE_BACKEND} ${IMAGE_CONNECT} ${IMAGE_VISUALIZATION} ${IMAGE_SIMULATION} ${IMAGE_NGINX}; do
@@ -193,7 +200,7 @@ Images:
             echo "Pipeline failed. Check SonarQube quality gate or Docker build logs."
         }
         always {
-            sh '/usr/bin/docker image prune -f || true'
+            sh '/usr/local/bin/docker image prune -f || true'
         }
     }
 }
