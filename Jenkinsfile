@@ -93,11 +93,17 @@ pipeline {
                     withCredentials([string(credentialsId: 'sonarqube-token-CIS', variable: 'SONAR_TOKEN')]) {
                         sh '''
                             export JAVA_HOME=/opt/java/openjdk
-                            export SONAR_SCANNER_JAVA_HOME=/opt/java/openjdk
                             export PATH=$JAVA_HOME/bin:$PATH
+
+                            # sonar-scanner launcher needs a jre/ folder - point it to Jenkins JDK 21
+                            SCANNER_HOME=/opt/sonar-scanner-5.0.1.3006-linux
+                            if [ ! -x "$SCANNER_HOME/jre/bin/java" ]; then
+                                rm -rf "$SCANNER_HOME/jre"
+                                ln -sf /opt/java/openjdk "$SCANNER_HOME/jre"
+                            fi
+
                             java -version
                             sonar-scanner \
-                              -Dsonar.scanner.javaExePath=/opt/java/openjdk/bin/java \
                               -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
                               -Dsonar.projectName="${SONAR_PROJECT_NAME}" \
                               -Dsonar.host.url=${SONAR_HOST} \
