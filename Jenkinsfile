@@ -23,6 +23,7 @@ pipeline {
         GIT_COMMIT_SHORT    = "${env.GIT_COMMIT?.take(7) ?: 'local'}"
         IMAGE_TAG           = "${BUILD_VERSION}-${GIT_COMMIT_SHORT}"
         LOCAL_ARTIFACTS_PATH = '/opt/deployment/CIS-Deployment'
+        PATH                   = '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
     }
 
     options {
@@ -86,13 +87,16 @@ pipeline {
 
         stage('SonarQube Analysis') {
             steps {
-                withSonarQubeEnv('SonarQube') {
-                    sh '''
-                        sonar-scanner \
-                          -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
-                          -Dsonar.projectName="${SONAR_PROJECT_NAME}" \
-                          -Dsonar.host.url=${SONAR_HOST}
-                    '''
+                withSonarQubeEnv('cis-deployment') {
+                    withCredentials([string(credentialsId: 'sonarqube-token-CIS', variable: 'SONAR_TOKEN')]) {
+                        sh '''
+                            sonar-scanner \
+                              -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
+                              -Dsonar.projectName="${SONAR_PROJECT_NAME}" \
+                              -Dsonar.host.url=${SONAR_HOST} \
+                              -Dsonar.token=${SONAR_TOKEN}
+                        '''
+                    }
                 }
             }
         }
@@ -109,26 +113,27 @@ pipeline {
             steps {
                 sh '''
                     set -e
-                    command -v docker >/dev/null || { echo "ERROR: docker not found in Jenkins container. Rebuild with ci/jenkins/Dockerfile"; exit 1; }
+                    command -v docker >/dev/null 2>&1 || command -v /usr/bin/docker >/dev/null 2>&1 || { echo "ERROR: docker not found. Rebuild Jenkins: cd /opt/dependencies/jenkins && docker compose up -d --build"; exit 1; }
+                    DOCKER_BIN=$(command -v docker || echo /usr/bin/docker)
                     cd CIS-Deployment
 
-                    docker build -t ${REGISTRY}/${IMAGE_BACKEND}:${IMAGE_TAG} \
+                    $DOCKER_BIN build -t ${REGISTRY}/${IMAGE_BACKEND}:${IMAGE_TAG} \
                                  -t ${REGISTRY}/${IMAGE_BACKEND}:latest \
                                  ./cisBackend
 
-                    docker build -t ${REGISTRY}/${IMAGE_CONNECT}:${IMAGE_TAG} \
+                    $DOCKER_BIN build -t ${REGISTRY}/${IMAGE_CONNECT}:${IMAGE_TAG} \
                                  -t ${REGISTRY}/${IMAGE_CONNECT}:latest \
                                  ./connectEngine
 
-                    docker build -t ${REGISTRY}/${IMAGE_VISUALIZATION}:${IMAGE_TAG} \
+                    $DOCKER_BIN build -t ${REGISTRY}/${IMAGE_VISUALIZATION}:${IMAGE_TAG} \
                                  -t ${REGISTRY}/${IMAGE_VISUALIZATION}:latest \
                                  ./visualizationEngine
 
-                    docker build -t ${REGISTRY}/${IMAGE_SIMULATION}:${IMAGE_TAG} \
+                    $DOCKER_BIN build -t ${REGISTRY}/${IMAGE_SIMULATION}:${IMAGE_TAG} \
                                  -t ${REGISTRY}/${IMAGE_SIMULATION}:latest \
                                  ./deviceSimulation
 
-                    docker build -t ${REGISTRY}/${IMAGE_NGINX}:${IMAGE_TAG} \
+                    $DOCKER_BIN build -t ${REGISTRY}/${IMAGE_NGINX}:${IMAGE_TAG} \
                                  -t ${REGISTRY}/${IMAGE_NGINX}:latest \
                                  -f nginx/Dockerfile.ci ./nginx
                 '''
@@ -144,14 +149,15 @@ pipeline {
                 )]) {
                     sh '''
                         set -e
-                        echo "$NEXUS_PASS" | docker login ${REGISTRY} -u "$NEXUS_USER" --password-stdin
+                        DOCKER_BIN=$(command -v docker || echo /usr/bin/docker)
+                        echo "$NEXUS_PASS" | $DOCKER_BIN login ${REGISTRY} -u "$NEXUS_USER" --password-stdin
 
                         for IMAGE in ${IMAGE_BACKEND} ${IMAGE_CONNECT} ${IMAGE_VISUALIZATION} ${IMAGE_SIMULATION} ${IMAGE_NGINX}; do
-                            docker push ${REGISTRY}/${IMAGE}:${IMAGE_TAG}
-                            docker push ${REGISTRY}/${IMAGE}:latest
+                            $DOCKER_BIN push ${REGISTRY}/${IMAGE}:${IMAGE_TAG}
+                            $DOCKER_BIN push ${REGISTRY}/${IMAGE}:latest
                         done
 
-                        docker logout ${REGISTRY}
+                        $DOCKER_BIN logout ${REGISTRY}
                     '''
                 }
             }
@@ -187,9 +193,7 @@ Images:
             echo "Pipeline failed. Check SonarQube quality gate or Docker build logs."
         }
         always {
-            sh '''
-                docker image prune -f || true
-            '''
+            sh '/usr/bin/docker image prune -f || true'
         }
     }
 }
