@@ -44,29 +44,29 @@ pipeline {
 
         stage('Prepare Artifacts') {
             steps {
-                sh '''
+                sh """
                     set -e
-                    JAR_BACKEND="CIS-Deployment/cisBackend/DragerCISBackend-0.0.1-SNAPSHOT.jar"
-                    if [ ! -f "$JAR_BACKEND" ]; then
+                    LOCAL_PATH='${LOCAL_ARTIFACTS_PATH}'
+                    JAR_BACKEND='CIS-Deployment/cisBackend/DragerCISBackend-0.0.1-SNAPSHOT.jar'
+
+                    if [ ! -f "\$JAR_BACKEND" ]; then
                         echo "JARs not in Git checkout - copying from local server path..."
-                        if [ ! -d "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment" ]; then
-                            echo "ERROR: Local artifacts not found at ${LOCAL_ARTIFACTS_PATH}"
+                        if [ ! -d "\$LOCAL_PATH/CIS-Deployment" ]; then
+                            echo "ERROR: Local artifacts not found at \$LOCAL_PATH"
                             exit 1
                         fi
-                        cp -f "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment/cisBackend/"*.jar CIS-Deployment/cisBackend/ 2>/dev/null || true
-                        cp -f "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment/connectEngine/"*.jar CIS-Deployment/connectEngine/ 2>/dev/null || true
-                        cp -f "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment/visualizationEngine/"*.jar CIS-Deployment/visualizationEngine/ 2>/dev/null || true
-                        cp -f "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment/deviceSimulation/"*.jar CIS-Deployment/deviceSimulation/ 2>/dev/null || true
-                        if [ -d "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment/connectEngine/driverJarsDump" ]; then
-                            mkdir -p CIS-Deployment/connectEngine/driverJarsDump
-                            cp -f "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment/connectEngine/driverJarsDump/"*.jar CIS-Deployment/connectEngine/driverJarsDump/ 2>/dev/null || true
-                            cp -f "${LOCAL_ARTIFACTS_PATH}/CIS-Deployment/connectEngine/driverJarsDump/drivers.xml CIS-Deployment/connectEngine/driverJarsDump/ 2>/dev/null || true
-                        fi
-                        echo "JAR files copied from ${LOCAL_ARTIFACTS_PATH}"
+                        mkdir -p CIS-Deployment/cisBackend CIS-Deployment/connectEngine CIS-Deployment/visualizationEngine CIS-Deployment/deviceSimulation CIS-Deployment/connectEngine/driverJarsDump
+                        cp -f "\$LOCAL_PATH/CIS-Deployment/cisBackend/"*.jar CIS-Deployment/cisBackend/ 2>/dev/null || true
+                        cp -f "\$LOCAL_PATH/CIS-Deployment/connectEngine/"*.jar CIS-Deployment/connectEngine/ 2>/dev/null || true
+                        cp -f "\$LOCAL_PATH/CIS-Deployment/visualizationEngine/"*.jar CIS-Deployment/visualizationEngine/ 2>/dev/null || true
+                        cp -f "\$LOCAL_PATH/CIS-Deployment/deviceSimulation/"*.jar CIS-Deployment/deviceSimulation/ 2>/dev/null || true
+                        cp -f "\$LOCAL_PATH/CIS-Deployment/connectEngine/driverJarsDump/"*.jar CIS-Deployment/connectEngine/driverJarsDump/ 2>/dev/null || true
+                        cp -f "\$LOCAL_PATH/CIS-Deployment/connectEngine/driverJarsDump/drivers.xml" CIS-Deployment/connectEngine/driverJarsDump/ 2>/dev/null || true
+                        echo "JAR files copied from \$LOCAL_PATH"
                     else
                         echo "JAR files already present in workspace"
                     fi
-                '''
+                """
             }
         }
 
@@ -109,6 +109,7 @@ pipeline {
             steps {
                 sh '''
                     set -e
+                    command -v docker >/dev/null || { echo "ERROR: docker not found in Jenkins container. Rebuild with ci/jenkins/Dockerfile"; exit 1; }
                     cd CIS-Deployment
 
                     docker build -t ${REGISTRY}/${IMAGE_BACKEND}:${IMAGE_TAG} \
