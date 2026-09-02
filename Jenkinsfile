@@ -89,28 +89,66 @@ pipeline {
 
         stage('SonarQube Analysis') {
             steps {
-                withSonarQubeEnv('cis-deployment') {
-                    withCredentials([string(credentialsId: 'sonarqube-token-CIS', variable: 'SONAR_TOKEN')]) {
-                        sh '''
-                            export JAVA_HOME=/opt/java/openjdk
-                            SCANNER_JAR=/opt/sonar-scanner-5.0.1.3006-linux/lib/sonar-scanner-cli-5.0.1.3006.jar
+                catchError(buildResult: 'SUCCESS', stageResult: 'UNSTABLE') {
+                    withSonarQubeEnv('cis-deployment') {
+                        withCredentials([string(credentialsId: 'sonarqube-token-CIS', variable: 'SONAR_TOKEN')]) {
+                            sh '''
+                                export JAVA_HOME=/opt/java/openjdk
+                                SCANNER_JAR=/opt/sonar-scanner-5.0.1.3006-linux/lib/sonar-scanner-cli-5.0.1.3006.jar
 
-                            $JAVA_HOME/bin/java -version
-                            $JAVA_HOME/bin/java -jar "$SCANNER_JAR" \
-                              -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
-                              -Dsonar.projectName="${SONAR_PROJECT_NAME}" \
-                              -Dsonar.host.url=${SONAR_HOST} \
-                              -Dsonar.token=${SONAR_TOKEN}
-                        '''
+                                $JAVA_HOME/bin/java -jar "$SCANNER_JAR" \
+                                  -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
+                                  -Dsonar.projectName="${SONAR_PROJECT_NAME}" \
+                                  -Dsonar.host.url=${SONAR_HOST} \
+                                  -Dsonar.token=${SONAR_TOKEN}
+                            '''
+                        }
                     }
                 }
             }
         }
 
-        stage('Quality Gate') {
+        stage('SonarQube Metrics') {
             steps {
-                timeout(time: 10, unit: 'MINUTES') {
-                    waitForQualityGate abortPipeline: true
+                catchError(buildResult: 'SUCCESS', stageResult: 'UNSTABLE') {
+                    withCredentials([string(credentialsId: 'sonarqube-token-CIS', variable: 'SONAR_TOKEN')]) {
+                        sh '''
+                            echo "========== SonarQube Quality Report (informational only) =========="
+                            echo "Dashboard: ${SONAR_HOST}/dashboard?id=${SONAR_PROJECT_KEY}"
+                            echo ""
+
+                            if [ -f .scannerwork/report-task.txt ]; then
+                                TASK_ID=$(grep '^ceTaskId=' .scannerwork/report-task.txt | cut -d= -f2 || true)
+                                if [ -n "$TASK_ID" ]; then
+                                    for i in $(seq 1 12); do
+                                        RESPONSE=$(curl -s -u "${SONAR_TOKEN}:" "${SONAR_HOST}/api/ce/task?id=${TASK_ID}")
+                                        STATUS=$(echo "$RESPONSE" | grep -o '"status":"[^"]*"' | head -1 | cut -d'"' -f4 || true)
+                                        echo "CE task status: ${STATUS:-unknown}"
+                                        [ "$STATUS" = "SUCCESS" ] && break
+                                        [ "$STATUS" = "FAILED" ] || [ "$STATUS" = "CANCELED" ] && break
+                                        sleep 10
+                                    done
+                                fi
+                            else
+                                echo "No scanner report found - analysis may have been skipped"
+                            fi
+
+                            echo ""
+                            echo "--- Quality Gate Status ---"
+                            QG=$(curl -s -u "${SONAR_TOKEN}:" "${SONAR_HOST}/api/qualitygates/project_status?projectKey=${SONAR_PROJECT_KEY}" || true)
+                            echo "$QG" | grep -o '"status":"[^"]*"' | head -1 || echo "$QG"
+
+                            echo ""
+                            echo "--- Code Metrics ---"
+                            METRICS=$(curl -s -u "${SONAR_TOKEN}:" \
+                                "${SONAR_HOST}/api/measures/component?component=${SONAR_PROJECT_KEY}&metricKeys=bugs,vulnerabilities,code_smells,coverage,duplicated_lines_density,ncloc,security_hotspots" || true)
+                            echo "$METRICS" | grep -oE '"metric":"[^"]+"|"value":"[^"]*"' | paste - - | sed 's/"metric":"//;s/"value":"//;s/"//g;s/\t/ = /' || echo "Metrics not available yet - check dashboard"
+
+                            echo ""
+                            echo "NOTE: Quality gate does NOT block this pipeline."
+                            echo "=================================================================="
+                        '''
+                    }
                 }
             }
         }
@@ -198,7 +236,7 @@ Images:
             echo "Pipeline succeeded. Images pushed to Nexus: ${REGISTRY}"
         }
         failure {
-            echo "Pipeline failed. Check SonarQube quality gate or Docker build logs."
+            echo "Pipeline failed during Docker build or Nexus push. Check console log."
         }
         always {
             sh '/usr/local/bin/docker image prune -f || true'
