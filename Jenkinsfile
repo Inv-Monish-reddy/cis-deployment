@@ -93,9 +93,11 @@ pipeline {
                     withCredentials([string(credentialsId: 'sonarqube-token-CIS', variable: 'SONAR_TOKEN')]) {
                         sh '''
                             export JAVA_HOME=/opt/java/openjdk
+                            export SONAR_SCANNER_JAVA_HOME=/opt/java/openjdk
                             export PATH=$JAVA_HOME/bin:$PATH
                             java -version
                             sonar-scanner \
+                              -Dsonar.scanner.javaExePath=/opt/java/openjdk/bin/java \
                               -Dsonar.projectKey=${SONAR_PROJECT_KEY} \
                               -Dsonar.projectName="${SONAR_PROJECT_NAME}" \
                               -Dsonar.host.url=${SONAR_HOST} \
